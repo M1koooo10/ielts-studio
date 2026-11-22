@@ -1,0 +1,28 @@
+"use client";
+import {useEffect,useRef,useState} from "react";import {useRouter} from "next/navigation";import Image from "next/image";import type {Exercise} from "@/server/content/practice";import {VoiceAnswer} from "./VoiceAnswer";
+export function ExerciseView({work}:{work:Exercise}){
+ const [answers,setAnswers]=useState<Record<string,string>>(()=>Object.fromEntries(work.questions.map(q=>[q.id,q.answer]))),[essay,setEssay]=useState(work.essay),[part,setPart]=useState(0),[message,setMessage]=useState(""),[busy,setBusy]=useState(false),[audioBusy,setAudioBusy]=useState(false),[playhead,setPlayhead]=useState(0);
+ const queue=useRef(Promise.resolve(true)),timer=useRef<ReturnType<typeof setTimeout>|null>(null),player=useRef<HTMLAudioElement>(null),router=useRouter();const section=work.sections[part];
+ useEffect(()=>()=>{if(timer.current)clearTimeout(timer.current)},[]);
+ function persist(ans:Record<string,string>,body:string,submit:boolean){
+   const op=async()=>{try{const result=await fetch("/api/practice/"+work.id,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({answers:ans,essay:body,submit})});if(!result.ok){setMessage((await result.json()).error??"Ошибка сохранения.");return false}setMessage(submit?"Занятие завершено.":"Черновик сохранён.");return true}catch{setMessage("Нет связи с сервером. Нажмите «Сохранить».");return false}};
+   queue.current=queue.current.then(op,op);return queue.current;
+ }
+ function schedule(ans:Record<string,string>,body:string){if(timer.current)clearTimeout(timer.current);setMessage("Сохранение…");timer.current=setTimeout(()=>{void persist(ans,body,false)},450)}
+ async function save(submit:boolean){if(timer.current)clearTimeout(timer.current);setBusy(true);const ok=await persist(answers,essay,submit);if(ok&&submit)router.refresh();setBusy(false)}
+ const correct=work.questions.filter(q=>q.review?.correct).length;const spoken=work.skill==="speaking",written=work.skill==="writing";
+ return <><div className="page-heading"><div><h1 lang="en">{work.title}</h1><p>{work.finished?"Завершённая попытка":"Практика"} · {work.cefr} · {work.minutes} мин</p></div></div>
+ {work.finished&&work.questions.length>0&&<div className="score-banner"><strong>{correct} / {work.questions.length}</strong><span>правильных ответов</span></div>}
+ {work.sections.length>1&&<nav aria-label="Части занятия" className="work-actions">{work.sections.map((s,i)=><button key={s.id} className={"studio-button "+(part===i?"btn-blue":"btn-outline")} onClick={()=>{setPart(i);setPlayhead(0)}}>Часть {i+1}</button>)}</nav>}
+ <div className="exercise-grid"><section className="panel exercise-source"><h2 lang="en">{section.title}</h2><p lang="en" className="empty-copy">{work.instructions}</p>
+ {section.image&&<Image unoptimized src={section.image} width={800} height={470} alt={section.title} style={{width:"100%",height:"auto"}}/>}
+ {section.audio?<><audio ref={player} controls src={section.audio} onTimeUpdate={e=>setPlayhead(e.currentTarget.currentTime)}/><details><summary>Расшифровка</summary>{section.segments.map((seg,i)=><button className={"transcript-line "+(playhead>=seg.start&&playhead<seg.end?"current":"")} key={i} onClick={()=>{if(player.current){player.current.currentTime=seg.start;void player.current.play().catch(()=>setMessage("Не удалось воспроизвести аудио."))}}}>{Math.floor(seg.start/60)}:{String(Math.floor(seg.start%60)).padStart(2,"0")} · {seg.text}</button>)}</details></>:<div lang="en" className="passage-text">{section.body}</div>}</section>
+ <section className="panel exercise-answers"><h2>{work.finished?"Ваш результат":"Ваш ответ"}</h2>
+ {written&&<label className="essay-label">Текст работы<textarea lang="en" disabled={work.finished||busy} maxLength={40000} value={essay} onChange={e=>{setEssay(e.target.value);schedule(answers,e.target.value)}}/><span>{essay.trim()?essay.trim().split(/\s+/).length:0} слов</span></label>}
+ {spoken&&<VoiceAnswer id={work.id} prompt={section.body} recorded={work.recorded} finished={work.finished} onBusy={setAudioBusy}/>}
+ {work.questions.filter(q=>q.section===section.id).map(q=><div className="work-question" key={q.id}><label lang="en" htmlFor={"q-"+q.id}>{work.questions.indexOf(q)+1}. {q.prompt}</label>
+ {q.maxWords&&<small>Maximum {q.maxWords} word(s).</small>}
+ {q.options.length?<select id={"q-"+q.id} disabled={work.finished||busy} value={answers[q.id]??""} onChange={e=>{const next={...answers,[q.id]:e.target.value};setAnswers(next);schedule(next,essay)}}><option value="">Выберите ответ</option>{q.options.map(x=><option key={x}>{x}</option>)}</select>:<input id={"q-"+q.id} disabled={work.finished||busy} maxLength={2000} value={answers[q.id]??""} onChange={e=>{const next={...answers,[q.id]:e.target.value};setAnswers(next);schedule(next,essay)}}/>}
+ {q.review&&<div className="answer-review"><strong>{q.review.correct?"Верно":"Правильный ответ: "+q.review.accepted.join(" / ")}</strong><p>{q.review.explanation}</p><blockquote>{q.review.evidence}</blockquote>{q.at!==null&&<button className="text-link" onClick={()=>{if(player.current){player.current.currentTime=q.at!;void player.current.play().catch(()=>setMessage("Нажмите воспроизведение."))}}}>Прослушать фрагмент</button>}</div>}</div>)}
+ {!work.finished&&<div className="work-actions"><button className="studio-button btn-outline" disabled={busy||audioBusy} onClick={()=>void save(false)}>Сохранить</button><button className="studio-button btn-blue" disabled={busy||audioBusy} onClick={()=>void save(true)}>Завершить занятие</button></div>}<p aria-live="polite" className="empty-copy">{message}</p></section></div></>
+}

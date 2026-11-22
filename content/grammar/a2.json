@@ -1,0 +1,1574 @@
+[
+  {
+    "slug": "grammar-a2-past-simple-events",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Past simple events",
+    "description": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму.",
+    "minutes": 12,
+    "topic": "Past simple events",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-past-simple-events-practice",
+        "title": "Past simple events",
+        "body": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms.\n\nДля последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму.\n\nExamples\n• We walked to the station yesterday.\n• She bought the final ticket last night.\n\nЧастая ошибка\nI buyed a pass → I bought a pass. Buy образует прошедшую форму bought.",
+        "questions": [
+          {
+            "id": "grammar-a2-past-simple-events-1",
+            "kind": "multiple-choice",
+            "prompt": "Yesterday the tour ___ at noon.",
+            "options": [
+              "begins",
+              "began"
+            ],
+            "accepted": [
+              "began"
+            ],
+            "explanation": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму. Пример: Yesterday the tour began at noon.",
+            "evidence": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms."
+          },
+          {
+            "id": "grammar-a2-past-simple-events-2",
+            "kind": "multiple-choice",
+            "prompt": "Last weekend I ___ both bags home.",
+            "options": [
+              "carried",
+              "carryed"
+            ],
+            "accepted": [
+              "carried"
+            ],
+            "explanation": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму. Пример: Last weekend I carried both bags home.",
+            "evidence": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms."
+          },
+          {
+            "id": "grammar-a2-past-simple-events-3",
+            "kind": "fill-blank",
+            "prompt": "We ___ the forms on Monday.  (Use one of these forms: sended / sent.)",
+            "options": [],
+            "accepted": [
+              "sent"
+            ],
+            "explanation": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму. Пример: We sent the forms on Monday.",
+            "evidence": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms."
+          },
+          {
+            "id": "grammar-a2-past-simple-events-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The guide stoped at the bridge yesterday.",
+              "The guide stopped at the bridge yesterday."
+            ],
+            "accepted": [
+              "The guide stopped at the bridge yesterday."
+            ],
+            "explanation": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму. Пример: The guide stopped at the bridge yesterday.",
+            "evidence": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms."
+          },
+          {
+            "id": "grammar-a2-past-simple-events-5",
+            "kind": "multiple-choice",
+            "prompt": "Dad ___ soup last night.",
+            "options": [
+              "made",
+              "maked"
+            ],
+            "accepted": [
+              "made"
+            ],
+            "explanation": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму. Пример: Dad made soup last night.",
+            "evidence": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms."
+          },
+          {
+            "id": "grammar-a2-past-simple-events-6",
+            "kind": "multiple-choice",
+            "prompt": "Our guests ___ for two days last May.",
+            "options": [
+              "stayd",
+              "stayed"
+            ],
+            "accepted": [
+              "stayed"
+            ],
+            "explanation": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму. Пример: Our guests stayed for two days last May.",
+            "evidence": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms."
+          },
+          {
+            "id": "grammar-a2-past-simple-events-7",
+            "kind": "fill-blank",
+            "prompt": "The runner ___ near the finish yesterday.  (Use one of these forms: falled / fell.)",
+            "options": [],
+            "accepted": [
+              "fell"
+            ],
+            "explanation": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму. Пример: The runner fell near the finish yesterday.",
+            "evidence": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms."
+          },
+          {
+            "id": "grammar-a2-past-simple-events-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "I caught the last train home.",
+              "I catched the last train home."
+            ],
+            "accepted": [
+              "I caught the last train home."
+            ],
+            "explanation": "Для последовательности завершённых событий с законченным временем используйте Past Simple. У правильных глаголов добавьте -ed, у неправильных выучите вторую форму. Пример: I caught the last train home.",
+            "evidence": "Regular verbs normally take -ed in affirmative past statements. Frequent irregular verbs use their own past forms."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-did-in-past-questions-and-negatives",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Did in past questions and negatives",
+    "description": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола.",
+    "minutes": 12,
+    "topic": "Did in past questions and negatives",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-did-in-past-questions-and-negatives-practice",
+        "title": "Did in past questions and negatives",
+        "body": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending.\n\nВ вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола.\n\nExamples\n• Did you hear the bell?\n• Our bus didn't stop at the museum.\n\nЧастая ошибка\nDid they went? → Did they go? После did форма went лишняя.",
+        "questions": [
+          {
+            "id": "grammar-a2-did-in-past-questions-and-negatives-1",
+            "kind": "multiple-choice",
+            "prompt": "Did Sara ___ the receipts?",
+            "options": [
+              "bring",
+              "brought"
+            ],
+            "accepted": [
+              "bring"
+            ],
+            "explanation": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола. Пример: Did Sara bring the receipts?",
+            "evidence": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending."
+          },
+          {
+            "id": "grammar-a2-did-in-past-questions-and-negatives-2",
+            "kind": "multiple-choice",
+            "prompt": "I didn't ___ your message.",
+            "options": [
+              "heard",
+              "hear"
+            ],
+            "accepted": [
+              "hear"
+            ],
+            "explanation": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола. Пример: I didn't hear your message.",
+            "evidence": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending."
+          },
+          {
+            "id": "grammar-a2-did-in-past-questions-and-negatives-3",
+            "kind": "fill-blank",
+            "prompt": "___ the lights go out last night?  (Use one of these forms: Did / Do.)",
+            "options": [],
+            "accepted": [
+              "Did"
+            ],
+            "explanation": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола. Пример: Did the lights go out last night?",
+            "evidence": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending."
+          },
+          {
+            "id": "grammar-a2-did-in-past-questions-and-negatives-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Where did Max find the key?",
+              "Where did Max found the key?"
+            ],
+            "accepted": [
+              "Where did Max find the key?"
+            ],
+            "explanation": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола. Пример: Where did Max find the key?",
+            "evidence": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending."
+          },
+          {
+            "id": "grammar-a2-did-in-past-questions-and-negatives-5",
+            "kind": "multiple-choice",
+            "prompt": "The guests did not ___ overnight.",
+            "options": [
+              "stayed",
+              "stay"
+            ],
+            "accepted": [
+              "stay"
+            ],
+            "explanation": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола. Пример: The guests did not stay overnight.",
+            "evidence": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending."
+          },
+          {
+            "id": "grammar-a2-did-in-past-questions-and-negatives-6",
+            "kind": "multiple-choice",
+            "prompt": "When did the train ___ yesterday?",
+            "options": [
+              "left",
+              "leave"
+            ],
+            "accepted": [
+              "leave"
+            ],
+            "explanation": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола. Пример: When did the train leave yesterday?",
+            "evidence": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending."
+          },
+          {
+            "id": "grammar-a2-did-in-past-questions-and-negatives-7",
+            "kind": "fill-blank",
+            "prompt": "We didn't ___ any bread.  (Use one of these forms: bought / buy.)",
+            "options": [],
+            "accepted": [
+              "buy"
+            ],
+            "explanation": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола. Пример: We didn't buy any bread.",
+            "evidence": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending."
+          },
+          {
+            "id": "grammar-a2-did-in-past-questions-and-negatives-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Did you wrote to the hotel last week?",
+              "Did you write to the hotel last week?"
+            ],
+            "accepted": [
+              "Did you write to the hotel last week?"
+            ],
+            "explanation": "В вопросе и отрицании признак прошедшего времени уже выражает did. Действие после него обозначается начальной формой глагола. Пример: Did you write to the hotel last week?",
+            "evidence": "Use did or didn't before the base form for past questions and negatives. A main verb with did has no past ending."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-going-to-for-intentions",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Going to for intentions",
+    "description": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола.",
+    "minutes": 12,
+    "topic": "Going to for intentions",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-going-to-for-intentions-practice",
+        "title": "Going to for intentions",
+        "body": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to.\n\nДля принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола.\n\nExamples\n• We are going to paint the kitchen this summer.\n• Is Leila going to join the club?\n\nЧастая ошибка\nHe going to apply → He is going to apply. В конструкции нужна форма be.",
+        "questions": [
+          {
+            "id": "grammar-a2-going-to-for-intentions-1",
+            "kind": "multiple-choice",
+            "prompt": "I have bought a map. I ___ to explore the valley.",
+            "options": [
+              "is going",
+              "am going"
+            ],
+            "accepted": [
+              "am going"
+            ],
+            "explanation": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола. Пример: I have bought a map. I am going to explore the valley.",
+            "evidence": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to."
+          },
+          {
+            "id": "grammar-a2-going-to-for-intentions-2",
+            "kind": "multiple-choice",
+            "prompt": "We are going to ___ relatives in May.",
+            "options": [
+              "visiting",
+              "visit"
+            ],
+            "accepted": [
+              "visit"
+            ],
+            "explanation": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола. Пример: We are going to visit relatives in May.",
+            "evidence": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to."
+          },
+          {
+            "id": "grammar-a2-going-to-for-intentions-3",
+            "kind": "fill-blank",
+            "prompt": "Is she ___ study abroad?  (Use one of these forms: goes to / going to.)",
+            "options": [],
+            "accepted": [
+              "going to"
+            ],
+            "explanation": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола. Пример: Is she going to study abroad?",
+            "evidence": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to."
+          },
+          {
+            "id": "grammar-a2-going-to-for-intentions-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "My friends is going to rent a flat.",
+              "My friends are going to rent a flat."
+            ],
+            "accepted": [
+              "My friends are going to rent a flat."
+            ],
+            "explanation": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола. Пример: My friends are going to rent a flat.",
+            "evidence": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to."
+          },
+          {
+            "id": "grammar-a2-going-to-for-intentions-5",
+            "kind": "multiple-choice",
+            "prompt": "I am not going to ___ my bike.",
+            "options": [
+              "sold",
+              "sell"
+            ],
+            "accepted": [
+              "sell"
+            ],
+            "explanation": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола. Пример: I am not going to sell my bike.",
+            "evidence": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to."
+          },
+          {
+            "id": "grammar-a2-going-to-for-intentions-6",
+            "kind": "multiple-choice",
+            "prompt": "Dad has the tickets. He ___ to watch the final.",
+            "options": [
+              "is going",
+              "are going"
+            ],
+            "accepted": [
+              "is going"
+            ],
+            "explanation": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола. Пример: Dad has the tickets. He is going to watch the final.",
+            "evidence": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to."
+          },
+          {
+            "id": "grammar-a2-going-to-for-intentions-7",
+            "kind": "fill-blank",
+            "prompt": "___ you going to travel by bus?  (Use one of these forms: Are / Is.)",
+            "options": [],
+            "accepted": [
+              "Are"
+            ],
+            "explanation": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола. Пример: Are you going to travel by bus?",
+            "evidence": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to."
+          },
+          {
+            "id": "grammar-a2-going-to-for-intentions-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "They're going to built a shed.",
+              "They're going to build a shed."
+            ],
+            "accepted": [
+              "They're going to build a shed."
+            ],
+            "explanation": "Для принятого заранее решения выберите форму be going to. Форма be согласуется с подлежащим, а после to ставится начальная форма глагола. Пример: They're going to build a shed.",
+            "evidence": "Use am, is or are going to plus a base verb to express an intention already formed. Keep the infinitive marker to."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-offers-and-instant-decisions",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Offers and instant decisions",
+    "description": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени.",
+    "minutes": 12,
+    "topic": "Offers and instant decisions",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-offers-and-instant-decisions-practice",
+        "title": "Offers and instant decisions",
+        "body": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject.\n\nКогда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени.\n\nExamples\n• The box looks heavy. I'll carry it.\n• Is that the bell? I'll open the door.\n\nЧастая ошибка\nI'll to help → I'll help. После will нужен инфинитив без to.",
+        "questions": [
+          {
+            "id": "grammar-a2-offers-and-instant-decisions-1",
+            "kind": "multiple-choice",
+            "prompt": "The phone's ringing. I'll ___ it.",
+            "options": [
+              "to answer",
+              "answer"
+            ],
+            "accepted": [
+              "answer"
+            ],
+            "explanation": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени. Пример: The phone's ringing. I'll answer it.",
+            "evidence": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject."
+          },
+          {
+            "id": "grammar-a2-offers-and-instant-decisions-2",
+            "kind": "multiple-choice",
+            "prompt": "Your bags look heavy. ___ take one.",
+            "options": [
+              "I'll",
+              "I was"
+            ],
+            "accepted": [
+              "I'll"
+            ],
+            "explanation": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени. Пример: Your bags look heavy. I'll take one.",
+            "evidence": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject."
+          },
+          {
+            "id": "grammar-a2-offers-and-instant-decisions-3",
+            "kind": "fill-blank",
+            "prompt": "We're short of cups. I will ___ some.  (Use one of these forms: fetch / fetches.)",
+            "options": [],
+            "accepted": [
+              "fetch"
+            ],
+            "explanation": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени. Пример: We're short of cups. I will fetch some.",
+            "evidence": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject."
+          },
+          {
+            "id": "grammar-a2-offers-and-instant-decisions-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "You're cold. I'll closed the window.",
+              "You're cold. I'll close the window."
+            ],
+            "accepted": [
+              "You're cold. I'll close the window."
+            ],
+            "explanation": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени. Пример: You're cold. I'll close the window.",
+            "evidence": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject."
+          },
+          {
+            "id": "grammar-a2-offers-and-instant-decisions-5",
+            "kind": "multiple-choice",
+            "prompt": "There is no bread. ___ go to the shop now.",
+            "options": [
+              "I'll",
+              "I am"
+            ],
+            "accepted": [
+              "I'll"
+            ],
+            "explanation": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени. Пример: There is no bread. I'll go to the shop now.",
+            "evidence": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject."
+          },
+          {
+            "id": "grammar-a2-offers-and-instant-decisions-6",
+            "kind": "multiple-choice",
+            "prompt": "Shall I help? I can see Tom is busy. I'll ___ up.",
+            "options": [
+              "washing",
+              "wash"
+            ],
+            "accepted": [
+              "wash"
+            ],
+            "explanation": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени. Пример: Shall I help? I can see Tom is busy. I'll wash up.",
+            "evidence": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject."
+          },
+          {
+            "id": "grammar-a2-offers-and-instant-decisions-7",
+            "kind": "fill-blank",
+            "prompt": "Don't worry about the fare. I ___ pay it.  (Use one of these forms: am / will.)",
+            "options": [],
+            "accepted": [
+              "will"
+            ],
+            "explanation": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени. Пример: Don't worry about the fare. I will pay it.",
+            "evidence": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject."
+          },
+          {
+            "id": "grammar-a2-offers-and-instant-decisions-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "You dropped a coin. I'll pick it up.",
+              "You dropped a coin. I'll picked it up."
+            ],
+            "accepted": [
+              "You dropped a coin. I'll pick it up."
+            ],
+            "explanation": "Когда решение принято в ответ на ситуацию, естественно I'll. После will не нужны to, -s или форма прошедшего времени. Пример: You dropped a coin. I'll pick it up.",
+            "evidence": "Use I'll plus a base verb to offer help or announce a decision made at the moment of speaking. Will does not change with the subject."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-comparative-adjectives",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Comparative adjectives",
+    "description": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse.",
+    "minutes": 12,
+    "topic": "Comparative adjectives",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-comparative-adjectives-practice",
+        "title": "Comparative adjectives",
+        "body": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones.\n\nЧтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse.\n\nExamples\n• The northern path is steeper than the old road.\n• This chair is more comfortable than the bench.\n\nЧастая ошибка\nmore cheaper → cheaper. Не ставьте more одновременно с окончанием -er.",
+        "questions": [
+          {
+            "id": "grammar-a2-comparative-adjectives-1",
+            "kind": "multiple-choice",
+            "prompt": "This box is ___ than mine.",
+            "options": [
+              "heavier",
+              "more heavyer"
+            ],
+            "accepted": [
+              "heavier"
+            ],
+            "explanation": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse. Пример: This box is heavier than mine.",
+            "evidence": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones."
+          },
+          {
+            "id": "grammar-a2-comparative-adjectives-2",
+            "kind": "multiple-choice",
+            "prompt": "Today's test was easier ___ Monday's.",
+            "options": [
+              "that",
+              "than"
+            ],
+            "accepted": [
+              "than"
+            ],
+            "explanation": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse. Пример: Today's test was easier than Monday's.",
+            "evidence": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones."
+          },
+          {
+            "id": "grammar-a2-comparative-adjectives-3",
+            "kind": "fill-blank",
+            "prompt": "The new lift is ___ than the old one.  (Use one of these forms: faster / more faster.)",
+            "options": [],
+            "accepted": [
+              "faster"
+            ],
+            "explanation": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse. Пример: The new lift is faster than the old one.",
+            "evidence": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones."
+          },
+          {
+            "id": "grammar-a2-comparative-adjectives-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "This seat is more comfortable than that stool.",
+              "This seat is comfortabler than that stool."
+            ],
+            "accepted": [
+              "This seat is more comfortable than that stool."
+            ],
+            "explanation": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse. Пример: This seat is more comfortable than that stool.",
+            "evidence": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones."
+          },
+          {
+            "id": "grammar-a2-comparative-adjectives-5",
+            "kind": "multiple-choice",
+            "prompt": "My second map is ___ than the first.",
+            "options": [
+              "gooder",
+              "better"
+            ],
+            "accepted": [
+              "better"
+            ],
+            "explanation": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse. Пример: My second map is better than the first.",
+            "evidence": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones."
+          },
+          {
+            "id": "grammar-a2-comparative-adjectives-6",
+            "kind": "multiple-choice",
+            "prompt": "The river is ___ here than at the bridge.",
+            "options": [
+              "more wider",
+              "wider"
+            ],
+            "accepted": [
+              "wider"
+            ],
+            "explanation": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse. Пример: The river is wider here than at the bridge.",
+            "evidence": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones."
+          },
+          {
+            "id": "grammar-a2-comparative-adjectives-7",
+            "kind": "fill-blank",
+            "prompt": "This ticket is less expensive ___ the return fare.  (Use one of these forms: than / then.)",
+            "options": [],
+            "accepted": [
+              "than"
+            ],
+            "explanation": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse. Пример: This ticket is less expensive than the return fare.",
+            "evidence": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones."
+          },
+          {
+            "id": "grammar-a2-comparative-adjectives-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The road surface is badder than last winter.",
+              "The road surface is worse than last winter."
+            ],
+            "accepted": [
+              "The road surface is worse than last winter."
+            ],
+            "explanation": "Чтобы сравнить два объекта, выберите -er или more, затем than. Для good сравнительная форма better, для bad — worse. Пример: The road surface is worse than last winter.",
+            "evidence": "Compare two things with a comparative adjective and than. Use -er with many short adjectives and more with longer ones."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-superlatives-within-a-group",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Superlatives within a group",
+    "description": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным.",
+    "minutes": 12,
+    "topic": "Superlatives within a group",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-superlatives-within-a-group-practice",
+        "title": "Superlatives within a group",
+        "body": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the.\n\nПревосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным.\n\nExamples\n• This is the narrowest lane in the village.\n• Which room is the most suitable for a meeting?\n\nЧастая ошибка\nthe most smallest room → the smallest room. Хватает одного показателя степени.",
+        "questions": [
+          {
+            "id": "grammar-a2-superlatives-within-a-group-1",
+            "kind": "multiple-choice",
+            "prompt": "Of six runners, Aida was the ___.",
+            "options": [
+              "faster",
+              "fastest"
+            ],
+            "accepted": [
+              "fastest"
+            ],
+            "explanation": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным. Пример: Of six runners, Aida was the fastest.",
+            "evidence": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the."
+          },
+          {
+            "id": "grammar-a2-superlatives-within-a-group-2",
+            "kind": "multiple-choice",
+            "prompt": "This is ___ oldest house on our street.",
+            "options": [
+              "an",
+              "the"
+            ],
+            "accepted": [
+              "the"
+            ],
+            "explanation": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным. Пример: This is the oldest house on our street.",
+            "evidence": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the."
+          },
+          {
+            "id": "grammar-a2-superlatives-within-a-group-3",
+            "kind": "fill-blank",
+            "prompt": "It was the ___ meal of the week.  (Use one of these forms: best / goodest.)",
+            "options": [],
+            "accepted": [
+              "best"
+            ],
+            "explanation": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным. Пример: It was the best meal of the week.",
+            "evidence": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the."
+          },
+          {
+            "id": "grammar-a2-superlatives-within-a-group-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Of all the boxes, this is the heavier.",
+              "Of all the boxes, this is the heaviest."
+            ],
+            "accepted": [
+              "Of all the boxes, this is the heaviest."
+            ],
+            "explanation": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным. Пример: Of all the boxes, this is the heaviest.",
+            "evidence": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the."
+          },
+          {
+            "id": "grammar-a2-superlatives-within-a-group-5",
+            "kind": "multiple-choice",
+            "prompt": "That is the ___ tool in my bag.",
+            "options": [
+              "usefullest",
+              "most useful"
+            ],
+            "accepted": [
+              "most useful"
+            ],
+            "explanation": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным. Пример: That is the most useful tool in my bag.",
+            "evidence": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the."
+          },
+          {
+            "id": "grammar-a2-superlatives-within-a-group-6",
+            "kind": "multiple-choice",
+            "prompt": "It was the ___ delay of the year.",
+            "options": [
+              "worst",
+              "baddest"
+            ],
+            "accepted": [
+              "worst"
+            ],
+            "explanation": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным. Пример: It was the worst delay of the year.",
+            "evidence": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the."
+          },
+          {
+            "id": "grammar-a2-superlatives-within-a-group-7",
+            "kind": "fill-blank",
+            "prompt": "Which is the ___ of the three peaks?  (Use one of these forms: higher / highest.)",
+            "options": [],
+            "accepted": [
+              "highest"
+            ],
+            "explanation": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным. Пример: Which is the highest of the three peaks?",
+            "evidence": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the."
+          },
+          {
+            "id": "grammar-a2-superlatives-within-a-group-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Of all the cities we visited, this was the interestingest.",
+              "Of all the cities we visited, this was the most interesting."
+            ],
+            "accepted": [
+              "Of all the cities we visited, this was the most interesting."
+            ],
+            "explanation": "Превосходная степень выделяет один объект в группе. Обычно ставьте the перед формой на -est или сочетанием most с прилагательным. Пример: Of all the cities we visited, this was the most interesting.",
+            "evidence": "Use a superlative to identify an extreme member of a group. Most superlative noun phrases begin with the."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-measuring-uncountable-nouns",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Measuring uncountable nouns",
+    "description": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture.",
+    "minutes": 12,
+    "topic": "Measuring uncountable nouns",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-measuring-uncountable-nouns-practice",
+        "title": "Measuring uncountable nouns",
+        "body": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit.\n\nAdvice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture.\n\nExamples\n• The information is on the board.\n• She gave me two pieces of advice.\n\nЧастая ошибка\nthree furnitures → three items of furniture. Число относится к items.",
+        "questions": [
+          {
+            "id": "grammar-a2-measuring-uncountable-nouns-1",
+            "kind": "multiple-choice",
+            "prompt": "The equipment ___ in the cupboard.",
+            "options": [
+              "are",
+              "is"
+            ],
+            "accepted": [
+              "is"
+            ],
+            "explanation": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture. Пример: The equipment is in the cupboard.",
+            "evidence": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit."
+          },
+          {
+            "id": "grammar-a2-measuring-uncountable-nouns-2",
+            "kind": "multiple-choice",
+            "prompt": "I need a piece of ___.",
+            "options": [
+              "advice",
+              "advices"
+            ],
+            "accepted": [
+              "advice"
+            ],
+            "explanation": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture. Пример: I need a piece of advice.",
+            "evidence": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit."
+          },
+          {
+            "id": "grammar-a2-measuring-uncountable-nouns-3",
+            "kind": "fill-blank",
+            "prompt": "We bought three ___ of bread.  (Use one of these forms: breads / loaves.)",
+            "options": [],
+            "accepted": [
+              "loaves"
+            ],
+            "explanation": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture. Пример: We bought three loaves of bread.",
+            "evidence": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit."
+          },
+          {
+            "id": "grammar-a2-measuring-uncountable-nouns-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The furniture look new.",
+              "The furniture looks new."
+            ],
+            "accepted": [
+              "The furniture looks new."
+            ],
+            "explanation": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture. Пример: The furniture looks new.",
+            "evidence": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit."
+          },
+          {
+            "id": "grammar-a2-measuring-uncountable-nouns-5",
+            "kind": "multiple-choice",
+            "prompt": "Could I have two ___ of water?",
+            "options": [
+              "glasses",
+              "waters"
+            ],
+            "accepted": [
+              "glasses"
+            ],
+            "explanation": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture. Пример: Could I have two glasses of water?",
+            "evidence": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit."
+          },
+          {
+            "id": "grammar-a2-measuring-uncountable-nouns-6",
+            "kind": "multiple-choice",
+            "prompt": "Their luggage ___ heavy.",
+            "options": [
+              "were",
+              "was"
+            ],
+            "accepted": [
+              "was"
+            ],
+            "explanation": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture. Пример: Their luggage was heavy.",
+            "evidence": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit."
+          },
+          {
+            "id": "grammar-a2-measuring-uncountable-nouns-7",
+            "kind": "fill-blank",
+            "prompt": "The guide gave us some useful ___.  (Use one of these forms: information / informations.)",
+            "options": [],
+            "accepted": [
+              "information"
+            ],
+            "explanation": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture. Пример: The guide gave us some useful information.",
+            "evidence": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit."
+          },
+          {
+            "id": "grammar-a2-measuring-uncountable-nouns-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Add two spoonfuls of sugar.",
+              "Add two sugars of sugar."
+            ],
+            "accepted": [
+              "Add two spoonfuls of sugar."
+            ],
+            "explanation": "Advice, furniture и information обычно не имеют формы множественного числа. Единицы счёта добавляют отдельно: a piece of advice, two items of furniture. Пример: Add two spoonfuls of sugar.",
+            "evidence": "Uncountable nouns such as advice, furniture and information take singular agreement. Count portions or items with a suitable unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-much-and-many",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Much and many",
+    "description": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе.",
+    "minutes": 12,
+    "topic": "Much and many",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-much-and-many-practice",
+        "title": "Much and many",
+        "body": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount.\n\nMuch и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе.\n\nExamples\n• How much time do we have?\n• Only a few seats were free.\n\nЧастая ошибка\nmany traffic → much traffic. Traffic описывает поток, его не считают по одному.",
+        "questions": [
+          {
+            "id": "grammar-a2-much-and-many-1",
+            "kind": "multiple-choice",
+            "prompt": "How ___ stamps do you need?",
+            "options": [
+              "many",
+              "much"
+            ],
+            "accepted": [
+              "many"
+            ],
+            "explanation": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе. Пример: How many stamps do you need?",
+            "evidence": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount."
+          },
+          {
+            "id": "grammar-a2-much-and-many-2",
+            "kind": "multiple-choice",
+            "prompt": "There isn't ___ space in my case.",
+            "options": [
+              "many",
+              "much"
+            ],
+            "accepted": [
+              "much"
+            ],
+            "explanation": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе. Пример: There isn't much space in my case.",
+            "evidence": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount."
+          },
+          {
+            "id": "grammar-a2-much-and-many-3",
+            "kind": "fill-blank",
+            "prompt": "We have a ___ spare tickets.  (Use one of these forms: few / little.)",
+            "options": [],
+            "accepted": [
+              "few"
+            ],
+            "explanation": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе. Пример: We have a few spare tickets.",
+            "evidence": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount."
+          },
+          {
+            "id": "grammar-a2-much-and-many-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Pour a little milk into the pan.",
+              "Pour a few milk into the pan."
+            ],
+            "accepted": [
+              "Pour a little milk into the pan."
+            ],
+            "explanation": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе. Пример: Pour a little milk into the pan.",
+            "evidence": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount."
+          },
+          {
+            "id": "grammar-a2-much-and-many-5",
+            "kind": "multiple-choice",
+            "prompt": "How ___ flour is left?",
+            "options": [
+              "many",
+              "much"
+            ],
+            "accepted": [
+              "much"
+            ],
+            "explanation": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе. Пример: How much flour is left?",
+            "evidence": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount."
+          },
+          {
+            "id": "grammar-a2-much-and-many-6",
+            "kind": "multiple-choice",
+            "prompt": "Not ___ shops open early here.",
+            "options": [
+              "much",
+              "many"
+            ],
+            "accepted": [
+              "many"
+            ],
+            "explanation": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе. Пример: Not many shops open early here.",
+            "evidence": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount."
+          },
+          {
+            "id": "grammar-a2-much-and-many-7",
+            "kind": "fill-blank",
+            "prompt": "Can I have a ___ more time?  (Use one of these forms: few / little.)",
+            "options": [],
+            "accepted": [
+              "little"
+            ],
+            "explanation": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе. Пример: Can I have a little more time?",
+            "evidence": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount."
+          },
+          {
+            "id": "grammar-a2-much-and-many-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "I took a little photographs of the bridge.",
+              "I took a few photographs of the bridge."
+            ],
+            "accepted": [
+              "I took a few photographs of the bridge."
+            ],
+            "explanation": "Much и a little сочетаются с неисчисляемыми существительными. Many и a few относятся к отдельным предметам во множественном числе. Пример: I took a few photographs of the bridge.",
+            "evidence": "Use many with plural count nouns and much with uncountable nouns. A few counts separate items; a little measures an amount."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-frequency-adverbs-in-routines",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Frequency adverbs in routines",
+    "description": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание.",
+    "minutes": 12,
+    "topic": "Frequency adverbs in routines",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-frequency-adverbs-in-routines-practice",
+        "title": "Frequency adverbs in routines",
+        "body": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long.\n\nДля нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание.\n\nExamples\n• The guard usually finishes at six.\n• Our train is often late.\n\nЧастая ошибка\nI don't never cycle → I never cycle. В стандартном английском второе отрицание лишнее.",
+        "questions": [
+          {
+            "id": "grammar-a2-frequency-adverbs-in-routines-1",
+            "kind": "multiple-choice",
+            "prompt": "For neutral word order, choose: I ___ to class.",
+            "options": [
+              "walk usually",
+              "usually walk"
+            ],
+            "accepted": [
+              "usually walk"
+            ],
+            "explanation": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание. Пример: For neutral word order, choose: I usually walk to class.",
+            "evidence": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long."
+          },
+          {
+            "id": "grammar-a2-frequency-adverbs-in-routines-2",
+            "kind": "multiple-choice",
+            "prompt": "For neutral word order, choose: he ___ busy on Fridays.",
+            "options": [
+              "often is often",
+              "is often"
+            ],
+            "accepted": [
+              "is often"
+            ],
+            "explanation": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание. Пример: For neutral word order, choose: he is often busy on Fridays.",
+            "evidence": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long."
+          },
+          {
+            "id": "grammar-a2-frequency-adverbs-in-routines-3",
+            "kind": "fill-blank",
+            "prompt": "My sister ___ at night.  (Use one of these forms: doesn't never drive / never drives.)",
+            "options": [],
+            "accepted": [
+              "never drives"
+            ],
+            "explanation": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание. Пример: My sister never drives at night.",
+            "evidence": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long."
+          },
+          {
+            "id": "grammar-a2-frequency-adverbs-in-routines-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "For neutral word order, choose: we visit often visit our cousins.",
+              "For neutral word order, choose: we often visit our cousins."
+            ],
+            "accepted": [
+              "For neutral word order, choose: we often visit our cousins."
+            ],
+            "explanation": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание. Пример: For neutral word order, choose: we often visit our cousins.",
+            "evidence": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long."
+          },
+          {
+            "id": "grammar-a2-frequency-adverbs-in-routines-5",
+            "kind": "multiple-choice",
+            "prompt": "The buses ___ full by eight.",
+            "options": [
+              "usually are usually",
+              "are usually"
+            ],
+            "accepted": [
+              "are usually"
+            ],
+            "explanation": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание. Пример: The buses are usually full by eight.",
+            "evidence": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long."
+          },
+          {
+            "id": "grammar-a2-frequency-adverbs-in-routines-6",
+            "kind": "multiple-choice",
+            "prompt": "Mira ___ a notebook.",
+            "options": [
+              "always takes",
+              "takes always takes"
+            ],
+            "accepted": [
+              "always takes"
+            ],
+            "explanation": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание. Пример: Mira always takes a notebook.",
+            "evidence": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long."
+          },
+          {
+            "id": "grammar-a2-frequency-adverbs-in-routines-7",
+            "kind": "fill-blank",
+            "prompt": "I ___ the Monday lesson.  (Use one of these forms: don't never miss / never miss.)",
+            "options": [],
+            "accepted": [
+              "never miss"
+            ],
+            "explanation": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание. Пример: I never miss the Monday lesson.",
+            "evidence": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long."
+          },
+          {
+            "id": "grammar-a2-frequency-adverbs-in-routines-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Our neighbours invite sometimes invite us to dinner.",
+              "Our neighbours sometimes invite us to dinner."
+            ],
+            "accepted": [
+              "Our neighbours sometimes invite us to dinner."
+            ],
+            "explanation": "Для нейтрального порядка слов ставьте usually, often и always до смыслового глагола, но после am/is/are. Never само по себе несёт отрицание. Пример: Our neighbours sometimes invite us to dinner.",
+            "evidence": "Place an adverb of frequency before an ordinary main verb and normally after a form of be. Frequency describes how often, not how long."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-movement-and-destination",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Movement and destination",
+    "description": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта.",
+    "minutes": 12,
+    "topic": "Movement and destination",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-movement-and-destination-practice",
+        "title": "Movement and destination",
+        "body": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to.\n\nПредлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта.\n\nExamples\n• The dog ran into the kitchen from the garden.\n• We walked across the square to the opposite corner.\n\nЧастая ошибка\ngo to home → go home. После go слово home употребляется без to.",
+        "questions": [
+          {
+            "id": "grammar-a2-movement-and-destination-1",
+            "kind": "multiple-choice",
+            "prompt": "We walked from one bank to the other ___ the bridge.",
+            "options": [
+              "along",
+              "across"
+            ],
+            "accepted": [
+              "across"
+            ],
+            "explanation": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта. Пример: We walked from one bank to the other across the bridge.",
+            "evidence": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to."
+          },
+          {
+            "id": "grammar-a2-movement-and-destination-2",
+            "kind": "multiple-choice",
+            "prompt": "The train went ___ the tunnel and disappeared inside.",
+            "options": [
+              "into",
+              "out of"
+            ],
+            "accepted": [
+              "into"
+            ],
+            "explanation": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта. Пример: The train went into the tunnel and disappeared inside.",
+            "evidence": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to."
+          },
+          {
+            "id": "grammar-a2-movement-and-destination-3",
+            "kind": "fill-blank",
+            "prompt": "After the concert we went ___.  (Use one of these forms: home / to home.)",
+            "options": [],
+            "accepted": [
+              "home"
+            ],
+            "explanation": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта. Пример: After the concert we went home.",
+            "evidence": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to."
+          },
+          {
+            "id": "grammar-a2-movement-and-destination-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "We followed the river for an hour, walking across its bank.",
+              "We followed the river for an hour, walking along its bank."
+            ],
+            "accepted": [
+              "We followed the river for an hour, walking along its bank."
+            ],
+            "explanation": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта. Пример: We followed the river for an hour, walking along its bank.",
+            "evidence": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to."
+          },
+          {
+            "id": "grammar-a2-movement-and-destination-5",
+            "kind": "multiple-choice",
+            "prompt": "The cat sprang from the floor ___ the table and stayed there.",
+            "options": [
+              "onto",
+              "off"
+            ],
+            "accepted": [
+              "onto"
+            ],
+            "explanation": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта. Пример: The cat sprang from the floor onto the table and stayed there.",
+            "evidence": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to."
+          },
+          {
+            "id": "grammar-a2-movement-and-destination-6",
+            "kind": "multiple-choice",
+            "prompt": "She drove ___ the airport from the village.",
+            "options": [
+              "at",
+              "to"
+            ],
+            "accepted": [
+              "to"
+            ],
+            "explanation": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта. Пример: She drove to the airport from the village.",
+            "evidence": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to."
+          },
+          {
+            "id": "grammar-a2-movement-and-destination-7",
+            "kind": "fill-blank",
+            "prompt": "The lift took us from street level ___ to the roof.  (Use one of these forms: down / up.)",
+            "options": [],
+            "accepted": [
+              "up"
+            ],
+            "explanation": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта. Пример: The lift took us from street level up to the roof.",
+            "evidence": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to."
+          },
+          {
+            "id": "grammar-a2-movement-and-destination-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "He stepped out of the house and closed the door from outside.",
+              "He stepped into the house and closed the door from outside."
+            ],
+            "accepted": [
+              "He stepped out of the house and closed the door from outside."
+            ],
+            "explanation": "Предлоги направления отвечают на вопрос «куда». Into указывает на пересечение границы внутрь, across — движение с одной стороны на другую, along — вдоль объекта. Пример: He stepped out of the house and closed the door from outside.",
+            "evidence": "Use to for a destination, into for movement from outside to inside, and across for movement from one side to the other. Home after go takes no to."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-background-actions-in-the-past",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Background actions in the past",
+    "description": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple.",
+    "minutes": 12,
+    "topic": "Background actions in the past",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-background-actions-in-the-past-practice",
+        "title": "Background actions in the past",
+        "body": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it.\n\nPast Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple.\n\nExamples\n• I was reading when the alarm rang.\n• At six the workers were still painting.\n\nЧастая ошибка\nThey was waiting → They were waiting. Выбирайте was или were по подлежащему.",
+        "questions": [
+          {
+            "id": "grammar-a2-background-actions-in-the-past-1",
+            "kind": "multiple-choice",
+            "prompt": "At nine I ___ when the bell rang.",
+            "options": [
+              "was cooking",
+              "were cooking"
+            ],
+            "accepted": [
+              "was cooking"
+            ],
+            "explanation": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple. Пример: At nine I was cooking when the bell rang.",
+            "evidence": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it."
+          },
+          {
+            "id": "grammar-a2-background-actions-in-the-past-2",
+            "kind": "multiple-choice",
+            "prompt": "The twins ___ at the time.",
+            "options": [
+              "was studying",
+              "were studying"
+            ],
+            "accepted": [
+              "were studying"
+            ],
+            "explanation": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple. Пример: The twins were studying at the time.",
+            "evidence": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it."
+          },
+          {
+            "id": "grammar-a2-background-actions-in-the-past-3",
+            "kind": "fill-blank",
+            "prompt": "While Tom was walking home, a branch ___.  (Use one of these forms: fell / was fall.)",
+            "options": [],
+            "accepted": [
+              "fell"
+            ],
+            "explanation": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple. Пример: While Tom was walking home, a branch fell.",
+            "evidence": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it."
+          },
+          {
+            "id": "grammar-a2-background-actions-in-the-past-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "She was sleeping when I called.",
+              "She was slept when I called."
+            ],
+            "accepted": [
+              "She was sleeping when I called."
+            ],
+            "explanation": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple. Пример: She was sleeping when I called.",
+            "evidence": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it."
+          },
+          {
+            "id": "grammar-a2-background-actions-in-the-past-5",
+            "kind": "multiple-choice",
+            "prompt": "We ___ lunch at that moment.",
+            "options": [
+              "was having",
+              "were having"
+            ],
+            "accepted": [
+              "were having"
+            ],
+            "explanation": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple. Пример: We were having lunch at that moment.",
+            "evidence": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it."
+          },
+          {
+            "id": "grammar-a2-background-actions-in-the-past-6",
+            "kind": "multiple-choice",
+            "prompt": "I dropped a plate while I ___ up.",
+            "options": [
+              "were washing",
+              "was washing"
+            ],
+            "accepted": [
+              "was washing"
+            ],
+            "explanation": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple. Пример: I dropped a plate while I was washing up.",
+            "evidence": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it."
+          },
+          {
+            "id": "grammar-a2-background-actions-in-the-past-7",
+            "kind": "fill-blank",
+            "prompt": "The printer ___ while we were copying the file.  (Use one of these forms: stopped / was stop.)",
+            "options": [],
+            "accepted": [
+              "stopped"
+            ],
+            "explanation": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple. Пример: The printer stopped while we were copying the file.",
+            "evidence": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it."
+          },
+          {
+            "id": "grammar-a2-background-actions-in-the-past-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "At noon the team members was moving the desks.",
+              "At noon the team members were moving the desks."
+            ],
+            "accepted": [
+              "At noon the team members were moving the desks."
+            ],
+            "explanation": "Past Continuous задаёт фон в определённый момент прошлого. Короткое завершённое событие на этом фоне обычно выражает Past Simple. Пример: At noon the team members were moving the desks.",
+            "evidence": "Use was or were plus an -ing verb for an action in progress at a past moment. A short past simple event can interrupt it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a2-advice-and-obligation",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Advice and obligation",
+    "description": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено.",
+    "minutes": 12,
+    "topic": "Advice and obligation",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A2",
+    "sections": [
+      {
+        "id": "grammar-a2-advice-and-obligation-practice",
+        "title": "Advice and obligation",
+        "body": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action.\n\nРазличайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено.\n\nExamples\n• You should rest after the journey.\n• Visitors mustn't open the emergency door.\n\nЧастая ошибка\nYou mustn't come if you prefer to stay home → You don't have to come. Речь идёт о свободном выборе.",
+        "questions": [
+          {
+            "id": "grammar-a2-advice-and-obligation-1",
+            "kind": "multiple-choice",
+            "prompt": "It is optional, so we ___ attend.",
+            "options": [
+              "mustn't",
+              "don't have to"
+            ],
+            "accepted": [
+              "don't have to"
+            ],
+            "explanation": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено. Пример: It is optional, so we don't have to attend.",
+            "evidence": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action."
+          },
+          {
+            "id": "grammar-a2-advice-and-obligation-2",
+            "kind": "multiple-choice",
+            "prompt": "The sign forbids entry. You ___ go inside.",
+            "options": [
+              "don't have to",
+              "mustn't"
+            ],
+            "accepted": [
+              "mustn't"
+            ],
+            "explanation": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено. Пример: The sign forbids entry. You mustn't go inside.",
+            "evidence": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action."
+          },
+          {
+            "id": "grammar-a2-advice-and-obligation-3",
+            "kind": "fill-blank",
+            "prompt": "For a mild headache, you should ___.  (Use one of these forms: rest / to rest.)",
+            "options": [],
+            "accepted": [
+              "rest"
+            ],
+            "explanation": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено. Пример: For a mild headache, you should rest.",
+            "evidence": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action."
+          },
+          {
+            "id": "grammar-a2-advice-and-obligation-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Our timetable requires it: Sara have to start at six.",
+              "Our timetable requires it: Sara has to start at six."
+            ],
+            "accepted": [
+              "Our timetable requires it: Sara has to start at six."
+            ],
+            "explanation": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено. Пример: Our timetable requires it: Sara has to start at six.",
+            "evidence": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action."
+          },
+          {
+            "id": "grammar-a2-advice-and-obligation-5",
+            "kind": "multiple-choice",
+            "prompt": "No uniform is required. Pupils ___ wear one.",
+            "options": [
+              "mustn't",
+              "don't have to"
+            ],
+            "accepted": [
+              "don't have to"
+            ],
+            "explanation": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено. Пример: No uniform is required. Pupils don't have to wear one.",
+            "evidence": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action."
+          },
+          {
+            "id": "grammar-a2-advice-and-obligation-6",
+            "kind": "multiple-choice",
+            "prompt": "Food is banned here, so visitors ___ eat inside.",
+            "options": [
+              "mustn't",
+              "don't have to"
+            ],
+            "accepted": [
+              "mustn't"
+            ],
+            "explanation": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено. Пример: Food is banned here, so visitors mustn't eat inside.",
+            "evidence": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action."
+          },
+          {
+            "id": "grammar-a2-advice-and-obligation-7",
+            "kind": "fill-blank",
+            "prompt": "If your notes are messy, you ___ rewrite them.  (Use one of these forms: has to / should.)",
+            "options": [],
+            "accepted": [
+              "should"
+            ],
+            "explanation": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено. Пример: If your notes are messy, you should rewrite them.",
+            "evidence": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action."
+          },
+          {
+            "id": "grammar-a2-advice-and-obligation-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The rules require a badge. Each visitor have to show one.",
+              "The rules require a badge. Each visitor has to show one."
+            ],
+            "accepted": [
+              "The rules require a badge. Each visitor has to show one."
+            ],
+            "explanation": "Различайте рекомендацию, обязанность и запрет. Don't have to значит «не обязательно», а mustn't означает, что действие запрещено. Пример: The rules require a badge. Each visitor has to show one.",
+            "evidence": "Use should for advice and have to for an external requirement. Don't have to removes an obligation; mustn't forbids an action."
+          }
+        ]
+      }
+    ]
+  }
+]

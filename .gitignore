@@ -1,0 +1,11 @@
+node_modules/
+.next/
+data/
+backups/
+playwright-report/
+test-results/
+.env*
+!.env.example
+*.tsbuildinfo
+.taste-skill/
+

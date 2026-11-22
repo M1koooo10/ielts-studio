@@ -1,0 +1,2024 @@
+[
+  {
+    "slug": "level-a1-reading",
+    "version": 1,
+    "skill": "reading",
+    "title": "A1 · A note for Kim",
+    "description": "Прочитайте текст и дайте четыре коротких ответа.",
+    "minutes": 4,
+    "topic": "A note for Kim",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "A note for Kim",
+        "body": "Hi Kim! Your lunch is in the fridge. Your keys are on the table. Meet me at the park at two. Bring your hat. Love, Mum.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "Where is the lunch?",
+            "accepted": [
+              "fridge",
+              "the fridge"
+            ],
+            "explanation": "Your lunch is in the fridge.",
+            "evidence": "Your lunch is in the fridge."
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "Where are the keys?",
+            "accepted": [
+              "table",
+              "the table"
+            ],
+            "explanation": "Your keys are on the table.",
+            "evidence": "Your keys are on the table."
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "Where will Mum meet Kim?",
+            "accepted": [
+              "park",
+              "the park"
+            ],
+            "explanation": "Meet me at the park at two.",
+            "evidence": "Meet me at the park at two."
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "What should Kim bring?",
+            "accepted": [
+              "hat",
+              "the hat"
+            ],
+            "explanation": "Bring your hat.",
+            "evidence": "Bring your hat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-listening",
+    "version": 1,
+    "skill": "listening",
+    "title": "A1 · At the pool",
+    "description": "Прослушайте запись и ответьте на четыре вопроса.",
+    "minutes": 4,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "At the pool",
+        "body": "Hello, my name is Sam. I swim on Fridays. The pool opens at nine. My swimming bag is blue.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "What is the speaker's name?",
+            "accepted": [
+              "Sam",
+              "the Sam"
+            ],
+            "explanation": "Hello, my name is Sam.",
+            "evidence": "Hello, my name is Sam.",
+            "at": 0
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "What day does Sam swim?",
+            "accepted": [
+              "Fridays",
+              "the Fridays",
+              "Friday"
+            ],
+            "explanation": "I swim on Fridays.",
+            "evidence": "I swim on Fridays.",
+            "at": 0
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "What time does the pool open?",
+            "accepted": [
+              "nine",
+              "the nine",
+              "9",
+              "9:00"
+            ],
+            "explanation": "The pool opens at nine.",
+            "evidence": "The pool opens at nine.",
+            "at": 0
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "What colour is the bag?",
+            "accepted": [
+              "blue",
+              "the blue"
+            ],
+            "explanation": "My swimming bag is blue.",
+            "evidence": "My swimming bag is blue.",
+            "at": 0
+          }
+        ],
+        "audio": "/content/levels/A1.wav",
+        "segments": [
+          {
+            "start": 0,
+            "end": 11.18,
+            "text": "Hello, my name is Sam. I swim on Fridays. The pool opens at nine. My swimming bag is blue."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-writing-1",
+    "version": 1,
+    "skill": "writing",
+    "title": "A1 · Writing 1 · Write three sentences about your family…",
+    "description": "Write three sentences about your family.",
+    "minutes": 4,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 15–30 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 1 · Write three sentences about your family…",
+        "body": "Write three sentences about your family."
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-writing-2",
+    "version": 1,
+    "skill": "writing",
+    "title": "A1 · Writing 2 · Tell a friend where your English class…",
+    "description": "Tell a friend where your English class meets.",
+    "minutes": 4,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 15–30 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 2 · Tell a friend where your English class…",
+        "body": "Tell a friend where your English class meets."
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-writing-3",
+    "version": 1,
+    "skill": "writing",
+    "title": "A1 · Writing 3 · Describe two things in your bag…",
+    "description": "Describe two things in your bag.",
+    "minutes": 4,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 15–30 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 3 · Describe two things in your bag…",
+        "body": "Describe two things in your bag."
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-writing-4",
+    "version": 1,
+    "skill": "writing",
+    "title": "A1 · Writing 4 · Write a note inviting a friend to…",
+    "description": "Write a note inviting a friend to lunch.",
+    "minutes": 4,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 15–30 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 4 · Write a note inviting a friend to…",
+        "body": "Write a note inviting a friend to lunch."
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-speaking-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "A1 · Speaking 1 · Introduce yourself and spell your name…",
+    "description": "Introduce yourself and spell your name.",
+    "minutes": 2,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 1 · Introduce yourself and spell your name…",
+        "body": "Introduce yourself and spell your name."
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-speaking-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "A1 · Speaking 2 · Describe your room using three colours…",
+    "description": "Describe your room using three colours.",
+    "minutes": 2,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 2 · Describe your room using three colours…",
+        "body": "Describe your room using three colours."
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-speaking-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "A1 · Speaking 3 · What do you eat for breakfast…",
+    "description": "What do you eat for breakfast?",
+    "minutes": 2,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 3 · What do you eat for breakfast…",
+        "body": "What do you eat for breakfast?"
+      }
+    ]
+  },
+  {
+    "slug": "level-a1-speaking-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "A1 · Speaking 4 · Tell me about one person in your…",
+    "description": "Tell me about one person in your family.",
+    "minutes": 2,
+    "topic": "At the pool",
+    "difficulty": "foundation",
+    "cefr": "A1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 4 · Tell me about one person in your…",
+        "body": "Tell me about one person in your family."
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-reading",
+    "version": 1,
+    "skill": "reading",
+    "title": "A2 · The Saturday market",
+    "description": "Прочитайте текст и дайте четыре коротких ответа.",
+    "minutes": 5,
+    "topic": "The Saturday market",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "The Saturday market",
+        "body": "Maya sells bread at a market near the station. Last month she worked there only on Saturdays. Now she also sells bread on Mondays. Customers can order by phone before eight. Maya gives the last loaf of the day to her neighbour.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "What does Maya sell?",
+            "accepted": [
+              "bread",
+              "the bread"
+            ],
+            "explanation": "Maya sells bread at a market near the station.",
+            "evidence": "Maya sells bread at a market near the station."
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "Which day has Maya added?",
+            "accepted": [
+              "Mondays",
+              "the Mondays",
+              "Monday"
+            ],
+            "explanation": "Now she also sells bread on Mondays.",
+            "evidence": "Now she also sells bread on Mondays."
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "How can customers order?",
+            "accepted": [
+              "phone",
+              "the phone",
+              "by phone"
+            ],
+            "explanation": "Customers can order by phone before eight.",
+            "evidence": "Customers can order by phone before eight."
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "Who receives the last loaf?",
+            "accepted": [
+              "neighbour",
+              "the neighbour",
+              "her neighbour",
+              "neighbor",
+              "her neighbor"
+            ],
+            "explanation": "Maya gives the last loaf of the day to her neighbour.",
+            "evidence": "Maya gives the last loaf of the day to her neighbour."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-listening",
+    "version": 1,
+    "skill": "listening",
+    "title": "A2 · A change of plan",
+    "description": "Прослушайте запись и ответьте на четыре вопроса.",
+    "minutes": 5,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "A change of plan",
+        "body": "We wanted to travel on Saturday, but all the cheap seats were gone. Now we are leaving on Sunday. Our bus leaves at ten from the library. Bring a jacket because we will walk by the lake. Lunch is included, but drinks cost extra.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "Which day will the group travel?",
+            "accepted": [
+              "Sunday",
+              "the Sunday"
+            ],
+            "explanation": "Now we are leaving on Sunday.",
+            "evidence": "Now we are leaving on Sunday.",
+            "at": 0
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "Where does the bus leave from?",
+            "accepted": [
+              "library",
+              "the library"
+            ],
+            "explanation": "Our bus leaves at ten from the library.",
+            "evidence": "Our bus leaves at ten from the library.",
+            "at": 0
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "What clothing should people bring?",
+            "accepted": [
+              "jacket",
+              "the jacket"
+            ],
+            "explanation": "Bring a jacket because we will walk by the lake.",
+            "evidence": "Bring a jacket because we will walk by the lake.",
+            "at": 0
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "What costs extra?",
+            "accepted": [
+              "drinks",
+              "the drinks"
+            ],
+            "explanation": "Lunch is included, but drinks cost extra.",
+            "evidence": "Lunch is included, but drinks cost extra.",
+            "at": 0
+          }
+        ],
+        "audio": "/content/levels/A2.wav",
+        "segments": [
+          {
+            "start": 0,
+            "end": 20.63,
+            "text": "We wanted to travel on Saturday, but all the cheap seats were gone. Now we are leaving on Sunday. Our bus leaves at ten from the library. Bring a jacket because we will walk by the lake. Lunch is included, but drinks cost extra."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-writing-1",
+    "version": 1,
+    "skill": "writing",
+    "title": "A2 · Writing 1 · Write a short email changing the time…",
+    "description": "Write a short email changing the time of a meeting.",
+    "minutes": 7,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 30–50 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 1 · Write a short email changing the time…",
+        "body": "Write a short email changing the time of a meeting."
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-writing-2",
+    "version": 1,
+    "skill": "writing",
+    "title": "A2 · Writing 2 · Describe what you did last weekend in…",
+    "description": "Describe what you did last weekend in sequence.",
+    "minutes": 7,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 30–50 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 2 · Describe what you did last weekend in…",
+        "body": "Describe what you did last weekend in sequence."
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-writing-3",
+    "version": 1,
+    "skill": "writing",
+    "title": "A2 · Writing 3 · Invite a classmate to the market and…",
+    "description": "Invite a classmate to the market and explain how to get there.",
+    "minutes": 7,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 30–50 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 3 · Invite a classmate to the market and…",
+        "body": "Invite a classmate to the market and explain how to get there."
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-writing-4",
+    "version": 1,
+    "skill": "writing",
+    "title": "A2 · Writing 4 · Compare two ways to get to school…",
+    "description": "Compare two ways to get to school.",
+    "minutes": 7,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 30–50 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 4 · Compare two ways to get to school…",
+        "body": "Compare two ways to get to school."
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-speaking-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "A2 · Speaking 1 · Tell me about your last journey…",
+    "description": "Tell me about your last journey.",
+    "minutes": 3,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 1 · Tell me about your last journey…",
+        "body": "Tell me about your last journey."
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-speaking-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "A2 · Speaking 2 · Describe a shop you like and say…",
+    "description": "Describe a shop you like and say why.",
+    "minutes": 3,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 2 · Describe a shop you like and say…",
+        "body": "Describe a shop you like and say why."
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-speaking-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "A2 · Speaking 3 · How does your weekend routine differ from…",
+    "description": "How does your weekend routine differ from Monday?",
+    "minutes": 3,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 3 · How does your weekend routine differ from…",
+        "body": "How does your weekend routine differ from Monday?"
+      }
+    ]
+  },
+  {
+    "slug": "level-a2-speaking-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "A2 · Speaking 4 · Explain how to get from your classroom…",
+    "description": "Explain how to get from your classroom to the exit.",
+    "minutes": 3,
+    "topic": "A change of plan",
+    "difficulty": "foundation",
+    "cefr": "A2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 4 · Explain how to get from your classroom…",
+        "body": "Explain how to get from your classroom to the exit."
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-reading",
+    "version": 1,
+    "skill": "reading",
+    "title": "B1 · A journey diary",
+    "description": "Прочитайте текст и дайте четыре коротких ответа.",
+    "minutes": 6,
+    "topic": "A journey diary",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "A journey diary",
+        "body": "For one month Lena travelled to work by bicycle. She expected to save money, but the biggest benefit was having more energy in the morning. Rain was less of a problem than heavy traffic. A colleague showed her a longer route through a park. Although the journey took five extra minutes, she decided to keep using it.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "How long did the experiment last? Write two words.",
+            "accepted": [
+              "one month",
+              "the one month",
+              "a month",
+              "1 month"
+            ],
+            "explanation": "For one month Lena travelled to work by bicycle.",
+            "evidence": "For one month Lena travelled to work by bicycle."
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "What did Lena have more of in the morning?",
+            "accepted": [
+              "energy",
+              "the energy"
+            ],
+            "explanation": "She expected to save money, but the biggest benefit was having more energy in the morning.",
+            "evidence": "She expected to save money, but the biggest benefit was having more energy in the morning."
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "What caused more difficulty than rain? Write two words.",
+            "accepted": [
+              "heavy traffic",
+              "the heavy traffic"
+            ],
+            "explanation": "Rain was less of a problem than heavy traffic.",
+            "evidence": "Rain was less of a problem than heavy traffic."
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "Who suggested another route?",
+            "accepted": [
+              "colleague",
+              "the colleague",
+              "a colleague"
+            ],
+            "explanation": "A colleague showed her a longer route through a park.",
+            "evidence": "A colleague showed her a longer route through a park."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-listening",
+    "version": 1,
+    "skill": "listening",
+    "title": "B1 · Repair club",
+    "description": "Прослушайте запись и ответьте на четыре вопроса.",
+    "minutes": 6,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Repair club",
+        "body": "When our repair club first opened, we charged a fee for each repair. People worried that the final price might surprise them, so we switched to donations. We still ask visitors to pay for parts. Our busiest session used to be Tuesday evening, but since we added a Saturday session, families have started coming. Volunteers now demonstrate each repair so that visitors can try it at home.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "What replaced the repair fee?",
+            "accepted": [
+              "donations",
+              "the donations"
+            ],
+            "explanation": "People worried that the final price might surprise them, so we switched to donations.",
+            "evidence": "People worried that the final price might surprise them, so we switched to donations.",
+            "at": 0
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "What must visitors still pay for?",
+            "accepted": [
+              "parts",
+              "the parts"
+            ],
+            "explanation": "We still ask visitors to pay for parts.",
+            "evidence": "We still ask visitors to pay for parts.",
+            "at": 0
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "Which new session attracts families?",
+            "accepted": [
+              "Saturday",
+              "the Saturday",
+              "Saturday session"
+            ],
+            "explanation": "Our busiest session used to be Tuesday evening, but since we added a Saturday session, families have started coming.",
+            "evidence": "Our busiest session used to be Tuesday evening, but since we added a Saturday session, families have started coming.",
+            "at": 0
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "Where can visitors practise afterwards?",
+            "accepted": [
+              "home",
+              "the home"
+            ],
+            "explanation": "Volunteers now demonstrate each repair so that visitors can try it at home.",
+            "evidence": "Volunteers now demonstrate each repair so that visitors can try it at home.",
+            "at": 0
+          }
+        ],
+        "audio": "/content/levels/B1.wav",
+        "segments": [
+          {
+            "start": 0,
+            "end": 28.69,
+            "text": "When our repair club first opened, we charged a fee for each repair. People worried that the final price might surprise them, so we switched to donations. We still ask visitors to pay for parts. Our busiest session used to be Tuesday evening, but since we added a Saturday session, families have started coming. Volunteers now demonstrate each repair so that visitors can try it at home."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-writing-1",
+    "version": 1,
+    "skill": "writing",
+    "title": "B1 · Writing 1 · Describe a change to your routine and…",
+    "description": "Describe a change to your routine and explain its effect.",
+    "minutes": 10,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 60–90 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 1 · Describe a change to your routine and…",
+        "body": "Describe a change to your routine and explain its effect."
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-writing-2",
+    "version": 1,
+    "skill": "writing",
+    "title": "B1 · Writing 2 · Write to a repair club asking about…",
+    "description": "Write to a repair club asking about volunteering.",
+    "minutes": 10,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 60–90 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 2 · Write to a repair club asking about…",
+        "body": "Write to a repair club asking about volunteering."
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-writing-3",
+    "version": 1,
+    "skill": "writing",
+    "title": "B1 · Writing 3 · Recommend a travel route and give two…",
+    "description": "Recommend a travel route and give two reasons.",
+    "minutes": 10,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 60–90 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 3 · Recommend a travel route and give two…",
+        "body": "Recommend a travel route and give two reasons."
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-writing-4",
+    "version": 1,
+    "skill": "writing",
+    "title": "B1 · Writing 4 · Explain a problem at school and propose…",
+    "description": "Explain a problem at school and propose a solution.",
+    "minutes": 10,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 60–90 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 4 · Explain a problem at school and propose…",
+        "body": "Explain a problem at school and propose a solution."
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-speaking-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "B1 · Speaking 1 · Describe a practical skill you learned from…",
+    "description": "Describe a practical skill you learned from someone.",
+    "minutes": 4,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 1 · Describe a practical skill you learned from…",
+        "body": "Describe a practical skill you learned from someone."
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-speaking-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "B1 · Speaking 2 · Tell a story about a journey that…",
+    "description": "Tell a story about a journey that changed unexpectedly.",
+    "minutes": 4,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 2 · Tell a story about a journey that…",
+        "body": "Tell a story about a journey that changed unexpectedly."
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-speaking-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "B1 · Speaking 3 · Compare learning alone with joining a club…",
+    "description": "Compare learning alone with joining a club.",
+    "minutes": 4,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 3 · Compare learning alone with joining a club…",
+        "body": "Compare learning alone with joining a club."
+      }
+    ]
+  },
+  {
+    "slug": "level-b1-speaking-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "B1 · Speaking 4 · Give advice to someone planning a cycling…",
+    "description": "Give advice to someone planning a cycling trip.",
+    "minutes": 4,
+    "topic": "Repair club",
+    "difficulty": "intermediate",
+    "cefr": "B1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 4 · Give advice to someone planning a cycling…",
+        "body": "Give advice to someone planning a cycling trip."
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-reading",
+    "version": 1,
+    "skill": "reading",
+    "title": "B2 · Testing a shorter week",
+    "description": "Прочитайте текст и дайте четыре коротких ответа.",
+    "minutes": 7,
+    "topic": "Testing a shorter week",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Testing a shorter week",
+        "body": "Two departments tested a shorter working week. Customer satisfaction rose in both, but only the design team maintained output. Managers first attributed the difference to motivation. Interviews revealed another factor: designers controlled their deadlines while support staff had to answer calls immediately. The company extended the trial only for designers and offered support staff flexible shifts instead.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "Which team maintained output?",
+            "accepted": [
+              "design team",
+              "the design team"
+            ],
+            "explanation": "Customer satisfaction rose in both, but only the design team maintained output.",
+            "evidence": "Customer satisfaction rose in both, but only the design team maintained output."
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "What did managers initially credit?",
+            "accepted": [
+              "motivation",
+              "the motivation"
+            ],
+            "explanation": "Managers first attributed the difference to motivation.",
+            "evidence": "Managers first attributed the difference to motivation."
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "What could designers control?",
+            "accepted": [
+              "deadlines",
+              "the deadlines"
+            ],
+            "explanation": "Interviews revealed another factor: designers controlled their deadlines while support staff had to answer calls immediately.",
+            "evidence": "Interviews revealed another factor: designers controlled their deadlines while support staff had to answer calls immediately."
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "What alternative did support staff receive?",
+            "accepted": [
+              "flexible shifts",
+              "the flexible shifts"
+            ],
+            "explanation": "The company extended the trial only for designers and offered support staff flexible shifts instead.",
+            "evidence": "The company extended the trial only for designers and offered support staff flexible shifts instead."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-listening",
+    "version": 1,
+    "skill": "listening",
+    "title": "B2 · A museum trial",
+    "description": "Прослушайте запись и ответьте на четыре вопроса.",
+    "minutes": 7,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "A museum trial",
+        "body": "The museum introduced evening tickets to attract shift workers. Attendance rose, yet interviews suggested that most evening visitors already held annual passes. The director initially called the trial a success on the strength of ticket numbers. After the interviews she proposed measuring first-time visits instead. Staff also pointed out that late buses were rare, a barrier that lower prices alone would not remove.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "Which workers were the intended audience?",
+            "accepted": [
+              "shift workers",
+              "the shift workers"
+            ],
+            "explanation": "The museum introduced evening tickets to attract shift workers.",
+            "evidence": "The museum introduced evening tickets to attract shift workers.",
+            "at": 0
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "What did most evening visitors already hold?",
+            "accepted": [
+              "annual passes",
+              "the annual passes"
+            ],
+            "explanation": "Attendance rose, yet interviews suggested that most evening visitors already held annual passes.",
+            "evidence": "Attendance rose, yet interviews suggested that most evening visitors already held annual passes.",
+            "at": 0
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "What did the director propose measuring?",
+            "accepted": [
+              "first-time visits",
+              "the first-time visits"
+            ],
+            "explanation": "After the interviews she proposed measuring first-time visits instead.",
+            "evidence": "After the interviews she proposed measuring first-time visits instead.",
+            "at": 0
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "Which transport service was infrequent?",
+            "accepted": [
+              "late buses",
+              "the late buses"
+            ],
+            "explanation": "Staff also pointed out that late buses were rare, a barrier that lower prices alone would not remove.",
+            "evidence": "Staff also pointed out that late buses were rare, a barrier that lower prices alone would not remove.",
+            "at": 0
+          }
+        ],
+        "audio": "/content/levels/B2.wav",
+        "segments": [
+          {
+            "start": 0,
+            "end": 29.28,
+            "text": "The museum introduced evening tickets to attract shift workers. Attendance rose, yet interviews suggested that most evening visitors already held annual passes. The director initially called the trial a success on the strength of ticket numbers. After the interviews she proposed measuring first-time visits instead. Staff also pointed out that late buses were rare, a barrier that lower prices alone would not remove."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-writing-1",
+    "version": 1,
+    "skill": "writing",
+    "title": "B2 · Writing 1 · Assess whether ticket sales alone measure a…",
+    "description": "Assess whether ticket sales alone measure a museum's success.",
+    "minutes": 13,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 100–140 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 1 · Assess whether ticket sales alone measure a…",
+        "body": "Assess whether ticket sales alone measure a museum's success."
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-writing-2",
+    "version": 1,
+    "skill": "writing",
+    "title": "B2 · Writing 2 · Compare flexible shifts with a shorter working…",
+    "description": "Compare flexible shifts with a shorter working week.",
+    "minutes": 13,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 100–140 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 2 · Compare flexible shifts with a shorter working…",
+        "body": "Compare flexible shifts with a shorter working week."
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-writing-3",
+    "version": 1,
+    "skill": "writing",
+    "title": "B2 · Writing 3 · Write a proposal to improve evening transport…",
+    "description": "Write a proposal to improve evening transport.",
+    "minutes": 13,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 100–140 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 3 · Write a proposal to improve evening transport…",
+        "body": "Write a proposal to improve evening transport."
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-writing-4",
+    "version": 1,
+    "skill": "writing",
+    "title": "B2 · Writing 4 · Explain a counterargument to free museum entry…",
+    "description": "Explain a counterargument to free museum entry and respond to it.",
+    "minutes": 13,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 100–140 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 4 · Explain a counterargument to free museum entry…",
+        "body": "Explain a counterargument to free museum entry and respond to it."
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-speaking-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "B2 · Speaking 1 · Compare two measures of workplace success…",
+    "description": "Compare two measures of workplace success.",
+    "minutes": 5,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 1 · Compare two measures of workplace success…",
+        "body": "Compare two measures of workplace success."
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-speaking-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "B2 · Speaking 2 · Explain why expanding opening hours might fail…",
+    "description": "Explain why expanding opening hours might fail to attract visitors.",
+    "minutes": 5,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 2 · Explain why expanding opening hours might fail…",
+        "body": "Explain why expanding opening hours might fail to attract visitors."
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-speaking-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "B2 · Speaking 3 · Defend a change to a local service…",
+    "description": "Defend a change to a local service and address one objection.",
+    "minutes": 5,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 3 · Defend a change to a local service…",
+        "body": "Defend a change to a local service and address one objection."
+      }
+    ]
+  },
+  {
+    "slug": "level-b2-speaking-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "B2 · Speaking 4 · Describe a survey you would run before…",
+    "description": "Describe a survey you would run before changing a timetable.",
+    "minutes": 5,
+    "topic": "A museum trial",
+    "difficulty": "intermediate",
+    "cefr": "B2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 4 · Describe a survey you would run before…",
+        "body": "Describe a survey you would run before changing a timetable."
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-reading",
+    "version": 1,
+    "skill": "reading",
+    "title": "C1 · Restoring the marsh",
+    "description": "Прочитайте текст и дайте четыре коротких ответа.",
+    "minutes": 8,
+    "topic": "Restoring the marsh",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Restoring the marsh",
+        "body": "The restoration contract rewarded hectares planted rather than seedlings surviving. Contractors consequently planted rapidly, including on unstable banks. A later inspection found fewer surviving plants there than on untreated banks nearby. This comparison did not establish that planting caused losses: the sites had differed in salinity before work began. The review recommended matching sites by salinity and paying contractors for survival after two winters.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "What did the contract initially reward?",
+            "accepted": [
+              "hectares planted",
+              "the hectares planted"
+            ],
+            "explanation": "The restoration contract rewarded hectares planted rather than seedlings surviving.",
+            "evidence": "The restoration contract rewarded hectares planted rather than seedlings surviving."
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "Where did planting prove especially unsuccessful?",
+            "accepted": [
+              "unstable banks",
+              "the unstable banks"
+            ],
+            "explanation": "Contractors consequently planted rapidly, including on unstable banks.",
+            "evidence": "Contractors consequently planted rapidly, including on unstable banks."
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "Which pre-existing difference complicates comparison?",
+            "accepted": [
+              "salinity",
+              "the salinity"
+            ],
+            "explanation": "This comparison did not establish that planting caused losses: the sites had differed in salinity before work began.",
+            "evidence": "This comparison did not establish that planting caused losses: the sites had differed in salinity before work began."
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "After what period should survival be assessed?",
+            "accepted": [
+              "two winters",
+              "the two winters",
+              "2 winters"
+            ],
+            "explanation": "The review recommended matching sites by salinity and paying contractors for survival after two winters.",
+            "evidence": "The review recommended matching sites by salinity and paying contractors for survival after two winters."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-listening",
+    "version": 1,
+    "skill": "listening",
+    "title": "C1 · Measuring silence",
+    "description": "Прослушайте запись и ответьте на четыре вопроса.",
+    "minutes": 8,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Measuring silence",
+        "body": "Our noise monitors showed a decline after the new road opened. That finding looked reassuring until we checked the placement of the monitors: every device stood on the old route. Traffic had shifted rather than disappeared. We therefore recruited residents along the new route to keep diaries. The diaries captured interrupted sleep, an effect that average sound levels concealed. Their main drawback was that volunteers selected themselves.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "What feature of the monitors undermined the initial conclusion?",
+            "accepted": [
+              "placement",
+              "the placement",
+              "monitor placement"
+            ],
+            "explanation": "That finding looked reassuring until we checked the placement of the monitors: every device stood on the old route.",
+            "evidence": "That finding looked reassuring until we checked the placement of the monitors: every device stood on the old route.",
+            "at": 0
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "What had happened to traffic? Use one verb.",
+            "accepted": [
+              "shifted",
+              "the shifted"
+            ],
+            "explanation": "Traffic had shifted rather than disappeared.",
+            "evidence": "Traffic had shifted rather than disappeared.",
+            "at": 0
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "What effect did the diaries capture?",
+            "accepted": [
+              "interrupted sleep",
+              "the interrupted sleep"
+            ],
+            "explanation": "The diaries captured interrupted sleep, an effect that average sound levels concealed.",
+            "evidence": "The diaries captured interrupted sleep, an effect that average sound levels concealed.",
+            "at": 0
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "Who selected the volunteers?",
+            "accepted": [
+              "themselves",
+              "the themselves"
+            ],
+            "explanation": "Their main drawback was that volunteers selected themselves.",
+            "evidence": "Their main drawback was that volunteers selected themselves.",
+            "at": 0
+          }
+        ],
+        "audio": "/content/levels/C1.wav",
+        "segments": [
+          {
+            "start": 0,
+            "end": 27.93,
+            "text": "Our noise monitors showed a decline after the new road opened. That finding looked reassuring until we checked the placement of the monitors: every device stood on the old route. Traffic had shifted rather than disappeared. We therefore recruited residents along the new route to keep diaries. The diaries captured interrupted sleep, an effect that average sound levels concealed. Their main drawback was that volunteers selected themselves."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-writing-1",
+    "version": 1,
+    "skill": "writing",
+    "title": "C1 · Writing 1 · Critique the use of averages in a…",
+    "description": "Critique the use of averages in a public-health report; propose a complementary measure.",
+    "minutes": 16,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 140–180 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 1 · Critique the use of averages in a…",
+        "body": "Critique the use of averages in a public-health report; propose a complementary measure."
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-writing-2",
+    "version": 1,
+    "skill": "writing",
+    "title": "C1 · Writing 2 · Design a fair comparison for evaluating a…",
+    "description": "Design a fair comparison for evaluating a restoration project.",
+    "minutes": 16,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 140–180 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 2 · Design a fair comparison for evaluating a…",
+        "body": "Design a fair comparison for evaluating a restoration project."
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-writing-3",
+    "version": 1,
+    "skill": "writing",
+    "title": "C1 · Writing 3 · Present a case for performance-based funding and…",
+    "description": "Present a case for performance-based funding and qualify its limits.",
+    "minutes": 16,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 140–180 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 3 · Present a case for performance-based funding and…",
+        "body": "Present a case for performance-based funding and qualify its limits."
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-writing-4",
+    "version": 1,
+    "skill": "writing",
+    "title": "C1 · Writing 4 · Summarise conflicting evidence about traffic noise for…",
+    "description": "Summarise conflicting evidence about traffic noise for a city council.",
+    "minutes": 16,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 140–180 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 4 · Summarise conflicting evidence about traffic noise for…",
+        "body": "Summarise conflicting evidence about traffic noise for a city council."
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-speaking-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "C1 · Speaking 1 · Explain how a choice of metric can…",
+    "description": "Explain how a choice of metric can distort policy.",
+    "minutes": 6,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 1 · Explain how a choice of metric can…",
+        "body": "Explain how a choice of metric can distort policy."
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-speaking-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "C1 · Speaking 2 · Distinguish correlation from causation using an environmental…",
+    "description": "Distinguish correlation from causation using an environmental example.",
+    "minutes": 6,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 2 · Distinguish correlation from causation using an environmental…",
+        "body": "Distinguish correlation from causation using an environmental example."
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-speaking-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "C1 · Speaking 3 · Respond to the objection that personal diaries…",
+    "description": "Respond to the objection that personal diaries are too subjective.",
+    "minutes": 6,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 3 · Respond to the objection that personal diaries…",
+        "body": "Respond to the objection that personal diaries are too subjective."
+      }
+    ]
+  },
+  {
+    "slug": "level-c1-speaking-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "C1 · Speaking 4 · Explain a technical uncertainty to two different…",
+    "description": "Explain a technical uncertainty to two different audiences.",
+    "minutes": 6,
+    "topic": "Measuring silence",
+    "difficulty": "advanced",
+    "cefr": "C1",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 4 · Explain a technical uncertainty to two different…",
+        "body": "Explain a technical uncertainty to two different audiences."
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-reading",
+    "version": 1,
+    "skill": "reading",
+    "title": "C2 · The price of a forecast",
+    "description": "Прочитайте текст и дайте четыре коротких ответа.",
+    "minutes": 9,
+    "topic": "The price of a forecast",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "The price of a forecast",
+        "body": "A forecast that prompts successful prevention may appear mistaken precisely because people acted on it. One proposed solution is to score the forecast against a simulated world without intervention. This restores comparability at a price: errors in the simulation can masquerade as errors in the forecast. Publishing several simulations exposes sensitivity to assumptions, but agreement among them carries little weight if they share the same omissions. Independent variation in their assumptions is thus more informative than sheer numerical agreement.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "What action can make a sound forecast appear mistaken?",
+            "accepted": [
+              "successful prevention",
+              "the successful prevention"
+            ],
+            "explanation": "A forecast that prompts successful prevention may appear mistaken precisely because people acted on it.",
+            "evidence": "A forecast that prompts successful prevention may appear mistaken precisely because people acted on it."
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "Against what kind of world would the forecast be scored?",
+            "accepted": [
+              "a simulated world",
+              "simulated world",
+              "the a simulated world"
+            ],
+            "explanation": "One proposed solution is to score the forecast against a simulated world without intervention.",
+            "evidence": "One proposed solution is to score the forecast against a simulated world without intervention."
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "What can masquerade as forecast errors?",
+            "accepted": [
+              "errors in the simulation",
+              "the errors in the simulation"
+            ],
+            "explanation": "This restores comparability at a price: errors in the simulation can masquerade as errors in the forecast.",
+            "evidence": "This restores comparability at a price: errors in the simulation can masquerade as errors in the forecast."
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "What shared feature weakens agreement between simulations?",
+            "accepted": [
+              "omissions",
+              "the omissions"
+            ],
+            "explanation": "Publishing several simulations exposes sensitivity to assumptions, but agreement among them carries little weight if they share the same omissions.",
+            "evidence": "Publishing several simulations exposes sensitivity to assumptions, but agreement among them carries little weight if they share the same omissions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-listening",
+    "version": 1,
+    "skill": "listening",
+    "title": "C2 · Preserving an absence",
+    "description": "Прослушайте запись и ответьте на четыре вопроса.",
+    "minutes": 9,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English using words from the text or recording.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Preserving an absence",
+        "body": "An archivist described the missing petitions as evidence of public consent. I would qualify that inference. The catalogue lists only documents accepted for permanent storage, and acceptance depended on sponsorship. Silence here may therefore reflect a filter rather than indifference. Yet the opposite claim, that dissent was widespread, is equally unwarranted. To discriminate between the accounts we would need independent traces of rejected submissions, perhaps in clerks' correspondence.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "short_answer",
+            "prompt": "What attitude did the archivist infer?",
+            "accepted": [
+              "public consent",
+              "the public consent"
+            ],
+            "explanation": "An archivist described the missing petitions as evidence of public consent.",
+            "evidence": "An archivist described the missing petitions as evidence of public consent.",
+            "at": 0
+          },
+          {
+            "id": "q2",
+            "kind": "short_answer",
+            "prompt": "What did acceptance depend on?",
+            "accepted": [
+              "sponsorship",
+              "the sponsorship"
+            ],
+            "explanation": "The catalogue lists only documents accepted for permanent storage, and acceptance depended on sponsorship.",
+            "evidence": "The catalogue lists only documents accepted for permanent storage, and acceptance depended on sponsorship.",
+            "at": 0
+          },
+          {
+            "id": "q3",
+            "kind": "short_answer",
+            "prompt": "What might silence reflect instead of indifference?",
+            "accepted": [
+              "a filter",
+              "filter",
+              "the a filter"
+            ],
+            "explanation": "Silence here may therefore reflect a filter rather than indifference.",
+            "evidence": "Silence here may therefore reflect a filter rather than indifference.",
+            "at": 0
+          },
+          {
+            "id": "q4",
+            "kind": "short_answer",
+            "prompt": "Whose correspondence might contain independent traces?",
+            "accepted": [
+              "clerks",
+              "the clerks",
+              "clerks'",
+              "clerks’"
+            ],
+            "explanation": "To discriminate between the accounts we would need independent traces of rejected submissions, perhaps in clerks' correspondence.",
+            "evidence": "To discriminate between the accounts we would need independent traces of rejected submissions, perhaps in clerks' correspondence.",
+            "at": 0
+          }
+        ],
+        "audio": "/content/levels/C2.wav",
+        "segments": [
+          {
+            "start": 0,
+            "end": 31.99,
+            "text": "An archivist described the missing petitions as evidence of public consent. I would qualify that inference. The catalogue lists only documents accepted for permanent storage, and acceptance depended on sponsorship. Silence here may therefore reflect a filter rather than indifference. Yet the opposite claim, that dissent was widespread, is equally unwarranted. To discriminate between the accounts we would need independent traces of rejected submissions, perhaps in clerks' correspondence."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-writing-1",
+    "version": 1,
+    "skill": "writing",
+    "title": "C2 · Writing 1 · Reconcile the apparent paradox of a successful…",
+    "description": "Reconcile the apparent paradox of a successful warning that looks inaccurate.",
+    "minutes": 19,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 180–220 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 1 · Reconcile the apparent paradox of a successful…",
+        "body": "Reconcile the apparent paradox of a successful warning that looks inaccurate."
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-writing-2",
+    "version": 1,
+    "skill": "writing",
+    "title": "C2 · Writing 2 · Critique an argument from archival silence and…",
+    "description": "Critique an argument from archival silence and specify what could disconfirm it.",
+    "minutes": 19,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 180–220 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 2 · Critique an argument from archival silence and…",
+        "body": "Critique an argument from archival silence and specify what could disconfirm it."
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-writing-3",
+    "version": 1,
+    "skill": "writing",
+    "title": "C2 · Writing 3 · Write contrasting interpretations of one dataset, then…",
+    "description": "Write contrasting interpretations of one dataset, then justify a conditional conclusion.",
+    "minutes": 19,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 180–220 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 3 · Write contrasting interpretations of one dataset, then…",
+        "body": "Write contrasting interpretations of one dataset, then justify a conditional conclusion."
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-writing-4",
+    "version": 1,
+    "skill": "writing",
+    "title": "C2 · Writing 4 · Defend a policy under uncertainty while identifying…",
+    "description": "Defend a policy under uncertainty while identifying the premise on which your defence depends.",
+    "minutes": 19,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Write 180–220 words in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Writing 4 · Defend a policy under uncertainty while identifying…",
+        "body": "Defend a policy under uncertainty while identifying the premise on which your defence depends."
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-speaking-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "C2 · Speaking 1 · Distinguish absence of evidence from evidence of…",
+    "description": "Distinguish absence of evidence from evidence of absence in an archive.",
+    "minutes": 7,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 1 · Distinguish absence of evidence from evidence of…",
+        "body": "Distinguish absence of evidence from evidence of absence in an archive."
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-speaking-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "C2 · Speaking 2 · Defend a forecast whose publication changed the…",
+    "description": "Defend a forecast whose publication changed the outcome.",
+    "minutes": 7,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 2 · Defend a forecast whose publication changed the…",
+        "body": "Defend a forecast whose publication changed the outcome."
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-speaking-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "C2 · Speaking 3 · Reframe a disputed assumption charitably, then challenge…",
+    "description": "Reframe a disputed assumption charitably, then challenge its implications.",
+    "minutes": 7,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 3 · Reframe a disputed assumption charitably, then challenge…",
+        "body": "Reframe a disputed assumption charitably, then challenge its implications."
+      }
+    ]
+  },
+  {
+    "slug": "level-c2-speaking-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "C2 · Speaking 4 · Explain why agreement among several models might…",
+    "description": "Explain why agreement among several models might offer little reassurance.",
+    "minutes": 7,
+    "topic": "Preserving an absence",
+    "difficulty": "advanced",
+    "cefr": "C2",
+    "kind": "level-practice",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record your response in English.",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Speaking 4 · Explain why agreement among several models might…",
+        "body": "Explain why agreement among several models might offer little reassurance."
+      }
+    ]
+  }
+]

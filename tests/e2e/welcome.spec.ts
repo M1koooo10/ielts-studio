@@ -1,0 +1,26 @@
+import {test,expect} from "@playwright/test";
+test("registers and signs in by phone and password",async({page})=>{
+  await page.goto("/settings");
+  await expect(page).toHaveURL(/\/welcome$/);
+  await expect(page.getByRole("heading",{name:"Вход в IELTS Studio"})).toBeVisible();
+  expect((await page.request.get("/api/session")).status()).toBe(401);
+  await page.getByRole("button",{name:"Создать аккаунт",exact:true}).click();
+  await page.getByLabel("Номер телефона").fill("7012345689");
+  await page.getByLabel("Пароль",{exact:true}).fill("Studio-test-2026");
+  await page.getByRole("button",{name:"Зарегистрироваться"}).click();
+  await expect(page).toHaveURL(/complete-profile$/);
+  await page.getByLabel("Ваше имя").fill("Тест входа");
+  await page.getByRole("button",{name:"Продолжить"}).click();
+  await expect(page.getByRole("heading",{name:"Подключите OpenAI перед тестом"})).toBeVisible();
+  await expect(page.getByRole("button",{name:"Продолжить без AI"})).toHaveCount(0);
+  await page.goto("/placement");
+  await page.getByRole("button",{name:"Выйти из аккаунта"}).click();
+  await expect(page).toHaveURL(/welcome$/);
+  await page.getByLabel("Номер телефона").fill("7012345689");
+  await page.getByLabel("Пароль",{exact:true}).fill("incorrect-password");
+  await page.getByRole("button",{name:"Войти",exact:true}).click();
+  await expect(page.locator(".auth-error")).toHaveText("Неверный номер телефона или пароль.");
+  await page.getByLabel("Пароль",{exact:true}).fill("Studio-test-2026");
+  await page.getByRole("button",{name:"Войти",exact:true}).click();
+  await expect(page.getByRole("heading",{name:"Подключите OpenAI перед тестом"})).toBeVisible();
+});

@@ -1,0 +1,12 @@
+import { connection } from "../db/connection";
+import {feedbackSchema} from "../../features/tutor/contracts";
+export async function mistakes(owner:number){
+ const {client}=await connection();const [marks,feedback]=await client.batch([
+ {sql:`SELECT x.attempt_id,x.question_id,x.reviewed,q.kind,q.prompt,r.answer,r.snapshot,a.title,m.slug,m.skill FROM user_marks x JOIN user_responses r ON r.user_id=x.user_id AND r.attempt_id=x.attempt_id AND r.question_id=x.question_id JOIN questions q ON q.id=x.question_id JOIN user_attempts a ON a.id=x.attempt_id AND a.user_id=x.user_id JOIN materials m ON m.id=a.material_id WHERE x.user_id=? AND x.correct=0 ORDER BY x.attempt_id DESC,q.position`,args:[owner]},
+ {sql:`SELECT a.id,a.title,r.feedback FROM user_ai_reviews r JOIN user_attempts a ON a.id=r.attempt_id AND a.user_id=r.user_id WHERE r.user_id=? AND r.feedback IS NOT NULL ORDER BY a.id DESC`,args:[owner]}],"read");
+ return {items:marks.rows.map(r=>({attemptId:Number(r.attempt_id),questionId:Number(r.question_id),resolved:Boolean(r.reviewed),skill:String(r.skill),slug:String(r.slug),title:String(r.title),prompt:String(r.prompt),answer:String(r.answer),explanation:String(JSON.parse(String(r.snapshot)).explanation??""),correct:(JSON.parse(String(r.snapshot)).accepted??[]).join(" / ")})),feedback:feedback.rows.flatMap(r=>{const f=feedbackSchema.safeParse(JSON.parse(String(r.feedback)));return f.success?f.data.corrections.map(c=>({attemptId:Number(r.id),title:String(r.title),...c})):[]})};
+}
+export async function planDay(owner:number,date:string){const {client}=await connection();const [tasks,ideas]=await client.batch([
+ {sql:"SELECT id,title,completed_at FROM user_tasks WHERE user_id=? AND scheduled_date=? ORDER BY id",args:[owner,date]},
+ {sql:`SELECT m.slug,m.title,m.minutes FROM materials m WHERE m.status='ready' ORDER BY EXISTS(SELECT 1 FROM user_marks x JOIN user_attempts a ON a.user_id=x.user_id AND a.id=x.attempt_id WHERE x.user_id=? AND a.material_id=m.id AND x.correct=0 AND x.reviewed=0) DESC, EXISTS(SELECT 1 FROM user_attempts a WHERE a.user_id=? AND a.material_id=m.id AND a.state='submitted'),abs(m.minutes-(SELECT daily_minutes FROM user_settings WHERE user_id=?)),m.id LIMIT 3`,args:[owner,owner,owner]}],"read");return {tasks:tasks.rows.map(r=>({id:Number(r.id),title:String(r.title),done:r.completed_at!==null})),ideas:ideas.rows.map(r=>({slug:String(r.slug),title:String(r.title),minutes:Number(r.minutes)}))}}
+

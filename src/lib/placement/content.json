@@ -1,0 +1,209 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "prompt": "When does the course begin?",
+      "options": [
+        "7 September",
+        "14 September",
+        "17 September",
+        "21 September"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "What time do classes start?",
+      "options": [
+        "5:30 pm",
+        "6:00 pm",
+        "6:30 pm",
+        "8:00 pm"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "How often are classes held?",
+      "options": [
+        "Twice a week",
+        "Three times a week",
+        "Four times a week",
+        "Every day"
+      ]
+    },
+    {
+      "id": 4,
+      "prompt": "How much does the course cost?",
+      "options": [
+        "£160",
+        "£180",
+        "£200",
+        "£280"
+      ]
+    },
+    {
+      "id": 5,
+      "prompt": "What should the student bring?",
+      "options": [
+        "Passport and pen",
+        "Textbook and laptop",
+        "Notebook and student ID",
+        "Study materials and form"
+      ]
+    },
+    {
+      "id": 6,
+      "prompt": "What did researchers originally expect?",
+      "options": [
+        "Lower housing costs",
+        "More frequent exercise",
+        "Increased migration",
+        "Cheaper park maintenance"
+      ]
+    },
+    {
+      "id": 7,
+      "prompt": "What was the unexpected finding?",
+      "options": [
+        "Less outdoor activity",
+        "Dramatically increased exercise",
+        "Lower reported stress",
+        "Preference for indoor activities"
+      ]
+    },
+    {
+      "id": 8,
+      "prompt": "What happened to some participants' physical activity?",
+      "options": [
+        "It remained unchanged",
+        "It doubled",
+        "It declined sharply",
+        "It was not measured"
+      ]
+    },
+    {
+      "id": 9,
+      "prompt": "Which factor was mentioned as important?",
+      "options": [
+        "Housing prices",
+        "Transport fares",
+        "Building height",
+        "Park safety"
+      ]
+    },
+    {
+      "id": 10,
+      "prompt": "What is the main conclusion?",
+      "options": [
+        "Build as many parks as possible",
+        "Park quality matters as well as quantity",
+        "Exercise is unrelated to parks",
+        "Only large parks are beneficial"
+      ]
+    },
+    {
+      "id": 11,
+      "prompt": "Remote work can reduce the need for commuting.",
+      "options": [
+        "True",
+        "False",
+        "Not Given"
+      ]
+    },
+    {
+      "id": 12,
+      "prompt": "All employees find it easy to separate work and personal life.",
+      "options": [
+        "True",
+        "False",
+        "Not Given"
+      ]
+    },
+    {
+      "id": 13,
+      "prompt": "68% preferred a hybrid arrangement.",
+      "options": [
+        "True",
+        "False",
+        "Not Given"
+      ]
+    },
+    {
+      "id": 14,
+      "prompt": "The survey was conducted in five countries.",
+      "options": [
+        "True",
+        "False",
+        "Not Given"
+      ]
+    },
+    {
+      "id": 15,
+      "prompt": "One working model is suitable for everyone.",
+      "options": [
+        "True",
+        "False",
+        "Not Given"
+      ]
+    },
+    {
+      "id": 16,
+      "prompt": "What is one advantage of adaptive learning?",
+      "options": [
+        "Eliminating examinations",
+        "Adjusting exercises based on performance",
+        "Guaranteeing long-term learning",
+        "Removing differences between students"
+      ]
+    },
+    {
+      "id": 17,
+      "prompt": "Why are researchers cautious about improvements?",
+      "options": [
+        "Students dislike computers",
+        "Engagement cannot be measured",
+        "Short-term results may not indicate lasting understanding",
+        "Studies exclude technology"
+      ]
+    },
+    {
+      "id": 18,
+      "prompt": "What concern exists about training datasets?",
+      "options": [
+        "Unequal outcomes across populations",
+        "Excessive information in every dataset",
+        "Prevention of independent learning",
+        "Teachers becoming unnecessary"
+      ]
+    },
+    {
+      "id": 19,
+      "prompt": "What role should teachers have?",
+      "options": [
+        "Replace all automated assessments",
+        "Focus only on maintenance",
+        "Let AI make every decision",
+        "Interpret and evaluate AI recommendations"
+      ]
+    },
+    {
+      "id": 20,
+      "prompt": "What is crucial for AI's educational value?",
+      "options": [
+        "Number of algorithms",
+        "Conditions of implementation",
+        "Removal of traditional teaching",
+        "Speed of data collection"
+      ]
+    }
+  ],
+  "passages": [
+    {
+      "title": "The Rise of Remote Work",
+      "text": "Remote work has become increasingly common as digital technology allows employees to perform many tasks outside traditional offices. For some workers, this arrangement provides greater flexibility and eliminates the need for daily commuting.\n\nNevertheless, working from home also creates challenges. Employees may experience difficulties separating professional responsibilities from personal life, particularly when they do not have a dedicated workspace.\n\nA survey of 1,200 office workers found that 68% preferred a hybrid model, combining home-based and office-based work. Only 17% wanted to work entirely from home, while the remaining participants preferred a traditional office environment.\n\nResearchers suggested that the success of remote working arrangements depends on factors such as communication practices, the type of job performed and individual preferences. They concluded that no single working model is ideal for every employee."
+    },
+    {
+      "title": "Artificial Intelligence in Education",
+      "text": "Artificial intelligence is increasingly being integrated into educational systems, with proponents arguing that adaptive learning platforms can offer students personalised instruction at a scale previously considered impractical. By analysing patterns of performance, these systems can identify areas of difficulty and adjust the complexity of subsequent exercises.\n\nHowever, the effectiveness of AI-assisted education remains the subject of considerable debate. Although some studies have reported improvements in student engagement, evidence of sustained academic benefits is less conclusive. Researchers have noted that short-term improvements in test performance do not necessarily demonstrate deeper understanding or long-term retention of knowledge.\n\nAnother concern involves the assumptions embedded in automated assessment systems. Algorithms trained on limited datasets may perform unevenly across different populations, potentially reinforcing existing educational inequalities. Furthermore, the use of extensive student data raises questions about privacy, consent and institutional accountability.\n\nAdvocates of AI in education acknowledge these challenges but argue that they do not justify abandoning the technology. Instead, they propose a model in which AI supplements rather than replaces teachers. Under this approach, educators would remain responsible for interpreting automated recommendations, assessing their appropriateness and providing the interpersonal support that technological systems cannot reliably replicate.\n\nUltimately, the value of AI in education may depend less on the sophistication of individual algorithms than on the institutional conditions under which they are introduced. Transparent evaluation, teacher training and clear safeguards could determine whether these technologies become meaningful educational tools or merely expensive additions to existing infrastructure."
+    }
+  ]
+}

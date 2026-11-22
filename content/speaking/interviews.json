@@ -1,0 +1,5237 @@
+[
+  {
+    "slug": "oral-hometown-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Where in your hometown do you spend most of your free time?",
+    "description": "Speaking Part 1 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hometown",
+        "body": "Where in your hometown do you spend most of your free time?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What sound reminds you of home?",
+    "description": "Speaking Part 1 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hometown",
+        "body": "What sound reminds you of home?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which local building do you recognise from far away?",
+    "description": "Speaking Part 1 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hometown",
+        "body": "Which local building do you recognise from far away?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What do visitors usually ask you about your town?",
+    "description": "Speaking Part 1 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hometown",
+        "body": "What do visitors usually ask you about your town?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Has your favourite street changed recently?",
+    "description": "Speaking Part 1 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hometown",
+        "body": "Has your favourite street changed recently?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a street that matters to you",
+    "description": "Speaking Part 2 · Hometown",
+    "minutes": 3,
+    "topic": "Hometown",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Hometown",
+        "body": "Describe a street that matters to you.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a view of your hometown you would photograph",
+    "description": "Speaking Part 2 · Hometown",
+    "minutes": 3,
+    "topic": "Hometown",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Hometown",
+        "body": "Describe a view of your hometown you would photograph.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should historic town centres allow new buildings?",
+    "description": "Speaking Part 3 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Hometown",
+        "body": "Should historic town centres allow new buildings?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do some towns lose their young residents?",
+    "description": "Speaking Part 3 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Hometown",
+        "body": "Why do some towns lose their young residents?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who should choose names for new streets?",
+    "description": "Speaking Part 3 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Hometown",
+        "body": "Who should choose names for new streets?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hometown-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can a town welcome visitors without disrupting daily life?",
+    "description": "Speaking Part 3 · Hometown",
+    "minutes": 2,
+    "topic": "Hometown",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Hometown",
+        "body": "How can a town welcome visitors without disrupting daily life?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which meal do you often share with family?",
+    "description": "Speaking Part 1 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Family",
+        "body": "Which meal do you often share with family?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who in your family tells the best stories?",
+    "description": "Speaking Part 1 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Family",
+        "body": "Who in your family tells the best stories?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do you keep in touch with relatives who live far away?",
+    "description": "Speaking Part 1 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Family",
+        "body": "How do you keep in touch with relatives who live far away?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What did you enjoy doing with older relatives as a child?",
+    "description": "Speaking Part 1 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Family",
+        "body": "What did you enjoy doing with older relatives as a child?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Is there a family custom you would like to continue?",
+    "description": "Speaking Part 1 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Family",
+        "body": "Is there a family custom you would like to continue?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a skill a relative taught you",
+    "description": "Speaking Part 2 · Family",
+    "minutes": 3,
+    "topic": "Family",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Family",
+        "body": "Describe a skill a relative taught you.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a memorable family gathering",
+    "description": "Speaking Part 2 · Family",
+    "minutes": 3,
+    "topic": "Family",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Family",
+        "body": "Describe a memorable family gathering.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How does working from home change family routines?",
+    "description": "Speaking Part 3 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Family",
+        "body": "How does working from home change family routines?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What knowledge can younger relatives pass to older ones?",
+    "description": "Speaking Part 3 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Family",
+        "body": "What knowledge can younger relatives pass to older ones?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should cities build homes for several generations to share?",
+    "description": "Speaking Part 3 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Family",
+        "body": "Should cities build homes for several generations to share?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-family-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do some family traditions disappear?",
+    "description": "Speaking Part 3 · Family",
+    "minutes": 2,
+    "topic": "Family",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Family",
+        "body": "Why do some family traditions disappear?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which school subject surprised you?",
+    "description": "Speaking Part 1 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Education",
+        "body": "Which school subject surprised you?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Where do you usually take notes?",
+    "description": "Speaking Part 1 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Education",
+        "body": "Where do you usually take notes?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you revise alone or with someone else?",
+    "description": "Speaking Part 1 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Education",
+        "body": "Do you revise alone or with someone else?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes a school day feel productive?",
+    "description": "Speaking Part 1 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Education",
+        "body": "What makes a school day feel productive?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What would you like to learn outside a classroom?",
+    "description": "Speaking Part 1 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Education",
+        "body": "What would you like to learn outside a classroom?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a lesson that changed your mind",
+    "description": "Speaking Part 2 · Education",
+    "minutes": 3,
+    "topic": "Education",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Education",
+        "body": "Describe a lesson that changed your mind.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a school project you helped organise",
+    "description": "Speaking Part 2 · Education",
+    "minutes": 3,
+    "topic": "Education",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Education",
+        "body": "Describe a school project you helped organise.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How should schools measure curiosity?",
+    "description": "Speaking Part 3 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Education",
+        "body": "How should schools measure curiosity?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When is individual tuition more effective than a class?",
+    "description": "Speaking Part 3 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Education",
+        "body": "When is individual tuition more effective than a class?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should students help design their school timetable?",
+    "description": "Speaking Part 3 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Education",
+        "body": "Should students help design their school timetable?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-education-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do some adults hesitate to return to education?",
+    "description": "Speaking Part 3 · Education",
+    "minutes": 2,
+    "topic": "Education",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Education",
+        "body": "Why do some adults hesitate to return to education?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What kind of workspace helps you concentrate?",
+    "description": "Speaking Part 1 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Work",
+        "body": "What kind of workspace helps you concentrate?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which task do you prefer to do early in the day?",
+    "description": "Speaking Part 1 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Work",
+        "body": "Which task do you prefer to do early in the day?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have you ever helped someone at work?",
+    "description": "Speaking Part 1 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Work",
+        "body": "Have you ever helped someone at work?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do you prepare for a busy week?",
+    "description": "Speaking Part 1 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Work",
+        "body": "How do you prepare for a busy week?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What would make a training day interesting for you?",
+    "description": "Speaking Part 1 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Work",
+        "body": "What would make a training day interesting for you?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a task you finished as part of a team",
+    "description": "Speaking Part 2 · Work",
+    "minutes": 3,
+    "topic": "Work",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Work",
+        "body": "Describe a task you finished as part of a team.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe an occupation you would like to observe for a day",
+    "description": "Speaking Part 2 · Work",
+    "minutes": 3,
+    "topic": "Work",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Work",
+        "body": "Describe an occupation you would like to observe for a day.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How might shorter working weeks affect small businesses?",
+    "description": "Speaking Part 3 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Work",
+        "body": "How might shorter working weeks affect small businesses?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What should employers teach on a first day?",
+    "description": "Speaking Part 3 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Work",
+        "body": "What should employers teach on a first day?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When is experience a better guide than a qualification?",
+    "description": "Speaking Part 3 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Work",
+        "body": "When is experience a better guide than a qualification?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-work-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who gains most from flexible working hours?",
+    "description": "Speaking Part 3 · Work",
+    "minutes": 2,
+    "topic": "Work",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Work",
+        "body": "Who gains most from flexible working hours?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which device do you use first each morning?",
+    "description": "Speaking Part 1 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Technology",
+        "body": "Which device do you use first each morning?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What do you use your phone camera for?",
+    "description": "Speaking Part 1 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Technology",
+        "body": "What do you use your phone camera for?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you prefer physical buttons or touchscreens?",
+    "description": "Speaking Part 1 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Technology",
+        "body": "Do you prefer physical buttons or touchscreens?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When did you last learn to use a new app?",
+    "description": "Speaking Part 1 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Technology",
+        "body": "When did you last learn to use a new app?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What device would you find difficult to replace?",
+    "description": "Speaking Part 1 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Technology",
+        "body": "What device would you find difficult to replace?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a device that solved a practical problem",
+    "description": "Speaking Part 2 · Technology",
+    "minutes": 3,
+    "topic": "Technology",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Technology",
+        "body": "Describe a device that solved a practical problem.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a time you managed without a usual technology",
+    "description": "Speaking Part 2 · Technology",
+    "minutes": 3,
+    "topic": "Technology",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Technology",
+        "body": "Describe a time you managed without a usual technology.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should manufacturers have to offer repair instructions?",
+    "description": "Speaking Part 3 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Technology",
+        "body": "Should manufacturers have to offer repair instructions?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes a new device accessible to beginners?",
+    "description": "Speaking Part 3 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Technology",
+        "body": "What makes a new device accessible to beginners?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can schools choose technology that will remain useful?",
+    "description": "Speaking Part 3 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Technology",
+        "body": "How can schools choose technology that will remain useful?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-technology-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do some older technologies survive?",
+    "description": "Speaking Part 3 · Technology",
+    "minutes": 2,
+    "topic": "Technology",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Technology",
+        "body": "Why do some older technologies survive?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What do you pack first for a short trip?",
+    "description": "Speaking Part 1 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Travel",
+        "body": "What do you pack first for a short trip?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you like planning a route in advance?",
+    "description": "Speaking Part 1 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Travel",
+        "body": "Do you like planning a route in advance?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do you pass time on long journeys?",
+    "description": "Speaking Part 1 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Travel",
+        "body": "How do you pass time on long journeys?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which part of a journey do you remember most clearly?",
+    "description": "Speaking Part 1 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Travel",
+        "body": "Which part of a journey do you remember most clearly?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have you ever travelled somewhere twice?",
+    "description": "Speaking Part 1 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Travel",
+        "body": "Have you ever travelled somewhere twice?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a journey that took longer than planned",
+    "description": "Speaking Part 2 · Travel",
+    "minutes": 3,
+    "topic": "Travel",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Travel",
+        "body": "Describe a journey that took longer than planned.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a place you visited on a recommendation",
+    "description": "Speaking Part 2 · Travel",
+    "minutes": 3,
+    "topic": "Travel",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Travel",
+        "body": "Describe a place you visited on a recommendation.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who should pay for protecting popular destinations?",
+    "description": "Speaking Part 3 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Travel",
+        "body": "Who should pay for protecting popular destinations?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do some travellers return to familiar places?",
+    "description": "Speaking Part 3 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Travel",
+        "body": "Why do some travellers return to familiar places?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How might better rail links change domestic tourism?",
+    "description": "Speaking Part 3 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Travel",
+        "body": "How might better rail links change domestic tourism?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-travel-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Can a travel review ever be completely objective?",
+    "description": "Speaking Part 3 · Travel",
+    "minutes": 2,
+    "topic": "Travel",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Travel",
+        "body": "Can a travel review ever be completely objective?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What do you usually reuse at home?",
+    "description": "Speaking Part 1 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Environment",
+        "body": "What do you usually reuse at home?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Is there a quiet green space near you?",
+    "description": "Speaking Part 1 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Environment",
+        "body": "Is there a quiet green space near you?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do you deal with hot weather outdoors?",
+    "description": "Speaking Part 1 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Environment",
+        "body": "How do you deal with hot weather outdoors?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have you noticed changes in local wildlife?",
+    "description": "Speaking Part 1 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Environment",
+        "body": "Have you noticed changes in local wildlife?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What environmental habit was easy for you to adopt?",
+    "description": "Speaking Part 1 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Environment",
+        "body": "What environmental habit was easy for you to adopt?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a green space you helped look after",
+    "description": "Speaking Part 2 · Environment",
+    "minutes": 3,
+    "topic": "Environment",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Environment",
+        "body": "Describe a green space you helped look after.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a change that reduced waste in your household",
+    "description": "Speaking Part 2 · Environment",
+    "minutes": 3,
+    "topic": "Environment",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Environment",
+        "body": "Describe a change that reduced waste in your household.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How should cities decide where to plant trees?",
+    "description": "Speaking Part 3 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Environment",
+        "body": "How should cities decide where to plant trees?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Are rewards effective in changing waste habits?",
+    "description": "Speaking Part 3 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Environment",
+        "body": "Are rewards effective in changing waste habits?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why is it difficult to measure a local conservation project's success?",
+    "description": "Speaking Part 3 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Environment",
+        "body": "Why is it difficult to measure a local conservation project's success?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-environment-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who should be consulted before a natural area is opened to tourism?",
+    "description": "Speaking Part 3 · Environment",
+    "minutes": 2,
+    "topic": "Environment",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Environment",
+        "body": "Who should be consulted before a natural area is opened to tourism?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What hobby takes up the most space at home?",
+    "description": "Speaking Part 1 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hobbies",
+        "body": "What hobby takes up the most space at home?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you set a regular time for hobbies?",
+    "description": "Speaking Part 1 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hobbies",
+        "body": "Do you set a regular time for hobbies?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What did you collect as a child?",
+    "description": "Speaking Part 1 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hobbies",
+        "body": "What did you collect as a child?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have you ever traded hobby supplies with a friend?",
+    "description": "Speaking Part 1 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hobbies",
+        "body": "Have you ever traded hobby supplies with a friend?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which hobby would you try if equipment were free?",
+    "description": "Speaking Part 1 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Hobbies",
+        "body": "Which hobby would you try if equipment were free?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a hobby that required patience",
+    "description": "Speaking Part 2 · Hobbies",
+    "minutes": 3,
+    "topic": "Hobbies",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Hobbies",
+        "body": "Describe a hobby that required patience.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a club you would recommend to a beginner",
+    "description": "Speaking Part 2 · Hobbies",
+    "minutes": 3,
+    "topic": "Hobbies",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Hobbies",
+        "body": "Describe a club you would recommend to a beginner.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do hobby groups build trust among strangers?",
+    "description": "Speaking Part 3 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Hobbies",
+        "body": "How do hobby groups build trust among strangers?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should public libraries lend tools and hobby equipment?",
+    "description": "Speaking Part 3 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Hobbies",
+        "body": "Should public libraries lend tools and hobby equipment?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When can turning a hobby into a job spoil it?",
+    "description": "Speaking Part 3 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Hobbies",
+        "body": "When can turning a hobby into a job spoil it?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-hobbies-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do traditional crafts become fashionable again?",
+    "description": "Speaking Part 3 · Hobbies",
+    "minutes": 2,
+    "topic": "Hobbies",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Hobbies",
+        "body": "Why do traditional crafts become fashionable again?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Where do you like to read a long book?",
+    "description": "Speaking Part 1 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Books",
+        "body": "Where do you like to read a long book?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you choose books by their covers?",
+    "description": "Speaking Part 1 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Books",
+        "body": "Do you choose books by their covers?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes you put a book aside?",
+    "description": "Speaking Part 1 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Books",
+        "body": "What makes you put a book aside?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have you ever borrowed a book for a second time?",
+    "description": "Speaking Part 1 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Books",
+        "body": "Have you ever borrowed a book for a second time?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What do you do when you meet an unfamiliar word while reading?",
+    "description": "Speaking Part 1 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Books",
+        "body": "What do you do when you meet an unfamiliar word while reading?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a book you would lend to a friend",
+    "description": "Speaking Part 2 · Books",
+    "minutes": 3,
+    "topic": "Books",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Books",
+        "body": "Describe a book you would lend to a friend.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a reading place you remember well",
+    "description": "Speaking Part 2 · Books",
+    "minutes": 3,
+    "topic": "Books",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Books",
+        "body": "Describe a reading place you remember well.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What can a library offer that an online shop cannot?",
+    "description": "Speaking Part 3 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Books",
+        "body": "What can a library offer that an online shop cannot?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should schools let pupils abandon a book they dislike?",
+    "description": "Speaking Part 3 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Books",
+        "body": "Should schools let pupils abandon a book they dislike?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How does translation change a reader's experience?",
+    "description": "Speaking Part 3 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Books",
+        "body": "How does translation change a reader's experience?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-books-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do some books appeal to people of different ages?",
+    "description": "Speaking Part 3 · Books",
+    "minutes": 2,
+    "topic": "Books",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Books",
+        "body": "Why do some books appeal to people of different ages?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When do you prefer to listen to silence?",
+    "description": "Speaking Part 1 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Music",
+        "body": "When do you prefer to listen to silence?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What song do you associate with a particular place?",
+    "description": "Speaking Part 1 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Music",
+        "body": "What song do you associate with a particular place?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do you discover unfamiliar musicians?",
+    "description": "Speaking Part 1 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Music",
+        "body": "How do you discover unfamiliar musicians?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you enjoy hearing music played outdoors?",
+    "description": "Speaking Part 1 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Music",
+        "body": "Do you enjoy hearing music played outdoors?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have your listening habits changed since school?",
+    "description": "Speaking Part 1 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Music",
+        "body": "Have your listening habits changed since school?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a performance you still remember",
+    "description": "Speaking Part 2 · Music",
+    "minutes": 3,
+    "topic": "Music",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Music",
+        "body": "Describe a performance you still remember.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a song someone introduced to you",
+    "description": "Speaking Part 2 · Music",
+    "minutes": 3,
+    "topic": "Music",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Music",
+        "body": "Describe a song someone introduced to you.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should performers adapt concerts for smaller audiences?",
+    "description": "Speaking Part 3 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Music",
+        "body": "Should performers adapt concerts for smaller audiences?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can young musicians find listeners without a large budget?",
+    "description": "Speaking Part 3 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Music",
+        "body": "How can young musicians find listeners without a large budget?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What is lost when a traditional song changes language?",
+    "description": "Speaking Part 3 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Music",
+        "body": "What is lost when a traditional song changes language?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-music-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can a city balance street music and residents' need for quiet?",
+    "description": "Speaking Part 3 · Music",
+    "minutes": 2,
+    "topic": "Music",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Music",
+        "body": "How can a city balance street music and residents' need for quiet?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do you arrange to meet a friend?",
+    "description": "Speaking Part 1 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Friends",
+        "body": "How do you arrange to meet a friend?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What activity do you prefer to do with company?",
+    "description": "Speaking Part 1 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Friends",
+        "body": "What activity do you prefer to do with company?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you keep in touch with friends from school?",
+    "description": "Speaking Part 1 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Friends",
+        "body": "Do you keep in touch with friends from school?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When do you ask friends for advice?",
+    "description": "Speaking Part 1 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Friends",
+        "body": "When do you ask friends for advice?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What small gift would a close friend appreciate?",
+    "description": "Speaking Part 1 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Friends",
+        "body": "What small gift would a close friend appreciate?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a friend who encouraged you to try something",
+    "description": "Speaking Part 2 · Friends",
+    "minutes": 3,
+    "topic": "Friends",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Friends",
+        "body": "Describe a friend who encouraged you to try something.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a reunion that went differently from your plans",
+    "description": "Speaking Part 2 · Friends",
+    "minutes": 3,
+    "topic": "Friends",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Friends",
+        "body": "Describe a reunion that went differently from your plans.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How does moving frequently affect friendship?",
+    "description": "Speaking Part 3 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Friends",
+        "body": "How does moving frequently affect friendship?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes volunteering a good way to meet people?",
+    "description": "Speaking Part 3 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Friends",
+        "body": "What makes volunteering a good way to meet people?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Can an online community offer the same support as neighbours?",
+    "description": "Speaking Part 3 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Friends",
+        "body": "Can an online community offer the same support as neighbours?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-friends-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do people form friendships outside their age group?",
+    "description": "Speaking Part 3 · Friends",
+    "minutes": 2,
+    "topic": "Friends",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Friends",
+        "body": "Why do people form friendships outside their age group?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which celebration do you enjoy preparing for?",
+    "description": "Speaking Part 1 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Culture",
+        "body": "Which celebration do you enjoy preparing for?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Is there a local dish you associate with a festival?",
+    "description": "Speaking Part 1 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Culture",
+        "body": "Is there a local dish you associate with a festival?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When did you last visit an exhibition?",
+    "description": "Speaking Part 1 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Culture",
+        "body": "When did you last visit an exhibition?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you like learning the history of familiar objects?",
+    "description": "Speaking Part 1 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Culture",
+        "body": "Do you like learning the history of familiar objects?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What cultural event would you invite a visitor to?",
+    "description": "Speaking Part 1 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Culture",
+        "body": "What cultural event would you invite a visitor to?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a celebration you attended for the first time",
+    "description": "Speaking Part 2 · Culture",
+    "minutes": 3,
+    "topic": "Culture",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Culture",
+        "body": "Describe a celebration you attended for the first time.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a handmade object with cultural meaning",
+    "description": "Speaking Part 2 · Culture",
+    "minutes": 3,
+    "topic": "Culture",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Culture",
+        "body": "Describe a handmade object with cultural meaning.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who should decide how a tradition is presented in museums?",
+    "description": "Speaking Part 3 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Culture",
+        "body": "Who should decide how a tradition is presented in museums?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Can a festival grow without losing its local character?",
+    "description": "Speaking Part 3 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Culture",
+        "body": "Can a festival grow without losing its local character?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do some visitors prefer ordinary markets to monuments?",
+    "description": "Speaking Part 3 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Culture",
+        "body": "Why do some visitors prefer ordinary markets to monuments?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-culture-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How should museums explain objects with several meanings?",
+    "description": "Speaking Part 3 · Culture",
+    "minutes": 2,
+    "topic": "Culture",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Culture",
+        "body": "How should museums explain objects with several meanings?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which part of a city do you find easiest to navigate?",
+    "description": "Speaking Part 1 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Cities",
+        "body": "Which part of a city do you find easiest to navigate?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Where do you go to escape traffic noise?",
+    "description": "Speaking Part 1 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Cities",
+        "body": "Where do you go to escape traffic noise?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes a public square comfortable?",
+    "description": "Speaking Part 1 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Cities",
+        "body": "What makes a public square comfortable?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you prefer tall buildings or low streets?",
+    "description": "Speaking Part 1 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Cities",
+        "body": "Do you prefer tall buildings or low streets?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which city facility is closest to your home?",
+    "description": "Speaking Part 1 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Cities",
+        "body": "Which city facility is closest to your home?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a public building you enjoy using",
+    "description": "Speaking Part 2 · Cities",
+    "minutes": 3,
+    "topic": "Cities",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Cities",
+        "body": "Describe a public building you enjoy using.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a small improvement to your neighbourhood",
+    "description": "Speaking Part 2 · Cities",
+    "minutes": 3,
+    "topic": "Cities",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Cities",
+        "body": "Describe a small improvement to your neighbourhood.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What should a city prioritise when land is scarce?",
+    "description": "Speaking Part 3 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Cities",
+        "body": "What should a city prioritise when land is scarce?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who benefits most from pedestrian areas?",
+    "description": "Speaking Part 3 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Cities",
+        "body": "Who benefits most from pedestrian areas?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can planners include residents who rarely attend meetings?",
+    "description": "Speaking Part 3 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Cities",
+        "body": "How can planners include residents who rarely attend meetings?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-cities-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should cities preserve buildings that few people use?",
+    "description": "Speaking Part 3 · Cities",
+    "minutes": 2,
+    "topic": "Cities",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Cities",
+        "body": "Should cities preserve buildings that few people use?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which public transport route do you know best?",
+    "description": "Speaking Part 1 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Public transport",
+        "body": "Which public transport route do you know best?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do you check when your bus will arrive?",
+    "description": "Speaking Part 1 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Public transport",
+        "body": "How do you check when your bus will arrive?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What do you notice first at a railway station?",
+    "description": "Speaking Part 1 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Public transport",
+        "body": "What do you notice first at a railway station?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When do you choose walking over a short bus ride?",
+    "description": "Speaking Part 1 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Public transport",
+        "body": "When do you choose walking over a short bus ride?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have you used a ticket system you found especially convenient?",
+    "description": "Speaking Part 1 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Public transport",
+        "body": "Have you used a ticket system you found especially convenient?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a public transport journey that went well",
+    "description": "Speaking Part 2 · Public transport",
+    "minutes": 3,
+    "topic": "Public transport",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Public transport",
+        "body": "Describe a public transport journey that went well.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a station where a small detail helped you",
+    "description": "Speaking Part 2 · Public transport",
+    "minutes": 3,
+    "topic": "Public transport",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Public transport",
+        "body": "Describe a station where a small detail helped you.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should frequent passengers pay a lower fare?",
+    "description": "Speaking Part 3 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Public transport",
+        "body": "Should frequent passengers pay a lower fare?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can a transport authority improve rural services?",
+    "description": "Speaking Part 3 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Public transport",
+        "body": "How can a transport authority improve rural services?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes a timetable useful during disruption?",
+    "description": "Speaking Part 3 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Public transport",
+        "body": "What makes a timetable useful during disruption?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-public-transport-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which matters more to commuters, speed or reliability?",
+    "description": "Speaking Part 3 · Public transport",
+    "minutes": 2,
+    "topic": "Public transport",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Public transport",
+        "body": "Which matters more to commuters, speed or reliability?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which ingredient do you keep buying?",
+    "description": "Speaking Part 1 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Food",
+        "body": "Which ingredient do you keep buying?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What do you cook when you are short of time?",
+    "description": "Speaking Part 1 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Food",
+        "body": "What do you cook when you are short of time?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you read labels when shopping for food?",
+    "description": "Speaking Part 1 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Food",
+        "body": "Do you read labels when shopping for food?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who first taught you to prepare a meal?",
+    "description": "Speaking Part 1 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Food",
+        "body": "Who first taught you to prepare a meal?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What food reminds you of a particular season?",
+    "description": "Speaking Part 1 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Food",
+        "body": "What food reminds you of a particular season?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a meal prepared for a special occasion",
+    "description": "Speaking Part 2 · Food",
+    "minutes": 3,
+    "topic": "Food",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Food",
+        "body": "Describe a meal prepared for a special occasion.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a recipe you adapted using what you had",
+    "description": "Speaking Part 2 · Food",
+    "minutes": 3,
+    "topic": "Food",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Food",
+        "body": "Describe a recipe you adapted using what you had.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do school meals influence eating habits?",
+    "description": "Speaking Part 3 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Food",
+        "body": "How do school meals influence eating habits?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should markets prioritise local producers?",
+    "description": "Speaking Part 3 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Food",
+        "body": "Should markets prioritise local producers?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do families keep recipes that are rarely cooked?",
+    "description": "Speaking Part 3 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Food",
+        "body": "Why do families keep recipes that are rarely cooked?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-food-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can restaurants reduce waste while giving customers choice?",
+    "description": "Speaking Part 3 · Food",
+    "minutes": 2,
+    "topic": "Food",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Food",
+        "body": "How can restaurants reduce waste while giving customers choice?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which scientific question interested you as a child?",
+    "description": "Speaking Part 1 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Science",
+        "body": "Which scientific question interested you as a child?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you enjoy watching demonstrations?",
+    "description": "Speaking Part 1 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Science",
+        "body": "Do you enjoy watching demonstrations?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Where do you look for an explanation of a natural event?",
+    "description": "Speaking Part 1 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Science",
+        "body": "Where do you look for an explanation of a natural event?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have you ever measured something out of curiosity?",
+    "description": "Speaking Part 1 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Science",
+        "body": "Have you ever measured something out of curiosity?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which science museum exhibit would you like to see?",
+    "description": "Speaking Part 1 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Science",
+        "body": "Which science museum exhibit would you like to see?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a simple observation that made you curious",
+    "description": "Speaking Part 2 · Science",
+    "minutes": 3,
+    "topic": "Science",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Science",
+        "body": "Describe a simple observation that made you curious.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a science explanation you found memorable",
+    "description": "Speaking Part 2 · Science",
+    "minutes": 3,
+    "topic": "Science",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Science",
+        "body": "Describe a science explanation you found memorable.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes a scientific demonstration convincing to a public audience?",
+    "description": "Speaking Part 3 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Science",
+        "body": "What makes a scientific demonstration convincing to a public audience?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why should researchers describe uncertainty?",
+    "description": "Speaking Part 3 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Science",
+        "body": "Why should researchers describe uncertainty?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who should choose which local research projects receive funding?",
+    "description": "Speaking Part 3 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Science",
+        "body": "Who should choose which local research projects receive funding?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-science-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can museums encourage visitors to test their own ideas?",
+    "description": "Speaking Part 3 · Science",
+    "minutes": 2,
+    "topic": "Science",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Science",
+        "body": "How can museums encourage visitors to test their own ideas?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Where did you play after school?",
+    "description": "Speaking Part 1 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Childhood",
+        "body": "Where did you play after school?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What toy did you look after carefully?",
+    "description": "Speaking Part 1 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Childhood",
+        "body": "What toy did you look after carefully?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What did you enjoy making with your hands?",
+    "description": "Speaking Part 1 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Childhood",
+        "body": "What did you enjoy making with your hands?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who decided your bedtime when you were little?",
+    "description": "Speaking Part 1 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Childhood",
+        "body": "Who decided your bedtime when you were little?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which childhood game would you still enjoy?",
+    "description": "Speaking Part 1 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Childhood",
+        "body": "Which childhood game would you still enjoy?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a childhood place that changed over time",
+    "description": "Speaking Part 2 · Childhood",
+    "minutes": 3,
+    "topic": "Childhood",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Childhood",
+        "body": "Describe a childhood place that changed over time.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a game you invented or adapted as a child",
+    "description": "Speaking Part 2 · Childhood",
+    "minutes": 3,
+    "topic": "Childhood",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Childhood",
+        "body": "Describe a game you invented or adapted as a child.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes a neighbourhood suitable for children's play?",
+    "description": "Speaking Part 3 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Childhood",
+        "body": "What makes a neighbourhood suitable for children's play?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How do adults decide when to let children take risks?",
+    "description": "Speaking Part 3 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Childhood",
+        "body": "How do adults decide when to let children take risks?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why are some childhood memories especially vivid?",
+    "description": "Speaking Part 3 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Childhood",
+        "body": "Why are some childhood memories especially vivid?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-childhood-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should children have a say in the design of playgrounds?",
+    "description": "Speaking Part 3 · Childhood",
+    "minutes": 2,
+    "topic": "Childhood",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Childhood",
+        "body": "Should children have a say in the design of playgrounds?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you prefer voice messages or written ones?",
+    "description": "Speaking Part 1 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Communication",
+        "body": "Do you prefer voice messages or written ones?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When do you usually call rather than text?",
+    "description": "Speaking Part 1 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Communication",
+        "body": "When do you usually call rather than text?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which language do you use for taking personal notes?",
+    "description": "Speaking Part 1 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Communication",
+        "body": "Which language do you use for taking personal notes?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you like drawing a diagram to explain something?",
+    "description": "Speaking Part 1 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Communication",
+        "body": "Do you like drawing a diagram to explain something?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When did a short message brighten your day?",
+    "description": "Speaking Part 1 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Communication",
+        "body": "When did a short message brighten your day?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a time you explained a complicated idea simply",
+    "description": "Speaking Part 2 · Communication",
+    "minutes": 3,
+    "topic": "Communication",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Communication",
+        "body": "Describe a time you explained a complicated idea simply.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a misunderstanding you managed to clear up",
+    "description": "Speaking Part 2 · Communication",
+    "minutes": 3,
+    "topic": "Communication",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Communication",
+        "body": "Describe a misunderstanding you managed to clear up.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How does communication change when nobody can see facial expressions?",
+    "description": "Speaking Part 3 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Communication",
+        "body": "How does communication change when nobody can see facial expressions?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What makes public announcements clear?",
+    "description": "Speaking Part 3 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Communication",
+        "body": "What makes public announcements clear?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should workplaces limit messages outside working hours?",
+    "description": "Speaking Part 3 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Communication",
+        "body": "Should workplaces limit messages outside working hours?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-communication-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can speakers check that an explanation has been understood?",
+    "description": "Speaking Part 3 · Communication",
+    "minutes": 2,
+    "topic": "Communication",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Communication",
+        "body": "How can speakers check that an explanation has been understood?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What are you looking forward to next month?",
+    "description": "Speaking Part 1 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Future plans",
+        "body": "What are you looking forward to next month?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you write your plans down?",
+    "description": "Speaking Part 1 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Future plans",
+        "body": "Do you write your plans down?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Which skill would you like to use more often?",
+    "description": "Speaking Part 1 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Future plans",
+        "body": "Which skill would you like to use more often?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How far ahead do you usually plan holidays?",
+    "description": "Speaking Part 1 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Future plans",
+        "body": "How far ahead do you usually plan holidays?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Who do you discuss important decisions with?",
+    "description": "Speaking Part 1 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Future plans",
+        "body": "Who do you discuss important decisions with?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a plan you adjusted after receiving advice",
+    "description": "Speaking Part 2 · Future plans",
+    "minutes": 3,
+    "topic": "Future plans",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Future plans",
+        "body": "Describe a plan you adjusted after receiving advice.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a goal that will take several years",
+    "description": "Speaking Part 2 · Future plans",
+    "minutes": 3,
+    "topic": "Future plans",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Future plans",
+        "body": "Describe a goal that will take several years.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do communities need plans that last beyond one election?",
+    "description": "Speaking Part 3 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Future plans",
+        "body": "Why do communities need plans that last beyond one election?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How should a school prepare pupils for uncertain careers?",
+    "description": "Speaking Part 3 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Future plans",
+        "body": "How should a school prepare pupils for uncertain careers?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "When does planning too far ahead become unhelpful?",
+    "description": "Speaking Part 3 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Future plans",
+        "body": "When does planning too far ahead become unhelpful?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-future-plans-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can organisations change direction without losing public trust?",
+    "description": "Speaking Part 3 · Future plans",
+    "minutes": 2,
+    "topic": "Future plans",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Future plans",
+        "body": "How can organisations change direction without losing public trust?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-1-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Do you know the names of nearby shopkeepers?",
+    "description": "Speaking Part 1 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Society",
+        "body": "Do you know the names of nearby shopkeepers?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-1-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What shared space do you use most often?",
+    "description": "Speaking Part 1 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Society",
+        "body": "What shared space do you use most often?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-1-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Have you ever joined a local event?",
+    "description": "Speaking Part 1 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Society",
+        "body": "Have you ever joined a local event?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-1-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Where do you find news about your neighbourhood?",
+    "description": "Speaking Part 1 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Society",
+        "body": "Where do you find news about your neighbourhood?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-1-5",
+    "version": 1,
+    "skill": "speaking",
+    "title": "What would make it easier for you to volunteer?",
+    "description": "Speaking Part 1 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "foundation",
+    "kind": "part-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 1 · Society",
+        "body": "What would make it easier for you to volunteer?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-2-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a neighbour who made a difference",
+    "description": "Speaking Part 2 · Society",
+    "minutes": 3,
+    "topic": "Society",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Society",
+        "body": "Describe a neighbour who made a difference.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-2-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Describe a community event you would like to organise",
+    "description": "Speaking Part 2 · Society",
+    "minutes": 3,
+    "topic": "Society",
+    "difficulty": "intermediate",
+    "kind": "part-2",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Prepare brief notes for one minute. Speak for one to two minutes.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 2 · Society",
+        "body": "Describe a community event you would like to organise.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-3-1",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How can small community projects find lasting support?",
+    "description": "Speaking Part 3 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Society",
+        "body": "How can small community projects find lasting support?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-3-2",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Should councils pay volunteers' travel costs?",
+    "description": "Speaking Part 3 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Society",
+        "body": "Should councils pay volunteers' travel costs?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-3-3",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Why do some public consultations attract few residents?",
+    "description": "Speaking Part 3 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Society",
+        "body": "Why do some public consultations attract few residents?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "oral-society-3-4",
+    "version": 1,
+    "skill": "speaking",
+    "title": "How might a shared space bring different generations together?",
+    "description": "Speaking Part 3 · Society",
+    "minutes": 2,
+    "topic": "Society",
+    "difficulty": "advanced",
+    "kind": "part-3",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Answer in English. Develop your answer with a reason or an example.",
+    "sections": [
+      {
+        "id": "prompt",
+        "title": "Part 3 · Society",
+        "body": "How might a shared space bring different generations together?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "speaking-interview-hometown",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Interview · Hometown",
+    "description": "Полная последовательность Speaking Parts 1–3",
+    "minutes": 14,
+    "topic": "Hometown",
+    "difficulty": "intermediate",
+    "kind": "interview",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record the whole interview in one take. Work through the parts in order. Allow 4–5 minutes for Part 1, one minute to prepare and up to two minutes to speak for Part 2, then 4–5 minutes for Part 3.",
+    "sections": [
+      {
+        "id": "part-1",
+        "title": "Part 1",
+        "body": "Where in your hometown do you spend most of your free time?\nWhat sound reminds you of home?\nWhich local building do you recognise from far away?\nWhat do visitors usually ask you about your town?\nHas your favourite street changed recently?",
+        "questions": []
+      },
+      {
+        "id": "part-2",
+        "title": "Part 2",
+        "body": "Describe a street that matters to you.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      },
+      {
+        "id": "part-3",
+        "title": "Part 3",
+        "body": "Should historic town centres allow new buildings?\nWhy do some towns lose their young residents?\nWho should choose names for new streets?\nHow can a town welcome visitors without disrupting daily life?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "speaking-interview-family",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Interview · Family",
+    "description": "Полная последовательность Speaking Parts 1–3",
+    "minutes": 14,
+    "topic": "Family",
+    "difficulty": "intermediate",
+    "kind": "interview",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record the whole interview in one take. Work through the parts in order. Allow 4–5 minutes for Part 1, one minute to prepare and up to two minutes to speak for Part 2, then 4–5 minutes for Part 3.",
+    "sections": [
+      {
+        "id": "part-1",
+        "title": "Part 1",
+        "body": "Which meal do you often share with family?\nWho in your family tells the best stories?\nHow do you keep in touch with relatives who live far away?\nWhat did you enjoy doing with older relatives as a child?\nIs there a family custom you would like to continue?",
+        "questions": []
+      },
+      {
+        "id": "part-2",
+        "title": "Part 2",
+        "body": "Describe a skill a relative taught you.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      },
+      {
+        "id": "part-3",
+        "title": "Part 3",
+        "body": "How does working from home change family routines?\nWhat knowledge can younger relatives pass to older ones?\nShould cities build homes for several generations to share?\nWhy do some family traditions disappear?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "speaking-interview-education",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Interview · Education",
+    "description": "Полная последовательность Speaking Parts 1–3",
+    "minutes": 14,
+    "topic": "Education",
+    "difficulty": "intermediate",
+    "kind": "interview",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record the whole interview in one take. Work through the parts in order. Allow 4–5 minutes for Part 1, one minute to prepare and up to two minutes to speak for Part 2, then 4–5 minutes for Part 3.",
+    "sections": [
+      {
+        "id": "part-1",
+        "title": "Part 1",
+        "body": "Which school subject surprised you?\nWhere do you usually take notes?\nDo you revise alone or with someone else?\nWhat makes a school day feel productive?\nWhat would you like to learn outside a classroom?",
+        "questions": []
+      },
+      {
+        "id": "part-2",
+        "title": "Part 2",
+        "body": "Describe a lesson that changed your mind.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      },
+      {
+        "id": "part-3",
+        "title": "Part 3",
+        "body": "How should schools measure curiosity?\nWhen is individual tuition more effective than a class?\nShould students help design their school timetable?\nWhy do some adults hesitate to return to education?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "speaking-interview-work",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Interview · Work",
+    "description": "Полная последовательность Speaking Parts 1–3",
+    "minutes": 14,
+    "topic": "Work",
+    "difficulty": "intermediate",
+    "kind": "interview",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record the whole interview in one take. Work through the parts in order. Allow 4–5 minutes for Part 1, one minute to prepare and up to two minutes to speak for Part 2, then 4–5 minutes for Part 3.",
+    "sections": [
+      {
+        "id": "part-1",
+        "title": "Part 1",
+        "body": "What kind of workspace helps you concentrate?\nWhich task do you prefer to do early in the day?\nHave you ever helped someone at work?\nHow do you prepare for a busy week?\nWhat would make a training day interesting for you?",
+        "questions": []
+      },
+      {
+        "id": "part-2",
+        "title": "Part 2",
+        "body": "Describe a task you finished as part of a team.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      },
+      {
+        "id": "part-3",
+        "title": "Part 3",
+        "body": "How might shorter working weeks affect small businesses?\nWhat should employers teach on a first day?\nWhen is experience a better guide than a qualification?\nWho gains most from flexible working hours?",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "speaking-interview-technology",
+    "version": 1,
+    "skill": "speaking",
+    "title": "Interview · Technology",
+    "description": "Полная последовательность Speaking Parts 1–3",
+    "minutes": 14,
+    "topic": "Technology",
+    "difficulty": "intermediate",
+    "kind": "interview",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Record the whole interview in one take. Work through the parts in order. Allow 4–5 minutes for Part 1, one minute to prepare and up to two minutes to speak for Part 2, then 4–5 minutes for Part 3.",
+    "sections": [
+      {
+        "id": "part-1",
+        "title": "Part 1",
+        "body": "Which device do you use first each morning?\nWhat do you use your phone camera for?\nDo you prefer physical buttons or touchscreens?\nWhen did you last learn to use a new app?\nWhat device would you find difficult to replace?",
+        "questions": []
+      },
+      {
+        "id": "part-2",
+        "title": "Part 2",
+        "body": "Describe a device that solved a practical problem.\n\nYou should say:\n• what the circumstances were\n• who was involved\n• which detail you remember best\n\nExplain why you chose this example.",
+        "questions": []
+      },
+      {
+        "id": "part-3",
+        "title": "Part 3",
+        "body": "Should manufacturers have to offer repair instructions?\nWhat makes a new device accessible to beginners?\nHow can schools choose technology that will remain useful?\nWhy do some older technologies survive?",
+        "questions": []
+      }
+    ]
+  }
+]

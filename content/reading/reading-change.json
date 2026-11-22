@@ -1,0 +1,615 @@
+[
+  {
+    "slug": "reading-change",
+    "version": 1,
+    "skill": "reading",
+    "title": "Reading 3 · Measuring change",
+    "description": "История карт, акустические наблюдения и обратная связь в обучении.",
+    "minutes": 60,
+    "topic": "Geography, environment and education",
+    "difficulty": "advanced",
+    "kind": "full-test",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Allow 60 minutes for 40 questions. Select one option or use the specified number of words from the passage. Choose NOT GIVEN if the statement cannot be judged from the information or views expressed.",
+    "sections": [
+      {
+        "id": "atlas",
+        "title": "A town before the railway",
+        "body": "A. A pair of maps hangs in the entrance to Fallow Town Hall. One shows a compact group of streets beside a bend in the river. The other, dated thirty years later, shows houses spreading north towards a railway platform. For years the caption beside the maps said that the railway had drawn housing away from the waterfront. The story was attractive, and the pictures seemed to tell it without assistance. When a local geography class tried to calculate the area covered by houses on each map, however, its members found that the two pictures were not quite telling the same kind of story.\n\nB. The older map had been made for a company that insured goods in transit. Its surveyors needed to know how a loaded cart could reach a warehouse, where the turning spaces were narrow and how far a building lay from the nearest water supply. They were under no obligation to show homes beyond the routes used by carts. Indeed a note on the reverse of the map limited the survey to commercial approaches. An empty patch on the paper could therefore mean that nobody had built there. Equally it could mean that the land lay outside the surveyors' assignment. Absence of an ink mark was not necessarily evidence of an empty field.\n\nC. The later map formed part of a drainage survey. Underground pipes would have to serve every occupied property, including those on narrow lanes that could not take a cart. Its maker used small open squares for buildings whose occupants had not been available to answer questions. The open square represented a failure to interview somebody, not a building that lacked a roof. After repeated copying, open squares were easily mistaken for courtyards. The teacher asked each pupil to read the legend on the original sheet before being shown a modern enlarged copy. The exercise made clear how even a carefully drawn symbol can lose its meaning when separated from its key.\n\nD. Comparing distances presented a different difficulty. Paper stretches unevenly when wet, and the older sheet had once been pasted to a wooden board. Placing its river bend directly on top of the later map made the two bridges coincide, but left the church tower several streets from its expected position. The class therefore looked for points that could be identified independently on both sheets. A boundary stone, the tower and the corner of an old mill survived. A computer could adjust the pictures to make these three points agree. The adjusted outlines looked convincing, although agreement at the chosen points said little about accuracy at the edge of the sheets.\n\nE. Pupils next consulted a rate book listing households that paid a local charge. They found entries for six cottages north of the river in the year of the insurance map. Names of cottage occupants could be linked to later deeds giving the locations of their gardens. The entries established that at least some northern homes already existed before the railway arrived. They did not show how many unlisted homes there were. Several properties might be entered under one landlord, and an exemption from the charge could keep a cottage out of the book. The class resisted the temptation to substitute one incomplete count for another.\n\nF. Other evidence supported part of the old caption. Applications to connect houses to the new drainage system became increasingly common close to the platform after the railway opened. They were requests for a service rather than certificates of new construction. Nevertheless, the addresses supplied a useful indication of demand in the area. In the absence of complete building records, a change in demand could be documented more confidently than a precise change in the amount of housing. The pupils drew a separate series for applications and explained what an application meant before interpreting its rise.\n\nG. The town hall finally kept the two maps together. Its revised caption asks visitors to identify the organisation that paid for each survey before judging what the difference shows. That question makes the maps more informative, not less. The first map offers unusual detail about the paths along which goods moved. The second records an attempt to provide a service throughout a town. Taken with the rate book and the connection requests, they support a cautious account of a changing neighbourhood. Taken as two photographs of the same subject, they offer a very confident picture of an event that nobody actually measured.",
+        "questions": [
+          {
+            "id": "atlas-1",
+            "kind": "true_false_not_given",
+            "prompt": "The first surveyors needed information about access by loaded carts.",
+            "accepted": [
+              "TRUE"
+            ],
+            "explanation": "Commercial approaches were relevant to the insurer.",
+            "evidence": "how a loaded cart could reach a warehouse",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "atlas-2",
+            "kind": "true_false_not_given",
+            "prompt": "The insurer required surveyors to draw every house in town.",
+            "accepted": [
+              "FALSE"
+            ],
+            "explanation": "Coverage followed commercial routes.",
+            "evidence": "under no obligation to show homes beyond the routes used by carts",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "atlas-3",
+            "kind": "true_false_not_given",
+            "prompt": "The insurance map was drawn in winter.",
+            "accepted": [
+              "NOT GIVEN"
+            ],
+            "explanation": "The season is not stated.",
+            "evidence": "the year of the insurance map",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "atlas-4",
+            "kind": "note_completion",
+            "prompt": "Map notes: The drainage survey used small open ___ for properties where an interview was not possible. Use ONE WORD.",
+            "accepted": [
+              "squares"
+            ],
+            "explanation": "The symbol recorded an unsuccessful interview.",
+            "evidence": "small open squares",
+            "maxWords": 1
+          },
+          {
+            "id": "atlas-5",
+            "kind": "note_completion",
+            "prompt": "Map notes: Later readers sometimes interpreted that symbol as a group of ___. Use ONE WORD.",
+            "accepted": [
+              "courtyards"
+            ],
+            "explanation": "Repeated copying obscured the symbol's meaning.",
+            "evidence": "mistaken for courtyards",
+            "maxWords": 1
+          },
+          {
+            "id": "atlas-6",
+            "kind": "note_completion",
+            "prompt": "Map notes: Pupils consulted the ___ on the original sheet to interpret the symbols. Use ONE WORD.",
+            "accepted": [
+              "legend"
+            ],
+            "explanation": "It supplies the meanings of the marks.",
+            "evidence": "read the legend on the original sheet",
+            "maxWords": 1
+          },
+          {
+            "id": "atlas-7",
+            "kind": "short_answer",
+            "prompt": "What material had the older sheet once been pasted onto? Use TWO WORDS.",
+            "accepted": [
+              "wooden board"
+            ],
+            "explanation": "The mounting was relevant to the distorted sheet.",
+            "evidence": "pasted to a wooden board",
+            "maxWords": 2
+          },
+          {
+            "id": "atlas-8",
+            "kind": "short_answer",
+            "prompt": "How many cottages north of the river did the pupils find in the rate book for the relevant year? Use ONE WORD.",
+            "accepted": [
+              "six"
+            ],
+            "explanation": "The figure sets a lower bound.",
+            "evidence": "six cottages north of the river",
+            "maxWords": 1
+          },
+          {
+            "id": "atlas-9",
+            "kind": "multiple_choice",
+            "prompt": "Why did agreement at the reference points not settle the map's accuracy?",
+            "accepted": [
+              "Other parts of the sheet could still be distorted."
+            ],
+            "explanation": "Matching selected points cannot test the entire sheet.",
+            "evidence": "agreement at the chosen points said little about accuracy at the edge",
+            "options": [
+              "The tower had disappeared.",
+              "Every street had changed its name.",
+              "Other parts of the sheet could still be distorted.",
+              "The maps showed different rivers."
+            ]
+          },
+          {
+            "id": "atlas-10",
+            "kind": "matching_information",
+            "prompt": "Which paragraph discusses why one entry could represent more than one property?",
+            "accepted": [
+              "E"
+            ],
+            "explanation": "A charge record need not correspond to a single cottage.",
+            "evidence": "Several properties might be entered under one landlord",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "atlas-11",
+            "kind": "matching_information",
+            "prompt": "Which paragraph distinguishes demand for a service from evidence of construction?",
+            "accepted": [
+              "F"
+            ],
+            "explanation": "Applications reveal demand more directly.",
+            "evidence": "requests for a service rather than certificates of new construction",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "atlas-12",
+            "kind": "matching_sentence_endings",
+            "prompt": "Complete: Before drawing conclusions, the revised caption encourages visitors to find out…",
+            "accepted": [
+              "who commissioned the two maps."
+            ],
+            "explanation": "The sponsor's needs affected coverage.",
+            "evidence": "identify the organisation that paid for each survey",
+            "options": [
+              "who commissioned the two maps.",
+              "which pupil could draw most accurately.",
+              "how many cottages the insurer owned.",
+              "which map was printed in colour."
+            ]
+          },
+          {
+            "id": "atlas-13",
+            "kind": "multiple_choice",
+            "prompt": "Which conclusion is supported by the evidence in the rate book?",
+            "accepted": [
+              "Some homes north of the river predated the railway."
+            ],
+            "explanation": "The listed cottages establish existence rather than a total.",
+            "evidence": "some northern homes already existed before the railway arrived",
+            "options": [
+              "The platform caused every northern cottage to be built.",
+              "The mapmaker invented the riverside houses.",
+              "Some homes north of the river predated the railway.",
+              "All households paid the same charge."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "marsh",
+        "title": "Counting voices in a reed bed",
+        "body": "A. At first light the marsh at Reed End can sound thick with birds even when a visitor cannot see one. A conservation group placed automatic recorders along its paths, hoping to estimate whether a small reed-dwelling bird had become more numerous. An obvious procedure was to count the bird's distinctive calls each morning and plot the totals by month. The difficulty, as volunteer Mai Carter pointed out, was that a call had no return address. A single energetic bird could call repeatedly, and neighbouring birds might be heard by the same device. A count of sounds was straightforward. A count of individual callers required additional evidence.\n\nB. Carter first asked what distance a recorder could actually cover. She played a standard reference sound from a portable speaker at measured distances while another volunteer noted whether it could be distinguished from background noise. The exercise was repeated in short grass and in dense reeds. The reference sound was detectable at a greater distance in short grass. Moving the recorder from one habitat to the other would thus alter the area sampled even if its settings and the number of birds around it remained unchanged. The reference sound had been chosen to resemble the frequency of the bird's call. It did not reproduce every variation in pitch that a living bird could make.\n\nC. The group kept the original recorders in place and added a second recorder beside two of them. The two units in each pair were separated by a known distance, and their clocks were synchronised at installation. A distinctive call appearing on both recordings a fraction of a second apart might be one event rather than two. To match possible pairs the volunteers compared the shape of the sound on a time plot as well as its time of arrival. Two identical clock readings alone were insufficient. Different birds sometimes called at nearly the same moment, especially after a disturbance near the path.\n\nD. The clocks introduced a complication. After several weeks one recorder gained nearly a second relative to its neighbour. At installation the volunteers had also set a small tone generator midway between the two units. It produced a brief reference tone at noon each day. Because the distances were equal, the tone ought to arrive at both microphones together. A difference in its recorded time could be used to estimate how much the clocks had drifted. The team adjusted the time plots accordingly. They did not edit the actual calls. Keeping the unaltered recordings allowed another analyst to try a different rule for deciding which sounds belonged together.\n\nE. Sound analyst Ben Teal trained a program to select likely calls for human review. During its first week it regularly selected the squeak of a gate beside the southern path. Hearing the examples made the reason clear: the opening note of the squeak rose at much the same rate as the opening note of the bird's call. Teal added gate examples to the training collection. He did not evaluate the improvement on those same examples. Instead he used recordings from later mornings that had been labelled independently by two listeners. Agreement on previously unseen mornings was more informative than agreement on examples the program had already encountered.\n\nF. Fewer calls were logged in late summer than in spring. The group could not infer a fall in the number of birds directly from that observation. Calling could have become less frequent at a different stage of the breeding season. Tall vegetation could also have reduced the area within which the microphones heard a bird clearly. To distinguish these possibilities the group proposed repeating the reference-sound exercise at regular intervals and making occasional direct observations from a raised platform. The two sources would have different limitations. A platform observer would miss birds moving silently below the tops of the reeds.\n\nG. The final public report described changes in detectable calling activity. It also specified the times of day included, the intervals excluded because of faulty equipment, and the rule used to match events across microphones. This form of report was less dramatic than an announcement of a rising or falling population. It had the advantage that a later team could repeat the procedure and see whether the same pattern returned. The volunteers had learned a lesson that applies well beyond marshes: increasing the number of observations does not by itself settle what the observations are observations of.",
+        "questions": [
+          {
+            "id": "marsh-1",
+            "kind": "matching_headings",
+            "prompt": "Choose the heading that best fits paragraph B.",
+            "accepted": [
+              "Testing the reach of the equipment"
+            ],
+            "explanation": "A standard sound tested the listening area in two habitats.",
+            "evidence": "detectable at a greater distance in short grass",
+            "options": [
+              "Testing the reach of the equipment",
+              "A faster way to cut reeds",
+              "How the species builds a nest",
+              "A date for replacing all batteries"
+            ]
+          },
+          {
+            "id": "marsh-2",
+            "kind": "matching_headings",
+            "prompt": "Choose the heading that best fits paragraph D.",
+            "accepted": [
+              "A daily signal that revealed timing errors"
+            ],
+            "explanation": "The simultaneous reference arrival exposed clock drift.",
+            "evidence": "estimate how much the clocks had drifted",
+            "options": [
+              "An argument for erasing noise",
+              "A daily signal that revealed timing errors",
+              "A comparison of nesting sites",
+              "A new timetable for the volunteers"
+            ]
+          },
+          {
+            "id": "marsh-3",
+            "kind": "matching_headings",
+            "prompt": "Choose the heading that best fits paragraph E.",
+            "accepted": [
+              "Checking a detector with fresh examples"
+            ],
+            "explanation": "A held-out set tested the revised classifier.",
+            "evidence": "previously unseen mornings",
+            "options": [
+              "An automatic count of individual birds",
+              "Checking a detector with fresh examples",
+              "Building a shelter over a gate",
+              "The importance of sampling at night"
+            ]
+          },
+          {
+            "id": "marsh-4",
+            "kind": "flow_chart_completion",
+            "prompt": "Complete with ONE WORD: Install recorder pair → synchronise their ___ → compare arrival times and sound shapes.",
+            "accepted": [
+              "clocks"
+            ],
+            "explanation": "The timing comparison needs a common reference.",
+            "evidence": "their clocks were synchronised at installation",
+            "maxWords": 1
+          },
+          {
+            "id": "marsh-5",
+            "kind": "flow_chart_completion",
+            "prompt": "Complete with ONE WORD: Position tone generator halfway → play reference sound at ___ → estimate clock drift.",
+            "accepted": [
+              "noon"
+            ],
+            "explanation": "The generator supplied a daily reference.",
+            "evidence": "a brief reference tone at noon each day",
+            "maxWords": 1
+          },
+          {
+            "id": "marsh-6",
+            "kind": "flow_chart_completion",
+            "prompt": "Complete with ONE WORD: Correct the time ___ → keep the original calls for reanalysis.",
+            "accepted": [
+              "plots"
+            ],
+            "explanation": "The adjustment changed the plots rather than the recordings.",
+            "evidence": "adjusted the time plots accordingly",
+            "maxWords": 1
+          },
+          {
+            "id": "marsh-7",
+            "kind": "true_false_not_given",
+            "prompt": "The standard sound was detectable from farther away in dense reeds than in short grass.",
+            "accepted": [
+              "FALSE"
+            ],
+            "explanation": "Short grass allowed detection farther away.",
+            "evidence": "detectable at a greater distance in short grass",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "marsh-8",
+            "kind": "true_false_not_given",
+            "prompt": "Two microphones might record the same individual calling event.",
+            "accepted": [
+              "TRUE"
+            ],
+            "explanation": "The pair may hear a single sound at slightly different times.",
+            "evidence": "one event rather than two",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "marsh-9",
+            "kind": "true_false_not_given",
+            "prompt": "The tone generator was powered by the same battery as the two microphones.",
+            "accepted": [
+              "NOT GIVEN"
+            ],
+            "explanation": "Its power source is not stated.",
+            "evidence": "a small tone generator midway between the two units",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "marsh-10",
+            "kind": "short_answer",
+            "prompt": "What object produced the squeak that confused the program? Use ONE WORD.",
+            "accepted": [
+              "gate"
+            ],
+            "explanation": "Its opening note resembled the bird call.",
+            "evidence": "the squeak of a gate",
+            "maxWords": 1
+          },
+          {
+            "id": "marsh-11",
+            "kind": "short_answer",
+            "prompt": "What structure is proposed for direct observations? Use TWO WORDS.",
+            "accepted": [
+              "raised platform"
+            ],
+            "explanation": "Human observations would complement the microphones.",
+            "evidence": "direct observations from a raised platform",
+            "maxWords": 2
+          },
+          {
+            "id": "marsh-12",
+            "kind": "multiple_choice",
+            "prompt": "Why did Teal use recordings from later mornings for evaluation?",
+            "accepted": [
+              "They had not been used to improve the program."
+            ],
+            "explanation": "Fresh material tests generalisation.",
+            "evidence": "more informative than agreement on examples the program had already encountered",
+            "options": [
+              "They contained no gate noise.",
+              "They had not been used to improve the program.",
+              "Only later mornings had working clocks.",
+              "They were recorded from the platform."
+            ]
+          },
+          {
+            "id": "marsh-13",
+            "kind": "multiple_choice",
+            "prompt": "What did the team report as changing?",
+            "accepted": [
+              "Detectable calling activity"
+            ],
+            "explanation": "The evidence concerns audible calls, not directly the bird population.",
+            "evidence": "changes in detectable calling activity",
+            "options": [
+              "The number of nests",
+              "The lifespan of a reed bird",
+              "Detectable calling activity",
+              "The height of the platform"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "revision",
+        "title": "An occasion to use advice",
+        "body": "A. Two teachers can mark the same essay with identical comments and have quite different effects on the next essay their pupils write. One class reads the comments on the last afternoon of term. The other reads them just before revising the work that prompted them. If pupils in the second class make more changes, it is tempting to say that their teacher gave better feedback. Yet nothing about the wording of the comments was better. The comparison draws attention to a feature of teaching that is easy to overlook: a comment provides information, but the learner also needs an occasion on which to use it.\n\nB. At Harbour College, tutor Sam Lee wanted to find out whether it mattered how soon a student could act. In earlier years he had returned comments on a laboratory report one week after submission and collected the next report a month later. Many students repeated an error in explaining an unexpected measurement. Lee wondered whether they had misunderstood him, forgotten what he had written, or simply failed to recognise the same reasoning problem in a new experiment. These explanations pointed to different remedies. A longer comment might help a student who misunderstood, but would offer little to someone who never connected the two reports.\n\nC. Lee gave two groups the same report to improve and the same written advice. One group had fifteen minutes to make revisions immediately. The other had fifteen minutes a week later. Members of both groups could consult the original report and the advice during revision. Equal access to those documents was important: Lee wanted to vary delay without also making one group depend on memory for the exact wording. The groups were allocated by drawing lots. Because the trial took place at a single college, that procedure could reduce differences between the two groups without making the students representative of every science course.\n\nD. An independent reader scored each revision without seeing either the student's name or the date when it was written. The reader awarded separate marks for identifying a doubtful measurement and for explaining how it could be checked. Both groups usually managed the first task. The immediate group did better on the second. A short follow-up interview revealed a detail that the total scores concealed. Some delayed revisers described the laboratory equipment differently from the way they had described it in their original report. They had completed another experiment in the intervening week. It was possible that features of the recent experiment had entered their account of the earlier one.\n\nE. Education researcher Ada West advised caution in interpreting the result. The task measured the quality of a revision to a familiar report. It did not show whether an immediate reviser would spot the same reasoning problem in an unfamiliar one. To test this, West proposed giving all students a new report with a misleading explanation in it and asking them to suggest a check. The setting and the names of the instruments would change, while the underlying relation between the measurement and the explanation would stay the same. Success would then require the student to recognise that relation despite the changed surface details.\n\nF. A curriculum committee asked whether every piece of written advice should therefore be followed by an immediate rewrite. Lee objected that this would treat feedback as a single activity with a single purpose. A musician rehearsing a short phrase can act at once, often before the sound of the mistake has faded. A student considering whether to change the central question of a historical investigation may benefit from time to read another source. The important issue is what the learner is expected to do next. A school that merely reduces the interval between comments and action might improve one kind of response while narrowing the opportunities for another.\n\nG. A practical consequence at Harbour College was to change the layout of the planning sheet. Beside the space for a comment the tutor now writes the next occasion on which the student can try the suggested action. The occasion might be a revision that afternoon or a new investigation the following month. This small change makes it possible to ask what happened when that occasion arrived. It is not evidence that every student now reasons more carefully. It gives tutors a way to distinguish a suggestion that failed in use from a suggestion that never had a chance to be tried.",
+        "questions": [
+          {
+            "id": "revision-1",
+            "kind": "yes_no_not_given",
+            "prompt": "Identically worded comments can have different effects.",
+            "accepted": [
+              "YES"
+            ],
+            "explanation": "The writer distinguishes information from the opportunity to act.",
+            "evidence": "identical comments and have quite different effects",
+            "options": [
+              "YES",
+              "NO",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "revision-2",
+            "kind": "yes_no_not_given",
+            "prompt": "A more detailed comment would necessarily solve the problem of failing to link two reports.",
+            "accepted": [
+              "NO"
+            ],
+            "explanation": "Length alone cannot make the link for the student.",
+            "evidence": "would offer little to someone who never connected the two reports",
+            "options": [
+              "YES",
+              "NO",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "revision-3",
+            "kind": "yes_no_not_given",
+            "prompt": "Science students are more responsive to feedback than history students.",
+            "accepted": [
+              "NOT GIVEN"
+            ],
+            "explanation": "Examples of timing do not rank students' responsiveness.",
+            "evidence": "A student considering whether to change the central question of a historical investigation",
+            "options": [
+              "YES",
+              "NO",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "revision-4",
+            "kind": "true_false_not_given",
+            "prompt": "Both groups could refer to the first report while revising.",
+            "accepted": [
+              "TRUE"
+            ],
+            "explanation": "Documents were available under both conditions.",
+            "evidence": "Members of both groups could consult the original report",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "revision-5",
+            "kind": "true_false_not_given",
+            "prompt": "Students chose which revision group to join.",
+            "accepted": [
+              "FALSE"
+            ],
+            "explanation": "Random allocation precluded self-selection.",
+            "evidence": "The groups were allocated by drawing lots.",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "revision-6",
+            "kind": "true_false_not_given",
+            "prompt": "The independent reader knew the date of each revision.",
+            "accepted": [
+              "FALSE"
+            ],
+            "explanation": "The reader was blind to the timing.",
+            "evidence": "without seeing either the student's name or the date",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "revision-7",
+            "kind": "summary_completion",
+            "prompt": "Complete with TWO WORDS: A reader gave separate marks for finding a ___ and explaining a check.",
+            "accepted": [
+              "doubtful measurement"
+            ],
+            "explanation": "The measurement was one component of the assessment.",
+            "evidence": "identifying a doubtful measurement",
+            "maxWords": 2
+          },
+          {
+            "id": "revision-8",
+            "kind": "summary_completion",
+            "prompt": "Complete with ONE WORD: Some delayed students described the laboratory ___ differently after a week.",
+            "accepted": [
+              "equipment"
+            ],
+            "explanation": "Recent experience may have affected their descriptions.",
+            "evidence": "described the laboratory equipment differently",
+            "maxWords": 1
+          },
+          {
+            "id": "revision-9",
+            "kind": "short_answer",
+            "prompt": "In West's proposed transfer test, what would the new report contain? Use TWO WORDS.",
+            "accepted": [
+              "misleading explanation"
+            ],
+            "explanation": "The planted explanation would challenge students to propose a check.",
+            "evidence": "a new report with a misleading explanation in it",
+            "maxWords": 2
+          },
+          {
+            "id": "revision-10",
+            "kind": "matching_information",
+            "prompt": "Which paragraph explains why random allocation need not make findings generalisable?",
+            "accepted": [
+              "C"
+            ],
+            "explanation": "The student population came from one site.",
+            "evidence": "without making the students representative of every science course",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "revision-11",
+            "kind": "matching_information",
+            "prompt": "Which paragraph contrasts the kinds of next action in two different subjects?",
+            "accepted": [
+              "F"
+            ],
+            "explanation": "Immediate rehearsal and historical reading take different amounts of time.",
+            "evidence": "A musician rehearsing a short phrase",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "revision-12",
+            "kind": "multiple_choice",
+            "prompt": "Why did both groups receive the advice again when revising?",
+            "accepted": [
+              "To keep recall of its wording from becoming a second variable"
+            ],
+            "explanation": "The design isolates timing.",
+            "evidence": "without also making one group depend on memory for the exact wording",
+            "options": [
+              "To reward the faster group",
+              "To keep recall of its wording from becoming a second variable",
+              "To avoid asking for revisions",
+              "To test the reader's memory"
+            ]
+          },
+          {
+            "id": "revision-13",
+            "kind": "multiple_choice",
+            "prompt": "What stayed constant in West's proposed new task?",
+            "accepted": [
+              "The reasoning relationship to be identified"
+            ],
+            "explanation": "The instrument names would change, while the logic remained.",
+            "evidence": "the underlying relation between the measurement and the explanation would stay the same",
+            "options": [
+              "The instrument names",
+              "The setting of the report",
+              "The reasoning relationship to be identified",
+              "The original report itself"
+            ]
+          },
+          {
+            "id": "revision-14",
+            "kind": "multiple_choice",
+            "prompt": "What does the planning-sheet change allow tutors to investigate?",
+            "accepted": [
+              "Whether a learner had the chance to apply advice"
+            ],
+            "explanation": "The sheet records when application is supposed to occur.",
+            "evidence": "distinguish a suggestion that failed in use from a suggestion that never had a chance to be tried",
+            "options": [
+              "Which tutor writes fastest",
+              "How much paper each class uses",
+              "Whether every student prefers immediate practice",
+              "Whether a learner had the chance to apply advice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

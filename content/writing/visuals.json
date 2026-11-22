@@ -1,0 +1,722 @@
+[
+  {
+    "slug": "visual-line-1",
+    "version": 1,
+    "skill": "writing",
+    "title": "Morning rail journeys",
+    "description": "Academic Task 1 · line",
+    "minutes": 20,
+    "topic": "Transport",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Morning rail journeys",
+        "body": "The chart shows morning rail journeys. Figures are from an original practice dataset.\n\npassengers (thousands)\nNorth line: 2012 42, 2016 56, 2020 49, 2024 71\nSouth line: 2012 63, 2016 60, 2020 55, 2024 54",
+        "image": "/content/writing/visual-line-1.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-line-2",
+    "version": 1,
+    "skill": "writing",
+    "title": "Library loans by format",
+    "description": "Academic Task 1 · line",
+    "minutes": 20,
+    "topic": "Education",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Library loans by format",
+        "body": "The chart shows library loans by format. Figures are from an original practice dataset.\n\nloans (thousands)\nPrint: 2010 90, 2015 88, 2020 73, 2025 65\nDigital: 2010 5, 2015 16, 2020 42, 2025 67",
+        "image": "/content/writing/visual-line-2.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-line-3",
+    "version": 1,
+    "skill": "writing",
+    "title": "Seasonal reservoir levels",
+    "description": "Academic Task 1 · line",
+    "minutes": 20,
+    "topic": "Environment",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Seasonal reservoir levels",
+        "body": "The chart shows seasonal reservoir levels. Figures are from an original practice dataset.\n\ncapacity (%)\nHill reservoir: April 84, June 75, August 49, October 62\nLake reservoir: April 65, June 67, August 60, October 78",
+        "image": "/content/writing/visual-line-3.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-line-4",
+    "version": 1,
+    "skill": "writing",
+    "title": "Attendance at two workshops",
+    "description": "Academic Task 1 · line",
+    "minutes": 20,
+    "topic": "Employment",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Attendance at two workshops",
+        "body": "The chart shows attendance at two workshops. Figures are from an original practice dataset.\n\nparticipants\nDaytime: 2019 32, 2021 24, 2023 39, 2025 51\nEvening: 2019 48, 2021 37, 2023 40, 2025 42",
+        "image": "/content/writing/visual-line-4.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-line-5",
+    "version": 1,
+    "skill": "writing",
+    "title": "Travel time on two corridors",
+    "description": "Academic Task 1 · line",
+    "minutes": 20,
+    "topic": "Cities",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Travel time on two corridors",
+        "body": "The chart shows travel time on two corridors. Figures are from an original practice dataset.\n\nminutes\nWestern route: 2011 31, 2015 35, 2019 39, 2023 37\nEastern route: 2011 46, 2015 42, 2019 34, 2023 29",
+        "image": "/content/writing/visual-line-5.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-bar-6",
+    "version": 1,
+    "skill": "writing",
+    "title": "Commuting modes in two districts",
+    "description": "Academic Task 1 · bar",
+    "minutes": 20,
+    "topic": "Transport",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Commuting modes in two districts",
+        "body": "The chart shows commuting modes in two districts. Figures are from an original practice dataset.\n\ncommuters (%)\nWest: Walk 16, Cycle 22, Bus 32, Car 30\nEast: Walk 12, Cycle 13, Bus 27, Car 48",
+        "image": "/content/writing/visual-bar-6.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-bar-7",
+    "version": 1,
+    "skill": "writing",
+    "title": "Water use in two parks",
+    "description": "Academic Task 1 · bar",
+    "minutes": 20,
+    "topic": "Environment",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Water use in two parks",
+        "body": "The chart shows water use in two parks. Figures are from an original practice dataset.\n\ncubic metres per day\nPark A: Lawns 40, Trees 24, Flowers 16, Facilities 12\nPark B: Lawns 27, Trees 31, Flowers 9, Facilities 15",
+        "image": "/content/writing/visual-bar-7.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-bar-8",
+    "version": 1,
+    "skill": "writing",
+    "title": "Workshop attendance by age",
+    "description": "Academic Task 1 · bar",
+    "minutes": 20,
+    "topic": "Education",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Workshop attendance by age",
+        "body": "The chart shows workshop attendance by age. Figures are from an original practice dataset.\n\nattendees\nSpring: Under 25 24, 25–39 36, 40–59 25, 60+ 15\nAutumn: Under 25 19, 25–39 33, 40–59 32, 60+ 26",
+        "image": "/content/writing/visual-bar-8.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-bar-9",
+    "version": 1,
+    "skill": "writing",
+    "title": "Library visits by day",
+    "description": "Academic Task 1 · bar",
+    "minutes": 20,
+    "topic": "Society",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Library visits by day",
+        "body": "The chart shows library visits by day. Figures are from an original practice dataset.\n\nvisits (hundreds)\nCentral: Tuesday 12, Thursday 14, Saturday 23, Sunday 18\nRiverside: Tuesday 8, Thursday 11, Saturday 14, Sunday 16",
+        "image": "/content/writing/visual-bar-9.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-bar-10",
+    "version": 1,
+    "skill": "writing",
+    "title": "Local grants by programme",
+    "description": "Academic Task 1 · bar",
+    "minutes": 20,
+    "topic": "Government",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Local grants by programme",
+        "body": "The chart shows local grants by programme. Figures are from an original practice dataset.\n\ngrants awarded\nYear 1: Sport 14, Arts 20, Science 10, Gardens 6\nYear 2: Sport 18, Arts 16, Science 13, Gardens 12",
+        "image": "/content/writing/visual-bar-10.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-pie-11",
+    "version": 1,
+    "skill": "writing",
+    "title": "How one college used its rooms",
+    "description": "Academic Task 1 · pie",
+    "minutes": 20,
+    "topic": "Education",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "How one college used its rooms",
+        "body": "The chart shows how one college used its rooms. Figures are from an original practice dataset.\n\nshare of booked hours (%)\nRoom use: Teaching 48, Study 26, Clubs 17, Events 9",
+        "image": "/content/writing/visual-pie-11.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-pie-12",
+    "version": 1,
+    "skill": "writing",
+    "title": "Reasons for visiting a town",
+    "description": "Academic Task 1 · pie",
+    "minutes": 20,
+    "topic": "Travel",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Reasons for visiting a town",
+        "body": "The chart shows reasons for visiting a town. Figures are from an original practice dataset.\n\nvisitor share (%)\nVisit purpose: Family 32, Leisure 40, Work 18, Study 10",
+        "image": "/content/writing/visual-pie-12.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-pie-13",
+    "version": 1,
+    "skill": "writing",
+    "title": "Materials at a repair fair",
+    "description": "Academic Task 1 · pie",
+    "minutes": 20,
+    "topic": "Environment",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Materials at a repair fair",
+        "body": "The chart shows materials at a repair fair. Figures are from an original practice dataset.\n\nitems (%)\nItem types: Clothes 46, Devices 28, Furniture 18, Other 8",
+        "image": "/content/writing/visual-pie-13.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-pie-14",
+    "version": 1,
+    "skill": "writing",
+    "title": "Sources of a museum budget",
+    "description": "Academic Task 1 · pie",
+    "minutes": 20,
+    "topic": "Culture",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Sources of a museum budget",
+        "body": "The chart shows sources of a museum budget. Figures are from an original practice dataset.\n\nbudget share (%)\nIncome: Grants 52, Tickets 26, Gifts 13, Shop 9",
+        "image": "/content/writing/visual-pie-14.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-table-15",
+    "version": 1,
+    "skill": "writing",
+    "title": "Opening hours and weekly use",
+    "description": "Academic Task 1 · table",
+    "minutes": 20,
+    "topic": "Culture",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Opening hours and weekly use",
+        "body": "The table shows opening hours and weekly use. Figures are from an original practice dataset.\n\nsee column units\nHours open: North 54, South 40, East 47, West 34\nVisits (100s): North 19, South 12, East 21, West 9\nStaff: North 8, South 5, East 7, West 4",
+        "image": "/content/writing/visual-table-15.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-table-16",
+    "version": 1,
+    "skill": "writing",
+    "title": "Performance of three rail stations",
+    "description": "Academic Task 1 · table",
+    "minutes": 20,
+    "topic": "Transport",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Performance of three rail stations",
+        "body": "The table shows performance of three rail stations. Figures are from an original practice dataset.\n\nsee column units\nPlatforms: Harbour 4, Civic 8, Park 3\nTrains/day: Harbour 60, Civic 120, Park 44\nShops: Harbour 6, Civic 15, Park 3",
+        "image": "/content/writing/visual-table-16.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-table-17",
+    "version": 1,
+    "skill": "writing",
+    "title": "Profiles of community orchards",
+    "description": "Academic Task 1 · table",
+    "minutes": 20,
+    "topic": "Agriculture",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Profiles of community orchards",
+        "body": "The table shows profiles of community orchards. Figures are from an original practice dataset.\n\nsee column units\nArea (ha): Valley 2, Hill 3, Canal 4, Meadow 2\nTrees: Valley 80, Hill 96, Canal 120, Meadow 67\nVolunteers: Valley 12, Hill 9, Canal 18, Meadow 16",
+        "image": "/content/writing/visual-table-17.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-table-18",
+    "version": 1,
+    "skill": "writing",
+    "title": "Public sports facilities",
+    "description": "Academic Task 1 · table",
+    "minutes": 20,
+    "topic": "Society",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Public sports facilities",
+        "body": "The table shows public sports facilities. Figures are from an original practice dataset.\n\nsee column units\nSites: Pool 3, Court 8, Gym 5, Track 2\nWeekly users: Pool 810, Court 620, Gym 990, Track 360\nFee (units): Pool 6, Court 4, Gym 5, Track 2",
+        "image": "/content/writing/visual-table-18.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-table-19",
+    "version": 1,
+    "skill": "writing",
+    "title": "Two-year training outcomes",
+    "description": "Academic Task 1 · table",
+    "minutes": 20,
+    "topic": "Employment",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Two-year training outcomes",
+        "body": "The table shows two-year training outcomes. Figures are from an original practice dataset.\n\nparticipants\n2023 started: Design 100, Coding 140, Finance 80, Writing 95\n2023 finished: Design 82, Coding 98, Finance 70, Writing 74\n2024 finished: Design 95, Coding 121, Finance 66, Writing 86",
+        "image": "/content/writing/visual-table-19.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-mixed-20",
+    "version": 1,
+    "skill": "writing",
+    "title": "Repair centre activity",
+    "description": "Academic Task 1 · mixed",
+    "minutes": 20,
+    "topic": "Environment",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Repair centre activity",
+        "body": "The two charts show repair centre activity. Figures are from an original practice dataset.\n\nsee series units\nItems received (100s): 2021 12, 2022 15, 2023 19, 2024 21\nRepaired (%): 2021 61, 2022 68, 2023 73, 2024 79",
+        "image": "/content/writing/visual-mixed-20.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-mixed-21",
+    "version": 1,
+    "skill": "writing",
+    "title": "Library demand and occupancy",
+    "description": "Academic Task 1 · mixed",
+    "minutes": 20,
+    "topic": "Education",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Library demand and occupancy",
+        "body": "The two charts show library demand and occupancy. Figures are from an original practice dataset.\n\nsee series units\nBookings (100s): Q1 24, Q2 30, Q3 18, Q4 32\nRooms occupied (%): Q1 66, Q2 81, Q3 49, Q4 88",
+        "image": "/content/writing/visual-mixed-21.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-mixed-22",
+    "version": 1,
+    "skill": "writing",
+    "title": "Rail service and punctuality",
+    "description": "Academic Task 1 · mixed",
+    "minutes": 20,
+    "topic": "Transport",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Rail service and punctuality",
+        "body": "The two charts show rail service and punctuality. Figures are from an original practice dataset.\n\nsee series units\nDepartures per day: 2018 40, 2020 34, 2022 46, 2024 52\nOn time (%): 2018 83, 2020 90, 2022 86, 2024 89",
+        "image": "/content/writing/visual-mixed-22.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-map-23",
+    "version": 1,
+    "skill": "writing",
+    "title": "Market square redesign",
+    "description": "Academic Task 1 · map",
+    "minutes": 20,
+    "topic": "Urban design",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Market square redesign",
+        "body": "The maps show market square before and after redevelopment. North is at the top. The central east–west walkway remains in both plans.\nBefore, north-west: Car park.\nBefore, north: Kiosks.\nBefore, north-east: Road.\nBefore, south-west: Bus stop.\nBefore, south: Old hall.\nBefore, south-east: Lawn.\nAfter, north-west: Garden.\nAfter, north: Market hall.\nAfter, north-east: Footpath.\nAfter, south-west: Bus stop.\nAfter, south: Arts hall.\nAfter, south-east: Play area.",
+        "image": "/content/writing/visual-map-23.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-map-24",
+    "version": 1,
+    "skill": "writing",
+    "title": "A college courtyard",
+    "description": "Academic Task 1 · map",
+    "minutes": 20,
+    "topic": "Urban design",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "A college courtyard",
+        "body": "The maps show college courtyard before and after redevelopment. North is at the top. The central east–west walkway remains in both plans.\nBefore, north-west: Car bays.\nBefore, north: Pond.\nBefore, north-east: Service road.\nBefore, south-west: Canteen.\nBefore, south: Open lawn.\nBefore, south-east: Shed.\nAfter, north-west: Lab.\nAfter, north: Pond.\nAfter, north-east: Cycle lane.\nAfter, south-west: Canteen.\nAfter, south: Study lawn.\nAfter, south-east: Bike store.",
+        "image": "/content/writing/visual-map-24.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-map-25",
+    "version": 1,
+    "skill": "writing",
+    "title": "Changes at Mill Wharf",
+    "description": "Academic Task 1 · map",
+    "minutes": 20,
+    "topic": "Urban design",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Changes at Mill Wharf",
+        "body": "The maps show mill wharf before and after redevelopment. North is at the top. The central east–west walkway remains in both plans.\nBefore, north-west: Old mill.\nBefore, north: Yard.\nBefore, north-east: Road.\nBefore, south-west: Store.\nBefore, south: Car park.\nBefore, south-east: Slipway.\nAfter, north-west: Gallery.\nAfter, north: Square.\nAfter, north-east: Road.\nAfter, south-west: Cafe.\nAfter, south: Bus stop.\nAfter, south-east: Slipway.",
+        "image": "/content/writing/visual-map-25.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-map-26",
+    "version": 1,
+    "skill": "writing",
+    "title": "A village sports ground",
+    "description": "Academic Task 1 · map",
+    "minutes": 20,
+    "topic": "Urban design",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "A village sports ground",
+        "body": "The maps show sports ground before and after redevelopment. North is at the top. The central east–west walkway remains in both plans.\nBefore, north-west: Field.\nBefore, north: Seating.\nBefore, north-east: Gate.\nBefore, south-west: Gravel lot.\nBefore, south: Huts.\nBefore, south-east: Trees.\nAfter, north-west: Field.\nAfter, north: Covered stand.\nAfter, north-east: Gate.\nAfter, south-west: Bike bays.\nAfter, south: Changing rooms.\nAfter, south-east: Trees.",
+        "image": "/content/writing/visual-map-26.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-process-27",
+    "version": 1,
+    "skill": "writing",
+    "title": "Making sheets of recycled paper",
+    "description": "Academic Task 1 · process",
+    "minutes": 20,
+    "topic": "Processes",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Making sheets of recycled paper",
+        "body": "The diagram illustrates making sheets of recycled paper in six stages.\n\n1. Waste paper sorted\n2. Paper mixed with water\n3. Pulp screened\n4. Pulp spread on mesh\n5. Sheet pressed\n6. Sheet dried",
+        "image": "/content/writing/visual-process-27.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-process-28",
+    "version": 1,
+    "skill": "writing",
+    "title": "Collecting rainwater for a garden",
+    "description": "Academic Task 1 · process",
+    "minutes": 20,
+    "topic": "Processes",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Collecting rainwater for a garden",
+        "body": "The diagram illustrates collecting rainwater for a garden in six stages.\n\n1. Rain falls on roof\n2. Gutter channels water\n3. Screen traps leaves\n4. Tank stores water\n5. Valve controls flow\n6. Water reaches beds",
+        "image": "/content/writing/visual-process-28.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-process-29",
+    "version": 1,
+    "skill": "writing",
+    "title": "Borrowing a tool from a shared store",
+    "description": "Academic Task 1 · process",
+    "minutes": 20,
+    "topic": "Processes",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "Borrowing a tool from a shared store",
+        "body": "The diagram illustrates borrowing a tool from a shared store in six stages.\n\n1. Member selects tool\n2. Staff check availability\n3. Member books a slot\n4. Tool issued\n5. Tool returned\n6. Staff inspect tool",
+        "image": "/content/writing/visual-process-29.svg",
+        "questions": []
+      }
+    ]
+  },
+  {
+    "slug": "visual-process-30",
+    "version": 1,
+    "skill": "writing",
+    "title": "From survey cards to a public report",
+    "description": "Academic Task 1 · process",
+    "minutes": 20,
+    "topic": "Processes",
+    "difficulty": "intermediate",
+    "kind": "task-1",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sections": [
+      {
+        "id": "visual",
+        "title": "From survey cards to a public report",
+        "body": "The diagram illustrates from survey cards to a public report in six stages.\n\n1. Cards collected\n2. Responses coded\n3. Codes counted\n4. Totals checked\n5. Charts prepared\n6. Report published",
+        "image": "/content/writing/visual-process-30.svg",
+        "questions": []
+      }
+    ]
+  }
+]

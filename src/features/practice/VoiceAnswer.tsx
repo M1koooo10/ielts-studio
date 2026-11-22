@@ -1,0 +1,15 @@
+"use client";
+import {useEffect,useRef,useState} from "react";import {Mic,Square,Volume2} from "lucide-react";
+export function VoiceAnswer({id,prompt,recorded,finished,onBusy}:{id:number;prompt:string;recorded:boolean;finished:boolean;onBusy:(busy:boolean)=>void}){
+ const rec=useRef<MediaRecorder|null>(null),stream=useRef<MediaStream|null>(null),alive=useRef(true);
+ const [status,setStatus]=useState(""),[running,setRunning]=useState(false),[busy,setBusy]=useState(false),[saved,setSaved]=useState(recorded),[version,setVersion]=useState(0),[retry,setRetry]=useState<Blob|null>(null);
+ useEffect(()=>{alive.current=true;return()=>{alive.current=false;if(rec.current?.state==="recording"){rec.current.onstop=null;rec.current.stop()}stream.current?.getTracks().forEach(t=>t.stop());window.speechSynthesis?.cancel()}},[]);
+ function locked(v:boolean){setBusy(v);onBusy(v)}
+ async function upload(blob:Blob){try{const result=await fetch("/api/practice/"+id+"/audio",{method:"POST",headers:{"Content-Type":blob.type},body:blob});if(!result.ok)throw Error();setRetry(null);setSaved(true);setVersion(v=>v+1);setStatus("Запись сохранена.")}catch{setRetry(blob);setStatus("Не удалось сохранить запись. Можно повторить отправку.")}finally{locked(false)}}
+ async function begin(){locked(true);setStatus("Запрашиваем микрофон…");
+ try{if(!navigator.mediaDevices?.getUserMedia||!window.MediaRecorder)throw Error();const s=await navigator.mediaDevices.getUserMedia({audio:true});if(!alive.current){s.getTracks().forEach(t=>t.stop());return}stream.current=s;const r=new MediaRecorder(s);rec.current=r;const chunks:Blob[]=[];r.ondataavailable=e=>chunks.push(e.data);
+ r.onstop=()=>{s.getTracks().forEach(t=>t.stop());setRunning(false);setStatus("Сохраняем запись…");void upload(new Blob(chunks,{type:r.mimeType}))};r.onerror=()=>{setStatus("Ошибка микрофона. Повторите запись.");s.getTracks().forEach(t=>t.stop());setRunning(false);locked(false)};r.start();setRunning(true);setStatus("Идёт запись.");
+ }catch{stream.current?.getTracks().forEach(t=>t.stop());setStatus("Микрофон недоступен. Проверьте разрешения браузера и устройство.");locked(false)}}
+ return <div className="voice-box">{!finished&&<div className="work-actions"><button type="button" className="studio-button btn-outline" onClick={()=>{if(!window.speechSynthesis){setStatus("Синтез речи недоступен.");return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(prompt);u.lang="en-GB";speechSynthesis.speak(u)}}><Volume2 size={16}/>Озвучить вопрос</button><button className="studio-button btn-blue" disabled={busy&&!running} onClick={()=>running?rec.current?.stop():void begin()}>{running?<Square size={16}/>:<Mic size={16}/>} {running?"Остановить и сохранить":"Записать ответ"}</button></div>}
+ {saved&&<audio controls key={version} src={"/api/practice/"+id+"/audio?v="+version}/>}<p role="status">{status}</p>{retry&&<button className="studio-button btn-outline" onClick={()=>{locked(true);void upload(retry)}}>Повторить отправку</button>}</div>;
+}

@@ -1,0 +1,1574 @@
+[
+  {
+    "slug": "grammar-a1-be-with-personal-subjects",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Be with personal subjects",
+    "description": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка.",
+    "minutes": 12,
+    "topic": "Be with personal subjects",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-be-with-personal-subjects-practice",
+        "title": "Be with personal subjects",
+        "body": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be.\n\nФорма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка.\n\nExamples\n• I am ready for class.\n• The reading rooms are quiet on Fridays.\n\nЧастая ошибка\nShe ready → She is ready. Связка нужна даже там, где в русском её нет.",
+        "questions": [
+          {
+            "id": "grammar-a1-be-with-personal-subjects-1",
+            "kind": "multiple-choice",
+            "prompt": "I ___ a new student.",
+            "options": [
+              "are",
+              "am"
+            ],
+            "accepted": [
+              "am"
+            ],
+            "explanation": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка. Пример: I am a new student.",
+            "evidence": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be."
+          },
+          {
+            "id": "grammar-a1-be-with-personal-subjects-2",
+            "kind": "multiple-choice",
+            "prompt": "Both rooms ___ free.",
+            "options": [
+              "are",
+              "is"
+            ],
+            "accepted": [
+              "are"
+            ],
+            "explanation": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка. Пример: Both rooms are free.",
+            "evidence": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be."
+          },
+          {
+            "id": "grammar-a1-be-with-personal-subjects-3",
+            "kind": "fill-blank",
+            "prompt": "My uncle ___ a driver.  (Use one of these forms: am / is.)",
+            "options": [],
+            "accepted": [
+              "is"
+            ],
+            "explanation": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка. Пример: My uncle is a driver.",
+            "evidence": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be."
+          },
+          {
+            "id": "grammar-a1-be-with-personal-subjects-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "You is early today.",
+              "You are early today."
+            ],
+            "accepted": [
+              "You are early today."
+            ],
+            "explanation": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка. Пример: You are early today.",
+            "evidence": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be."
+          },
+          {
+            "id": "grammar-a1-be-with-personal-subjects-5",
+            "kind": "multiple-choice",
+            "prompt": "We ___ at home.",
+            "options": [
+              "are not",
+              "is not"
+            ],
+            "accepted": [
+              "are not"
+            ],
+            "explanation": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка. Пример: We are not at home.",
+            "evidence": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be."
+          },
+          {
+            "id": "grammar-a1-be-with-personal-subjects-6",
+            "kind": "multiple-choice",
+            "prompt": "The map ___ on my desk.",
+            "options": [
+              "are",
+              "is"
+            ],
+            "accepted": [
+              "is"
+            ],
+            "explanation": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка. Пример: The map is on my desk.",
+            "evidence": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be."
+          },
+          {
+            "id": "grammar-a1-be-with-personal-subjects-7",
+            "kind": "fill-blank",
+            "prompt": "The seats ___ comfortable.  (Use one of these forms: am / are.)",
+            "options": [],
+            "accepted": [
+              "are"
+            ],
+            "explanation": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка. Пример: The seats are comfortable.",
+            "evidence": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be."
+          },
+          {
+            "id": "grammar-a1-be-with-personal-subjects-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "My sister and I are in Group B.",
+              "My sister and I is in Group B."
+            ],
+            "accepted": [
+              "My sister and I are in Group B."
+            ],
+            "explanation": "Форма be зависит от подлежащего. При отрицании поставьте not после am, is или are. Прилагательному в сказуемом тоже нужна связка. Пример: My sister and I are in Group B.",
+            "evidence": "Use am after I, is after a singular third-person subject, and are after you, we or they. Put not directly after be."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-subject-and-object-pronouns",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Subject and object pronouns",
+    "description": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them.",
+    "minutes": 12,
+    "topic": "Subject and object pronouns",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-subject-and-object-pronouns-practice",
+        "title": "Subject and object pronouns",
+        "body": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition.\n\nПодлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them.\n\nExamples\n• He calls us after class.\n• The guide walks with them.\n\nЧастая ошибка\nThe tutor knows we → The tutor knows us. После knows требуется дополнение.",
+        "questions": [
+          {
+            "id": "grammar-a1-subject-and-object-pronouns-1",
+            "kind": "multiple-choice",
+            "prompt": "Mira is my neighbour. ___ works upstairs.",
+            "options": [
+              "She",
+              "Her"
+            ],
+            "accepted": [
+              "She"
+            ],
+            "explanation": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them. Пример: Mira is my neighbour. She works upstairs.",
+            "evidence": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition."
+          },
+          {
+            "id": "grammar-a1-subject-and-object-pronouns-2",
+            "kind": "multiple-choice",
+            "prompt": "Look at Tom. Can you see ___?",
+            "options": [
+              "he",
+              "him"
+            ],
+            "accepted": [
+              "him"
+            ],
+            "explanation": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them. Пример: Look at Tom. Can you see him?",
+            "evidence": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition."
+          },
+          {
+            "id": "grammar-a1-subject-and-object-pronouns-3",
+            "kind": "fill-blank",
+            "prompt": "The twins are here. Please invite ___ in.  (Use one of these forms: them / they.)",
+            "options": [],
+            "accepted": [
+              "them"
+            ],
+            "explanation": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them. Пример: The twins are here. Please invite them in.",
+            "evidence": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition."
+          },
+          {
+            "id": "grammar-a1-subject-and-object-pronouns-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "My friend and I have tickets. We can go.",
+              "My friend and I have tickets. Us can go."
+            ],
+            "accepted": [
+              "My friend and I have tickets. We can go."
+            ],
+            "explanation": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them. Пример: My friend and I have tickets. We can go.",
+            "evidence": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition."
+          },
+          {
+            "id": "grammar-a1-subject-and-object-pronouns-5",
+            "kind": "multiple-choice",
+            "prompt": "Anna has my number. She calls ___ on Fridays.",
+            "options": [
+              "I",
+              "me"
+            ],
+            "accepted": [
+              "me"
+            ],
+            "explanation": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them. Пример: Anna has my number. She calls me on Fridays.",
+            "evidence": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition."
+          },
+          {
+            "id": "grammar-a1-subject-and-object-pronouns-6",
+            "kind": "multiple-choice",
+            "prompt": "This is our guide. Come with ___.",
+            "options": [
+              "we",
+              "us"
+            ],
+            "accepted": [
+              "us"
+            ],
+            "explanation": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them. Пример: This is our guide. Come with us.",
+            "evidence": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition."
+          },
+          {
+            "id": "grammar-a1-subject-and-object-pronouns-7",
+            "kind": "fill-blank",
+            "prompt": "The phone is new. ___ has a small screen.  (Use one of these forms: Him / It.)",
+            "options": [],
+            "accepted": [
+              "It"
+            ],
+            "explanation": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them. Пример: The phone is new. It has a small screen.",
+            "evidence": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition."
+          },
+          {
+            "id": "grammar-a1-subject-and-object-pronouns-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Max and Leo study English. Them like the class.",
+              "Max and Leo study English. They like the class."
+            ],
+            "accepted": [
+              "Max and Leo study English. They like the class."
+            ],
+            "explanation": "Подлежащее называет исполнителя действия. После глагола или предлога нужны формы me, him, her, us, them. Пример: Max and Leo study English. They like the class.",
+            "evidence": "A subject pronoun goes before the verb. Use an object pronoun after a verb or a preposition."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-indefinite-articles",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Indefinite articles",
+    "description": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное.",
+    "minutes": 12,
+    "topic": "Indefinite articles",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-indefinite-articles-practice",
+        "title": "Indefinite articles",
+        "body": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice.\n\nВыбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное.\n\nExamples\n• We booked a useful workshop.\n• She borrowed an old atlas.\n\nЧастая ошибка\nan uniform → a uniform. Начало слова uniform произносится со звуком /j/.",
+        "questions": [
+          {
+            "id": "grammar-a1-indefinite-articles-1",
+            "kind": "multiple-choice",
+            "prompt": "He drew ___ orange circle.",
+            "options": [
+              "a",
+              "an"
+            ],
+            "accepted": [
+              "an"
+            ],
+            "explanation": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное. Пример: He drew an orange circle.",
+            "evidence": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice."
+          },
+          {
+            "id": "grammar-a1-indefinite-articles-2",
+            "kind": "multiple-choice",
+            "prompt": "I need ___ small bag.",
+            "options": [
+              "an",
+              "a"
+            ],
+            "accepted": [
+              "a"
+            ],
+            "explanation": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное. Пример: I need a small bag.",
+            "evidence": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice."
+          },
+          {
+            "id": "grammar-a1-indefinite-articles-3",
+            "kind": "fill-blank",
+            "prompt": "Sara has ___ umbrella.  (Use one of these forms: a / an.)",
+            "options": [],
+            "accepted": [
+              "an"
+            ],
+            "explanation": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное. Пример: Sara has an umbrella.",
+            "evidence": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice."
+          },
+          {
+            "id": "grammar-a1-indefinite-articles-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "This is an university club.",
+              "This is a university club."
+            ],
+            "accepted": [
+              "This is a university club."
+            ],
+            "explanation": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное. Пример: This is a university club.",
+            "evidence": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice."
+          },
+          {
+            "id": "grammar-a1-indefinite-articles-5",
+            "kind": "multiple-choice",
+            "prompt": "There is ___ empty box.",
+            "options": [
+              "a",
+              "an"
+            ],
+            "accepted": [
+              "an"
+            ],
+            "explanation": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное. Пример: There is an empty box.",
+            "evidence": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice."
+          },
+          {
+            "id": "grammar-a1-indefinite-articles-6",
+            "kind": "multiple-choice",
+            "prompt": "We waited for ___ hour.",
+            "options": [
+              "an",
+              "a"
+            ],
+            "accepted": [
+              "an"
+            ],
+            "explanation": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное. Пример: We waited for an hour.",
+            "evidence": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice."
+          },
+          {
+            "id": "grammar-a1-indefinite-articles-7",
+            "kind": "fill-blank",
+            "prompt": "I ate ___ yellow apple.  (Use one of these forms: a / an.)",
+            "options": [],
+            "accepted": [
+              "a"
+            ],
+            "explanation": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное. Пример: I ate a yellow apple.",
+            "evidence": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice."
+          },
+          {
+            "id": "grammar-a1-indefinite-articles-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The child saw a owl.",
+              "The child saw an owl."
+            ],
+            "accepted": [
+              "The child saw an owl."
+            ],
+            "explanation": "Выбирайте a перед согласным звуком и an перед гласным. Важен первый произносимый звук следующего слова, включая прилагательное. Пример: The child saw an owl.",
+            "evidence": "Use a or an before one nonspecific singular count noun. The first sound of the next word determines the choice."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-regular-and-irregular-plurals",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Regular and irregular plurals",
+    "description": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма.",
+    "minutes": 12,
+    "topic": "Regular and irregular plurals",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-regular-and-irregular-plurals-practice",
+        "title": "Regular and irregular plurals",
+        "body": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned.\n\nПри точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма.\n\nExamples\n• Three buses stop here.\n• Two children are waiting outside.\n\nЧастая ошибка\ntwo childs → two children. Окончание -s к форме children не добавляется.",
+        "questions": [
+          {
+            "id": "grammar-a1-regular-and-irregular-plurals-1",
+            "kind": "multiple-choice",
+            "prompt": "There are four ___ by the door.",
+            "options": [
+              "boxs",
+              "boxes"
+            ],
+            "accepted": [
+              "boxes"
+            ],
+            "explanation": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма. Пример: There are four boxes by the door.",
+            "evidence": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned."
+          },
+          {
+            "id": "grammar-a1-regular-and-irregular-plurals-2",
+            "kind": "multiple-choice",
+            "prompt": "Two ___ work here.",
+            "options": [
+              "women",
+              "womans"
+            ],
+            "accepted": [
+              "women"
+            ],
+            "explanation": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма. Пример: Two women work here.",
+            "evidence": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned."
+          },
+          {
+            "id": "grammar-a1-regular-and-irregular-plurals-3",
+            "kind": "fill-blank",
+            "prompt": "Our street has three ___.  (Use one of these forms: shop / shops.)",
+            "options": [],
+            "accepted": [
+              "shops"
+            ],
+            "explanation": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма. Пример: Our street has three shops.",
+            "evidence": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned."
+          },
+          {
+            "id": "grammar-a1-regular-and-irregular-plurals-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The boat carries six persons-es.",
+              "The boat carries six people."
+            ],
+            "accepted": [
+              "The boat carries six people."
+            ],
+            "explanation": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма. Пример: The boat carries six people.",
+            "evidence": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned."
+          },
+          {
+            "id": "grammar-a1-regular-and-irregular-plurals-5",
+            "kind": "multiple-choice",
+            "prompt": "He packed two ___.",
+            "options": [
+              "watches",
+              "watchs"
+            ],
+            "accepted": [
+              "watches"
+            ],
+            "explanation": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма. Пример: He packed two watches.",
+            "evidence": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned."
+          },
+          {
+            "id": "grammar-a1-regular-and-irregular-plurals-6",
+            "kind": "multiple-choice",
+            "prompt": "We need five ___.",
+            "options": [
+              "chair",
+              "chairs"
+            ],
+            "accepted": [
+              "chairs"
+            ],
+            "explanation": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма. Пример: We need five chairs.",
+            "evidence": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned."
+          },
+          {
+            "id": "grammar-a1-regular-and-irregular-plurals-7",
+            "kind": "fill-blank",
+            "prompt": "The baby has two ___.  (Use one of these forms: teeth / tooths.)",
+            "options": [],
+            "accepted": [
+              "teeth"
+            ],
+            "explanation": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма. Пример: The baby has two teeth.",
+            "evidence": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned."
+          },
+          {
+            "id": "grammar-a1-regular-and-irregular-plurals-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Two men opened the gate.",
+              "Two mans opened the gate."
+            ],
+            "accepted": [
+              "Two men opened the gate."
+            ],
+            "explanation": "При точном количестве больше одного используйте множественное число. После шипящих обычно нужно -es, а у child, person и других частых слов своя форма. Пример: Two men opened the gate.",
+            "evidence": "Add -s or -es to most count nouns. Some frequent nouns have a special plural form that must be learned."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-possessive-determiners",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Possessive determiners",
+    "description": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен.",
+    "minutes": 12,
+    "topic": "Possessive determiners",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-possessive-determiners-practice",
+        "title": "Possessive determiners",
+        "body": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner.\n\nПритяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен.\n\nExamples\n• They brought their books.\n• I forgot my umbrella.\n\nЧастая ошибка\nShe lost she ticket → She lost her ticket. Перед ticket нужно определение владельца.",
+        "questions": [
+          {
+            "id": "grammar-a1-possessive-determiners-1",
+            "kind": "multiple-choice",
+            "prompt": "I study at home. ___ desk is small.",
+            "options": [
+              "My",
+              "Me"
+            ],
+            "accepted": [
+              "My"
+            ],
+            "explanation": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен. Пример: I study at home. My desk is small.",
+            "evidence": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner."
+          },
+          {
+            "id": "grammar-a1-possessive-determiners-2",
+            "kind": "multiple-choice",
+            "prompt": "Ben lives here. ___ door is green.",
+            "options": [
+              "He",
+              "His"
+            ],
+            "accepted": [
+              "His"
+            ],
+            "explanation": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен. Пример: Ben lives here. His door is green.",
+            "evidence": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner."
+          },
+          {
+            "id": "grammar-a1-possessive-determiners-3",
+            "kind": "fill-blank",
+            "prompt": "We are in Room 6. ___ lesson starts now.  (Use one of these forms: Our / Us.)",
+            "options": [],
+            "accepted": [
+              "Our"
+            ],
+            "explanation": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен. Пример: We are in Room 6. Our lesson starts now.",
+            "evidence": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner."
+          },
+          {
+            "id": "grammar-a1-possessive-determiners-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The cats sleep in their basket.",
+              "The cats sleep in they basket."
+            ],
+            "accepted": [
+              "The cats sleep in their basket."
+            ],
+            "explanation": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен. Пример: The cats sleep in their basket.",
+            "evidence": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner."
+          },
+          {
+            "id": "grammar-a1-possessive-determiners-5",
+            "kind": "multiple-choice",
+            "prompt": "Aida has a camera. ___ camera is black.",
+            "options": [
+              "She",
+              "Her"
+            ],
+            "accepted": [
+              "Her"
+            ],
+            "explanation": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен. Пример: Aida has a camera. Her camera is black.",
+            "evidence": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner."
+          },
+          {
+            "id": "grammar-a1-possessive-determiners-6",
+            "kind": "multiple-choice",
+            "prompt": "Is this ___ name on the card?",
+            "options": [
+              "you",
+              "your"
+            ],
+            "accepted": [
+              "your"
+            ],
+            "explanation": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен. Пример: Is this your name on the card?",
+            "evidence": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner."
+          },
+          {
+            "id": "grammar-a1-possessive-determiners-7",
+            "kind": "fill-blank",
+            "prompt": "The hotel has changed ___ address.  (Use one of these forms: it / its.)",
+            "options": [],
+            "accepted": [
+              "its"
+            ],
+            "explanation": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен. Пример: The hotel has changed its address.",
+            "evidence": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner."
+          },
+          {
+            "id": "grammar-a1-possessive-determiners-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "I like the blue cover of I notebook.",
+              "I like the blue cover of my notebook."
+            ],
+            "accepted": [
+              "I like the blue cover of my notebook."
+            ],
+            "explanation": "Притяжательное определение выбирают по владельцу. После него идёт существительное, а артикль перед ним не нужен. Пример: I like the blue cover of my notebook.",
+            "evidence": "Place my, your, his, her, its, our or their before a noun. Choose the form for the owner."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-this-and-those",
+    "version": 1,
+    "skill": "grammar",
+    "title": "This and those",
+    "description": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these.",
+    "minutes": 12,
+    "topic": "This and those",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-this-and-those-practice",
+        "title": "This and those",
+        "body": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker.\n\nРазличайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these.\n\nExamples\n• This key in my hand is yours.\n• Those lights across the river are new.\n\nЧастая ошибка\nthese bus → this bus. Рядом один автобус, поэтому нужна форма единственного числа.",
+        "questions": [
+          {
+            "id": "grammar-a1-this-and-those-1",
+            "kind": "multiple-choice",
+            "prompt": "___ cup here is warm.",
+            "options": [
+              "These",
+              "This"
+            ],
+            "accepted": [
+              "This"
+            ],
+            "explanation": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these. Пример: This cup here is warm.",
+            "evidence": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker."
+          },
+          {
+            "id": "grammar-a1-this-and-those-2",
+            "kind": "multiple-choice",
+            "prompt": "___ towers over there are tall.",
+            "options": [
+              "That",
+              "Those"
+            ],
+            "accepted": [
+              "Those"
+            ],
+            "explanation": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these. Пример: Those towers over there are tall.",
+            "evidence": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker."
+          },
+          {
+            "id": "grammar-a1-this-and-those-3",
+            "kind": "fill-blank",
+            "prompt": "Please take ___ two pens beside me.  (Use one of these forms: these / this.)",
+            "options": [],
+            "accepted": [
+              "these"
+            ],
+            "explanation": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these. Пример: Please take these two pens beside me.",
+            "evidence": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker."
+          },
+          {
+            "id": "grammar-a1-this-and-those-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Look at those sign on the distant hill.",
+              "Look at that sign on the distant hill."
+            ],
+            "accepted": [
+              "Look at that sign on the distant hill."
+            ],
+            "explanation": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these. Пример: Look at that sign on the distant hill.",
+            "evidence": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker."
+          },
+          {
+            "id": "grammar-a1-this-and-those-5",
+            "kind": "multiple-choice",
+            "prompt": "___ shoes here fit me.",
+            "options": [
+              "This",
+              "These"
+            ],
+            "accepted": [
+              "These"
+            ],
+            "explanation": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these. Пример: These shoes here fit me.",
+            "evidence": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker."
+          },
+          {
+            "id": "grammar-a1-this-and-those-6",
+            "kind": "multiple-choice",
+            "prompt": "___ boat across the lake is empty.",
+            "options": [
+              "That",
+              "Those"
+            ],
+            "accepted": [
+              "That"
+            ],
+            "explanation": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these. Пример: That boat across the lake is empty.",
+            "evidence": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker."
+          },
+          {
+            "id": "grammar-a1-this-and-those-7",
+            "kind": "fill-blank",
+            "prompt": "Take ___ seat next to me.  (Use one of these forms: these / this.)",
+            "options": [],
+            "accepted": [
+              "this"
+            ],
+            "explanation": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these. Пример: Take this seat next to me.",
+            "evidence": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker."
+          },
+          {
+            "id": "grammar-a1-this-and-those-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "That birds beyond the fence are noisy.",
+              "Those birds beyond the fence are noisy."
+            ],
+            "accepted": [
+              "Those birds beyond the fence are noisy."
+            ],
+            "explanation": "Различайте число и расстояние. Для предметов вдали используйте that или those, для находящихся рядом — this или these. Пример: Those birds beyond the fence are noisy.",
+            "evidence": "Use this and that with a singular noun, these and those with plural nouns. This and these point to something near the speaker."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-present-simple-routines",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Present simple routines",
+    "description": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies.",
+    "minutes": 12,
+    "topic": "Present simple routines",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-present-simple-routines-practice",
+        "title": "Present simple routines",
+        "body": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending.\n\nВ утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies.\n\nExamples\n• I cycle to class every day.\n• My neighbour studies after work.\n\nЧастая ошибка\nShe walk home daily → She walks home daily. Для she нужно окончание -s.",
+        "questions": [
+          {
+            "id": "grammar-a1-present-simple-routines-1",
+            "kind": "multiple-choice",
+            "prompt": "Lena ___ the shop at nine.",
+            "options": [
+              "open",
+              "opens"
+            ],
+            "accepted": [
+              "opens"
+            ],
+            "explanation": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies. Пример: Lena opens the shop at nine.",
+            "evidence": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending."
+          },
+          {
+            "id": "grammar-a1-present-simple-routines-2",
+            "kind": "multiple-choice",
+            "prompt": "My cousins ___ tennis on Sundays.",
+            "options": [
+              "play",
+              "plays"
+            ],
+            "accepted": [
+              "play"
+            ],
+            "explanation": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies. Пример: My cousins play tennis on Sundays.",
+            "evidence": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending."
+          },
+          {
+            "id": "grammar-a1-present-simple-routines-3",
+            "kind": "fill-blank",
+            "prompt": "The bus ___ past our school.  (Use one of these forms: go / goes.)",
+            "options": [],
+            "accepted": [
+              "goes"
+            ],
+            "explanation": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies. Пример: The bus goes past our school.",
+            "evidence": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending."
+          },
+          {
+            "id": "grammar-a1-present-simple-routines-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "I washes the cups each evening.",
+              "I wash the cups each evening."
+            ],
+            "accepted": [
+              "I wash the cups each evening."
+            ],
+            "explanation": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies. Пример: I wash the cups each evening.",
+            "evidence": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending."
+          },
+          {
+            "id": "grammar-a1-present-simple-routines-5",
+            "kind": "multiple-choice",
+            "prompt": "Our teacher ___ a red bag.",
+            "options": [
+              "carries",
+              "carry"
+            ],
+            "accepted": [
+              "carries"
+            ],
+            "explanation": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies. Пример: Our teacher carries a red bag.",
+            "evidence": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending."
+          },
+          {
+            "id": "grammar-a1-present-simple-routines-6",
+            "kind": "multiple-choice",
+            "prompt": "We ___ the market every week.",
+            "options": [
+              "visits",
+              "visit"
+            ],
+            "accepted": [
+              "visit"
+            ],
+            "explanation": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies. Пример: We visit the market every week.",
+            "evidence": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending."
+          },
+          {
+            "id": "grammar-a1-present-simple-routines-7",
+            "kind": "fill-blank",
+            "prompt": "My brother ___ the news.  (Use one of these forms: watch / watches.)",
+            "options": [],
+            "accepted": [
+              "watches"
+            ],
+            "explanation": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies. Пример: My brother watches the news.",
+            "evidence": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending."
+          },
+          {
+            "id": "grammar-a1-present-simple-routines-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "They study in the library.",
+              "They studies in the library."
+            ],
+            "accepted": [
+              "They study in the library."
+            ],
+            "explanation": "В утвердительном Present Simple ставьте -s или -es у глагола после he, she, it. После согласной y меняется на -ies. Пример: They study in the library.",
+            "evidence": "Use the base verb for I, you, we and they in positive present statements. With he, she or it add the third-person ending."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-do-and-does-in-questions",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Do and does in questions",
+    "description": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s.",
+    "minutes": 12,
+    "topic": "Do and does in questions",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-do-and-does-in-questions-practice",
+        "title": "Do and does in questions",
+        "body": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb.\n\nDo употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s.\n\nExamples\n• Do you need a map?\n• Does the train stop here?\n\nЧастая ошибка\nDoes Maya lives here? → Does Maya live here? Признак третьего лица уже стоит в does.",
+        "questions": [
+          {
+            "id": "grammar-a1-do-and-does-in-questions-1",
+            "kind": "multiple-choice",
+            "prompt": "___ your sister teach art?",
+            "options": [
+              "Does",
+              "Do"
+            ],
+            "accepted": [
+              "Does"
+            ],
+            "explanation": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s. Пример: Does your sister teach art?",
+            "evidence": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb."
+          },
+          {
+            "id": "grammar-a1-do-and-does-in-questions-2",
+            "kind": "multiple-choice",
+            "prompt": "Do they ___ nearby?",
+            "options": [
+              "works",
+              "work"
+            ],
+            "accepted": [
+              "work"
+            ],
+            "explanation": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s. Пример: Do they work nearby?",
+            "evidence": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb."
+          },
+          {
+            "id": "grammar-a1-do-and-does-in-questions-3",
+            "kind": "fill-blank",
+            "prompt": "___ the doors open at ten?  (Use one of these forms: Do / Does.)",
+            "options": [],
+            "accepted": [
+              "Do"
+            ],
+            "explanation": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s. Пример: Do the doors open at ten?",
+            "evidence": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb."
+          },
+          {
+            "id": "grammar-a1-do-and-does-in-questions-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Does the driver know your name?",
+              "Does the driver knows your name?"
+            ],
+            "accepted": [
+              "Does the driver know your name?"
+            ],
+            "explanation": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s. Пример: Does the driver know your name?",
+            "evidence": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb."
+          },
+          {
+            "id": "grammar-a1-do-and-does-in-questions-5",
+            "kind": "multiple-choice",
+            "prompt": "___ this card cost much?",
+            "options": [
+              "Do",
+              "Does"
+            ],
+            "accepted": [
+              "Does"
+            ],
+            "explanation": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s. Пример: Does this card cost much?",
+            "evidence": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb."
+          },
+          {
+            "id": "grammar-a1-do-and-does-in-questions-6",
+            "kind": "multiple-choice",
+            "prompt": "Do you ___ the early bus?",
+            "options": [
+              "takes",
+              "take"
+            ],
+            "accepted": [
+              "take"
+            ],
+            "explanation": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s. Пример: Do you take the early bus?",
+            "evidence": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb."
+          },
+          {
+            "id": "grammar-a1-do-and-does-in-questions-7",
+            "kind": "fill-blank",
+            "prompt": "___ we have time for tea?  (Use one of these forms: Do / Does.)",
+            "options": [],
+            "accepted": [
+              "Do"
+            ],
+            "explanation": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s. Пример: Do we have time for tea?",
+            "evidence": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb."
+          },
+          {
+            "id": "grammar-a1-do-and-does-in-questions-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Does Omar reads English at home?",
+              "Does Omar read English at home?"
+            ],
+            "accepted": [
+              "Does Omar read English at home?"
+            ],
+            "explanation": "Do употребляется с I, you, we, they, а does с he, she, it. Сам смысловой глагол после does теряет окончание -s. Пример: Does Omar read English at home?",
+            "evidence": "Start a yes/no question in the present simple with do or does, then add the subject and a base verb."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-there-is-and-there-are",
+    "version": 1,
+    "skill": "grammar",
+    "title": "There is and there are",
+    "description": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд.",
+    "minutes": 12,
+    "topic": "There is and there are",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-there-is-and-there-are-practice",
+        "title": "There is and there are",
+        "body": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there.\n\nЧтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд.\n\nExamples\n• There is a bakery upstairs.\n• Are there two exits on this floor?\n\nЧастая ошибка\nThere is three doors → There are three doors. Существительное во множественном числе требует are.",
+        "questions": [
+          {
+            "id": "grammar-a1-there-is-and-there-are-1",
+            "kind": "multiple-choice",
+            "prompt": "There ___ a lamp by the bed.",
+            "options": [
+              "are",
+              "is"
+            ],
+            "accepted": [
+              "is"
+            ],
+            "explanation": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд. Пример: There is a lamp by the bed.",
+            "evidence": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there."
+          },
+          {
+            "id": "grammar-a1-there-is-and-there-are-2",
+            "kind": "multiple-choice",
+            "prompt": "There ___ four maps on the wall.",
+            "options": [
+              "is",
+              "are"
+            ],
+            "accepted": [
+              "are"
+            ],
+            "explanation": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд. Пример: There are four maps on the wall.",
+            "evidence": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there."
+          },
+          {
+            "id": "grammar-a1-there-is-and-there-are-3",
+            "kind": "fill-blank",
+            "prompt": "___ there a bench nearby?  (Use one of these forms: Are / Is.)",
+            "options": [],
+            "accepted": [
+              "Is"
+            ],
+            "explanation": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд. Пример: Is there a bench nearby?",
+            "evidence": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there."
+          },
+          {
+            "id": "grammar-a1-there-is-and-there-are-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Is there windows in the hall?",
+              "Are there windows in the hall?"
+            ],
+            "accepted": [
+              "Are there windows in the hall?"
+            ],
+            "explanation": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд. Пример: Are there windows in the hall?",
+            "evidence": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there."
+          },
+          {
+            "id": "grammar-a1-there-is-and-there-are-5",
+            "kind": "multiple-choice",
+            "prompt": "There ___ one spare ticket.",
+            "options": [
+              "are",
+              "is"
+            ],
+            "accepted": [
+              "is"
+            ],
+            "explanation": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд. Пример: There is one spare ticket.",
+            "evidence": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there."
+          },
+          {
+            "id": "grammar-a1-there-is-and-there-are-6",
+            "kind": "multiple-choice",
+            "prompt": "There ___ no empty tables.",
+            "options": [
+              "are",
+              "is"
+            ],
+            "accepted": [
+              "are"
+            ],
+            "explanation": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд. Пример: There are no empty tables.",
+            "evidence": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there."
+          },
+          {
+            "id": "grammar-a1-there-is-and-there-are-7",
+            "kind": "fill-blank",
+            "prompt": "___ there an alarm in the room?  (Use one of these forms: Are / Is.)",
+            "options": [],
+            "accepted": [
+              "Is"
+            ],
+            "explanation": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд. Пример: Is there an alarm in the room?",
+            "evidence": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there."
+          },
+          {
+            "id": "grammar-a1-there-is-and-there-are-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "There is two bridges across this river.",
+              "There are two bridges across this river."
+            ],
+            "accepted": [
+              "There are two bridges across this river."
+            ],
+            "explanation": "Чтобы сообщить о наличии предмета, согласуйте be с тем, что находится после конструкции there. В вопросе be выходит вперёд. Пример: There are two bridges across this river.",
+            "evidence": "Use there is to introduce one thing and there are for more than one. In questions move is or are before there."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-can-for-ability",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Can for ability",
+    "description": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим.",
+    "minutes": 12,
+    "topic": "Can for ability",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-can-for-ability-practice",
+        "title": "Can for ability",
+        "body": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject.\n\nПосле can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим.\n\nExamples\n• The child can swim.\n• Can your friend read music?\n\nЧастая ошибка\nShe cans drive → She can drive. У модального глагола нет окончания -s.",
+        "questions": [
+          {
+            "id": "grammar-a1-can-for-ability-1",
+            "kind": "multiple-choice",
+            "prompt": "My aunt ___ speak Korean.",
+            "options": [
+              "cans",
+              "can"
+            ],
+            "accepted": [
+              "can"
+            ],
+            "explanation": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим. Пример: My aunt can speak Korean.",
+            "evidence": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject."
+          },
+          {
+            "id": "grammar-a1-can-for-ability-2",
+            "kind": "multiple-choice",
+            "prompt": "Can you ___ this case?",
+            "options": [
+              "lift",
+              "to lift"
+            ],
+            "accepted": [
+              "lift"
+            ],
+            "explanation": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим. Пример: Can you lift this case?",
+            "evidence": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject."
+          },
+          {
+            "id": "grammar-a1-can-for-ability-3",
+            "kind": "fill-blank",
+            "prompt": "The twins cannot ___ that shelf.  (Use one of these forms: reach / reaches.)",
+            "options": [],
+            "accepted": [
+              "reach"
+            ],
+            "explanation": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим. Пример: The twins cannot reach that shelf.",
+            "evidence": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject."
+          },
+          {
+            "id": "grammar-a1-can-for-ability-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Does he can play chess?",
+              "Can he play chess?"
+            ],
+            "accepted": [
+              "Can he play chess?"
+            ],
+            "explanation": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим. Пример: Can he play chess?",
+            "evidence": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject."
+          },
+          {
+            "id": "grammar-a1-can-for-ability-5",
+            "kind": "multiple-choice",
+            "prompt": "Nina can ___ a map.",
+            "options": [
+              "draw",
+              "draws"
+            ],
+            "accepted": [
+              "draw"
+            ],
+            "explanation": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим. Пример: Nina can draw a map.",
+            "evidence": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject."
+          },
+          {
+            "id": "grammar-a1-can-for-ability-6",
+            "kind": "multiple-choice",
+            "prompt": "They ___ see the screen.",
+            "options": [
+              "does not can",
+              "cannot"
+            ],
+            "accepted": [
+              "cannot"
+            ],
+            "explanation": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим. Пример: They cannot see the screen.",
+            "evidence": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject."
+          },
+          {
+            "id": "grammar-a1-can-for-ability-7",
+            "kind": "fill-blank",
+            "prompt": "Can we ___ both hands?  (Use one of these forms: use / using.)",
+            "options": [],
+            "accepted": [
+              "use"
+            ],
+            "explanation": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим. Пример: Can we use both hands?",
+            "evidence": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject."
+          },
+          {
+            "id": "grammar-a1-can-for-ability-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "I can ride a bike.",
+              "I can to ride a bike."
+            ],
+            "accepted": [
+              "I can ride a bike."
+            ],
+            "explanation": "После can нужен глагол без to. В отрицании используйте cannot или can't, а в вопросе перенесите can перед подлежащим. Пример: I can ride a bike.",
+            "evidence": "Use can followed directly by the base verb to describe ability. The form can stays the same with every subject."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-present-continuous-now",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Present continuous now",
+    "description": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время.",
+    "minutes": 12,
+    "topic": "Present continuous now",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-present-continuous-now-practice",
+        "title": "Present continuous now",
+        "body": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now.\n\nДля действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время.\n\nExamples\n• Look, the bus is turning.\n• We are listening to the instructions.\n\nЧастая ошибка\nThey waiting → They are waiting. Перед waiting пропущена форма be.",
+        "questions": [
+          {
+            "id": "grammar-a1-present-continuous-now-1",
+            "kind": "multiple-choice",
+            "prompt": "Listen! A bird ___.",
+            "options": [
+              "is singing",
+              "are singing"
+            ],
+            "accepted": [
+              "is singing"
+            ],
+            "explanation": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время. Пример: Listen! A bird is singing.",
+            "evidence": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now."
+          },
+          {
+            "id": "grammar-a1-present-continuous-now-2",
+            "kind": "multiple-choice",
+            "prompt": "Right now I ___ my name.",
+            "options": [
+              "is writing",
+              "am writing"
+            ],
+            "accepted": [
+              "am writing"
+            ],
+            "explanation": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время. Пример: Right now I am writing my name.",
+            "evidence": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now."
+          },
+          {
+            "id": "grammar-a1-present-continuous-now-3",
+            "kind": "fill-blank",
+            "prompt": "The players are ___ across the field.  (Use one of these forms: run / running.)",
+            "options": [],
+            "accepted": [
+              "running"
+            ],
+            "explanation": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время. Пример: The players are running across the field.",
+            "evidence": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now."
+          },
+          {
+            "id": "grammar-a1-present-continuous-now-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Look! We are passing the station.",
+              "Look! We is passing the station."
+            ],
+            "accepted": [
+              "Look! We are passing the station."
+            ],
+            "explanation": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время. Пример: Look! We are passing the station.",
+            "evidence": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now."
+          },
+          {
+            "id": "grammar-a1-present-continuous-now-5",
+            "kind": "multiple-choice",
+            "prompt": "The kettle ___ now.",
+            "options": [
+              "are boiling",
+              "is boiling"
+            ],
+            "accepted": [
+              "is boiling"
+            ],
+            "explanation": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время. Пример: The kettle is boiling now.",
+            "evidence": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now."
+          },
+          {
+            "id": "grammar-a1-present-continuous-now-6",
+            "kind": "multiple-choice",
+            "prompt": "You are ___ on my coat.",
+            "options": [
+              "stand",
+              "standing"
+            ],
+            "accepted": [
+              "standing"
+            ],
+            "explanation": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время. Пример: You are standing on my coat.",
+            "evidence": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now."
+          },
+          {
+            "id": "grammar-a1-present-continuous-now-7",
+            "kind": "fill-blank",
+            "prompt": "Our guests ___ at the moment.  (Use one of these forms: am eating / are eating.)",
+            "options": [],
+            "accepted": [
+              "are eating"
+            ],
+            "explanation": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время. Пример: Our guests are eating at the moment.",
+            "evidence": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now."
+          },
+          {
+            "id": "grammar-a1-present-continuous-now-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "I are learning a new song today.",
+              "I am learning a new song today."
+            ],
+            "accepted": [
+              "I am learning a new song today."
+            ],
+            "explanation": "Для действия, которое происходит в момент речи, соедините am/is/are с формой на -ing. Один элемент без другого не образует это время. Пример: I am learning a new song today.",
+            "evidence": "Build the present continuous with a form of be plus an -ing verb. Use it for an action in progress now."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-a1-imperatives-and-prohibitions",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Imperatives and prohibitions",
+    "description": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола.",
+    "minutes": 12,
+    "topic": "Imperatives and prohibitions",
+    "difficulty": "foundation",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "A1",
+    "sections": [
+      {
+        "id": "grammar-a1-imperatives-and-prohibitions-practice",
+        "title": "Imperatives and prohibitions",
+        "body": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb.\n\nВ инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола.\n\nExamples\n• Turn left at the stairs.\n• Do not touch the wet paint.\n\nЧастая ошибка\nDon't to run → Don't run. После don't частица to не ставится.",
+        "questions": [
+          {
+            "id": "grammar-a1-imperatives-and-prohibitions-1",
+            "kind": "multiple-choice",
+            "prompt": "Please ___ the gate.",
+            "options": [
+              "closes",
+              "close"
+            ],
+            "accepted": [
+              "close"
+            ],
+            "explanation": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола. Пример: Please close the gate.",
+            "evidence": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb."
+          },
+          {
+            "id": "grammar-a1-imperatives-and-prohibitions-2",
+            "kind": "multiple-choice",
+            "prompt": "Don't ___ the birds.",
+            "options": [
+              "feeds",
+              "feed"
+            ],
+            "accepted": [
+              "feed"
+            ],
+            "explanation": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола. Пример: Don't feed the birds.",
+            "evidence": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb."
+          },
+          {
+            "id": "grammar-a1-imperatives-and-prohibitions-3",
+            "kind": "fill-blank",
+            "prompt": "___ your name here.  (Use one of these forms: Write / Writes.)",
+            "options": [],
+            "accepted": [
+              "Write"
+            ],
+            "explanation": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола. Пример: Write your name here.",
+            "evidence": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb."
+          },
+          {
+            "id": "grammar-a1-imperatives-and-prohibitions-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Do not crossing the yellow line.",
+              "Do not cross the yellow line."
+            ],
+            "accepted": [
+              "Do not cross the yellow line."
+            ],
+            "explanation": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола. Пример: Do not cross the yellow line.",
+            "evidence": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb."
+          },
+          {
+            "id": "grammar-a1-imperatives-and-prohibitions-5",
+            "kind": "multiple-choice",
+            "prompt": "Please ___ a number.",
+            "options": [
+              "takes",
+              "take"
+            ],
+            "accepted": [
+              "take"
+            ],
+            "explanation": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола. Пример: Please take a number.",
+            "evidence": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb."
+          },
+          {
+            "id": "grammar-a1-imperatives-and-prohibitions-6",
+            "kind": "multiple-choice",
+            "prompt": "Don't ___ your bag.",
+            "options": [
+              "forget",
+              "to forget"
+            ],
+            "accepted": [
+              "forget"
+            ],
+            "explanation": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола. Пример: Don't forget your bag.",
+            "evidence": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb."
+          },
+          {
+            "id": "grammar-a1-imperatives-and-prohibitions-7",
+            "kind": "fill-blank",
+            "prompt": "___ to the next example.  (Use one of these forms: Listen / Listens.)",
+            "options": [],
+            "accepted": [
+              "Listen"
+            ],
+            "explanation": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола. Пример: Listen to the next example.",
+            "evidence": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb."
+          },
+          {
+            "id": "grammar-a1-imperatives-and-prohibitions-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Do not using the lift today.",
+              "Do not use the lift today."
+            ],
+            "accepted": [
+              "Do not use the lift today."
+            ],
+            "explanation": "В инструкции подлежащее you обычно пропускается. Для запрета используйте don't или do not перед начальной формой глагола. Пример: Do not use the lift today.",
+            "evidence": "Start an instruction with a base verb. Make a negative instruction with do not or don't followed by the base verb."
+          }
+        ]
+      }
+    ]
+  }
+]

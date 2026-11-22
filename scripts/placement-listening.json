@@ -1,0 +1,21 @@
+[
+  [
+    "Receptionist: Good morning, Westbridge Language Centre. How can I help you?",
+    "Student: Hello. I'd like to join an English course next month.",
+    "Receptionist: Certainly. We have an intermediate course starting on Monday, the 14th of September.",
+    "Student: That sounds good. What time are the classes?",
+    "Receptionist: They run from 6:30 to 8:00 in the evening, three times a week.",
+    "Student: How much is the course?",
+    "Receptionist: It's £180 for six weeks. The fee includes all study materials.",
+    "Student: Great. Is there anything I need to bring?",
+    "Receptionist: Just a notebook and your student ID on the first day.",
+    "Student: Perfect. I'd like to register."
+  ],
+  [
+    "In recent years, researchers have become increasingly interested in the relationship between urban green spaces and public health.",
+    "One study examined how access to parks influenced the daily habits of residents in several large cities. Researchers initially expected that people living close to green spaces would exercise more frequently.",
+    "Although the results supported this assumption to some extent, a more interesting finding emerged. Participants who regularly visited parks reported lower levels of stress, even when their physical activity remained unchanged.",
+    "However, the researchers warned against assuming that constructing new parks would automatically improve health outcomes. Factors such as safety, accessibility, maintenance and community involvement also played important roles.",
+    "The study concluded that urban planning should focus not only on increasing the number of green spaces but also on improving their overall quality."
+  ]
+]

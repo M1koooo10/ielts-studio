@@ -1,0 +1,125 @@
+.tutor-intro {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+.tutor-intro p,
+.tutor-hint,
+.ai-attempt-feedback > p {
+  color: var(--muted);
+}
+.tutor-intro h2,
+.tutor-chat label {
+  font-weight: 650;
+}
+.tutor-modes,
+.tutor-starters,
+.tutor-connect {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 14px 0;
+}
+.tutor-modes a[aria-current="page"] {
+  border-color: var(--primary);
+  color: var(--primary);
+  background: var(--selected);
+}
+.tutor-chat form {
+  display: grid;
+  gap: 10px;
+  margin-top: 20px;
+}
+.tutor-chat form > .studio-button {
+  justify-self: start;
+}
+.tutor-chat textarea {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  padding: 10px;
+  color: var(--text);
+  background: var(--bg);
+  resize: vertical;
+}
+.tutor-message {
+  padding: 15px 18px;
+  border-radius: 10px;
+  background: var(--bg);
+  margin: 12px 0;
+  max-width: 86%;
+  width: fit-content;
+}
+.tutor-message.mine {
+  margin-left: auto;
+  background: var(--selected);
+}
+.tutor-message strong {
+  color: var(--primary);
+  font-size: 0.85rem;
+}
+.tutor-message p,
+.ai-attempt-feedback details p {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.tutor-starters {
+  margin: 0;
+}
+.tutor-starters button {
+  font-size: 0.8rem;
+}
+.tutor-transcript {
+  max-height: 55vh;
+  overflow: auto;
+  scrollbar-width: thin;
+}
+.tutor-error {
+  color: var(--text);
+  border-left: 3px solid #d97706;
+  padding-left: 9px;
+  margin: 12px 0;
+}
+.ai-attempt-feedback {
+  margin: 18px 0;
+  display: grid;
+  gap: 12px;
+}
+.ai-attempt-feedback .studio-button {
+  justify-self: start;
+}
+.ai-attempt-feedback h2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.review-criterion {
+  padding: 12px;
+  border-left: 2px solid var(--primary);
+  background: var(--soft);
+  border-radius: 4px;
+}
+.ai-attempt-feedback ul {
+  list-style: disc;
+  margin-left: 22px;
+}
+.ai-attempt-feedback li {
+  margin: 4px 0;
+}
+.ai-attempt-feedback h3 {
+  margin-bottom: 6px;
+}
+.ai-attempt-feedback summary {
+  cursor: pointer;
+}
+@media (max-width: 620px) {
+  .tutor-message {
+    max-width: 95%;
+  }
+  .tutor-modes .studio-button {
+    font-size: 12px;
+    padding: 7px 9px;
+  }
+}

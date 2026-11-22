@@ -1,0 +1,3 @@
+import {AttemptFeedback} from "@/features/tutor/AttemptFeedback";
+import {notFound} from "next/navigation";import {loadPractice} from "@/server/content/practice";import {requireAuth} from "@/server/auth/current";import {ExerciseView} from "@/features/practice/ExerciseView";
+export default async function Page({params}:{params:Promise<{id:string}>}){const a=await requireAuth();const id=Number((await params).id);if(!Number.isSafeInteger(id))notFound();const work=await loadPractice(a.userId,id);if(!work)notFound();return <><ExerciseView key={work.id+"-"+work.finished} work={work}/>{work.finished && (work.skill==="writing"||work.skill==="speaking") && <AttemptFeedback attemptId={id}/>}</>;}

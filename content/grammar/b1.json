@@ -1,0 +1,1574 @@
+[
+  {
+    "slug": "grammar-b1-present-perfect-and-life-experience",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Present perfect and life experience",
+    "description": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple.",
+    "minutes": 12,
+    "topic": "Present perfect and life experience",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-present-perfect-and-life-experience-practice",
+        "title": "Present perfect and life experience",
+        "body": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time.\n\nКогда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple.\n\nExamples\n• Have you ever stayed in a lighthouse?\n• We stayed in one last April.\n\nЧастая ошибка\nI have written to her yesterday → I wrote to her yesterday. Yesterday называет законченное время.",
+        "questions": [
+          {
+            "id": "grammar-b1-present-perfect-and-life-experience-1",
+            "kind": "multiple-choice",
+            "prompt": "Last winter we ___ the ice museum.",
+            "options": [
+              "have visited",
+              "visited"
+            ],
+            "accepted": [
+              "visited"
+            ],
+            "explanation": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple. Пример: Last winter we visited the ice museum.",
+            "evidence": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time."
+          },
+          {
+            "id": "grammar-b1-present-perfect-and-life-experience-2",
+            "kind": "multiple-choice",
+            "prompt": "Has Pia ever ___ a camel?",
+            "options": [
+              "ridden",
+              "rode"
+            ],
+            "accepted": [
+              "ridden"
+            ],
+            "explanation": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple. Пример: Has Pia ever ridden a camel?",
+            "evidence": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time."
+          },
+          {
+            "id": "grammar-b1-present-perfect-and-life-experience-3",
+            "kind": "fill-blank",
+            "prompt": "I ___ the author in 2019.  (Use one of these forms: have met / met.)",
+            "options": [],
+            "accepted": [
+              "met"
+            ],
+            "explanation": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple. Пример: I met the author in 2019.",
+            "evidence": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time."
+          },
+          {
+            "id": "grammar-b1-present-perfect-and-life-experience-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "They have never saw a working watermill.",
+              "They have never seen a working watermill."
+            ],
+            "accepted": [
+              "They have never seen a working watermill."
+            ],
+            "explanation": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple. Пример: They have never seen a working watermill.",
+            "evidence": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time."
+          },
+          {
+            "id": "grammar-b1-present-perfect-and-life-experience-5",
+            "kind": "multiple-choice",
+            "prompt": "Did you ___ the ferry yesterday?",
+            "options": [
+              "take",
+              "taken"
+            ],
+            "accepted": [
+              "take"
+            ],
+            "explanation": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple. Пример: Did you take the ferry yesterday?",
+            "evidence": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time."
+          },
+          {
+            "id": "grammar-b1-present-perfect-and-life-experience-6",
+            "kind": "multiple-choice",
+            "prompt": "He has ___ at three conferences so far.",
+            "options": [
+              "spoke",
+              "spoken"
+            ],
+            "accepted": [
+              "spoken"
+            ],
+            "explanation": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple. Пример: He has spoken at three conferences so far.",
+            "evidence": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time."
+          },
+          {
+            "id": "grammar-b1-present-perfect-and-life-experience-7",
+            "kind": "fill-blank",
+            "prompt": "She ___ here two years ago.  (Use one of these forms: has moved / moved.)",
+            "options": [],
+            "accepted": [
+              "moved"
+            ],
+            "explanation": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple. Пример: She moved here two years ago.",
+            "evidence": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time."
+          },
+          {
+            "id": "grammar-b1-present-perfect-and-life-experience-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Have the pupils written an interview before?",
+              "Have the pupils wrote an interview before?"
+            ],
+            "accepted": [
+              "Have the pupils written an interview before?"
+            ],
+            "explanation": "Когда важен опыт до настоящего момента, используйте have/has с третьей формой. Указание законченного времени, например last April, требует Past Simple. Пример: Have the pupils written an interview before?",
+            "evidence": "Use have or has plus a past participle for experience before now without a finished time. Use past simple when you state a finished past time."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-since-and-for",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Since and for",
+    "description": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect.",
+    "minutes": 12,
+    "topic": "Since and for",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-since-and-for-practice",
+        "title": "Since and for",
+        "body": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues.\n\nПосле since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect.\n\nExamples\n• We have known the guide since 2020.\n• She has owned this shop for a decade.\n\nЧастая ошибка\nsince five years → for five years. Пять лет — длительность, а не точка отсчёта.",
+        "questions": [
+          {
+            "id": "grammar-b1-since-and-for-1",
+            "kind": "multiple-choice",
+            "prompt": "We have lived here ___ September.",
+            "options": [
+              "since",
+              "for"
+            ],
+            "accepted": [
+              "since"
+            ],
+            "explanation": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect. Пример: We have lived here since September.",
+            "evidence": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues."
+          },
+          {
+            "id": "grammar-b1-since-and-for-2",
+            "kind": "multiple-choice",
+            "prompt": "The shop has been closed ___ three hours.",
+            "options": [
+              "since",
+              "for"
+            ],
+            "accepted": [
+              "for"
+            ],
+            "explanation": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect. Пример: The shop has been closed for three hours.",
+            "evidence": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues."
+          },
+          {
+            "id": "grammar-b1-since-and-for-3",
+            "kind": "fill-blank",
+            "prompt": "I have known Ayan ___ we were children.  (Use one of these forms: for / since.)",
+            "options": [],
+            "accepted": [
+              "since"
+            ],
+            "explanation": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect. Пример: I have known Ayan since we were children.",
+            "evidence": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues."
+          },
+          {
+            "id": "grammar-b1-since-and-for-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "She has taught art for most of her career.",
+              "She has taught art since most of her career."
+            ],
+            "accepted": [
+              "She has taught art for most of her career."
+            ],
+            "explanation": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect. Пример: She has taught art for most of her career.",
+            "evidence": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues."
+          },
+          {
+            "id": "grammar-b1-since-and-for-5",
+            "kind": "multiple-choice",
+            "prompt": "This route has operated ___ the new bridge opened.",
+            "options": [
+              "for",
+              "since"
+            ],
+            "accepted": [
+              "since"
+            ],
+            "explanation": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect. Пример: This route has operated since the new bridge opened.",
+            "evidence": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues."
+          },
+          {
+            "id": "grammar-b1-since-and-for-6",
+            "kind": "multiple-choice",
+            "prompt": "He has had that bike ___ six months.",
+            "options": [
+              "since",
+              "for"
+            ],
+            "accepted": [
+              "for"
+            ],
+            "explanation": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect. Пример: He has had that bike for six months.",
+            "evidence": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues."
+          },
+          {
+            "id": "grammar-b1-since-and-for-7",
+            "kind": "fill-blank",
+            "prompt": "The pool has been open ___ seven this morning.  (Use one of these forms: for / since.)",
+            "options": [],
+            "accepted": [
+              "since"
+            ],
+            "explanation": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect. Пример: The pool has been open since seven this morning.",
+            "evidence": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues."
+          },
+          {
+            "id": "grammar-b1-since-and-for-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "We have studied together since more than a year.",
+              "We have studied together for more than a year."
+            ],
+            "accepted": [
+              "We have studied together for more than a year."
+            ],
+            "explanation": "После since укажите начало периода: дату, момент или событие. После for нужна длительность. Для состояния, продолжающегося сейчас, подходит Present Perfect. Пример: We have studied together for more than a year.",
+            "evidence": "Since introduces a starting point; for introduces a length of time. With the present perfect they can describe a situation that still continues."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-first-conditional",
+    "version": 1,
+    "skill": "grammar",
+    "title": "First conditional",
+    "description": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами.",
+    "minutes": 12,
+    "topic": "First conditional",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-first-conditional-practice",
+        "title": "First conditional",
+        "body": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result.\n\nВ реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами.\n\nExamples\n• If the fog clears, the boat will leave.\n• We will wait if the pilot asks us to.\n\nЧастая ошибка\nIf it will rain, we'll move inside → If it rains, we'll move inside. После if здесь обычное условие о погоде.",
+        "questions": [
+          {
+            "id": "grammar-b1-first-conditional-1",
+            "kind": "multiple-choice",
+            "prompt": "If the hall ___ up, we will open another room.",
+            "options": [
+              "will fill",
+              "fills"
+            ],
+            "accepted": [
+              "fills"
+            ],
+            "explanation": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами. Пример: If the hall fills up, we will open another room.",
+            "evidence": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result."
+          },
+          {
+            "id": "grammar-b1-first-conditional-2",
+            "kind": "multiple-choice",
+            "prompt": "We will cancel the picnic if the wind ___ stronger.",
+            "options": [
+              "will get",
+              "gets"
+            ],
+            "accepted": [
+              "gets"
+            ],
+            "explanation": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами. Пример: We will cancel the picnic if the wind gets stronger.",
+            "evidence": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result."
+          },
+          {
+            "id": "grammar-b1-first-conditional-3",
+            "kind": "fill-blank",
+            "prompt": "If Mia arrives first, she will ___ the tickets.  (Use one of these forms: collect / collects.)",
+            "options": [],
+            "accepted": [
+              "collect"
+            ],
+            "explanation": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами. Пример: If Mia arrives first, she will collect the tickets.",
+            "evidence": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result."
+          },
+          {
+            "id": "grammar-b1-first-conditional-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "If they won't hurry, they will miss the briefing.",
+              "If they don't hurry, they will miss the briefing."
+            ],
+            "accepted": [
+              "If they don't hurry, they will miss the briefing."
+            ],
+            "explanation": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами. Пример: If they don't hurry, they will miss the briefing.",
+            "evidence": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result."
+          },
+          {
+            "id": "grammar-b1-first-conditional-5",
+            "kind": "multiple-choice",
+            "prompt": "The team will travel tomorrow if the road ___ clear.",
+            "options": [
+              "will be",
+              "is"
+            ],
+            "accepted": [
+              "is"
+            ],
+            "explanation": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами. Пример: The team will travel tomorrow if the road is clear.",
+            "evidence": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result."
+          },
+          {
+            "id": "grammar-b1-first-conditional-6",
+            "kind": "multiple-choice",
+            "prompt": "If the light goes out, the battery will ___ automatically.",
+            "options": [
+              "start",
+              "starts"
+            ],
+            "accepted": [
+              "start"
+            ],
+            "explanation": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами. Пример: If the light goes out, the battery will start automatically.",
+            "evidence": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result."
+          },
+          {
+            "id": "grammar-b1-first-conditional-7",
+            "kind": "fill-blank",
+            "prompt": "If Sam ___ a cheaper fare, we will book it.  (Use one of these forms: finds / will find.)",
+            "options": [],
+            "accepted": [
+              "finds"
+            ],
+            "explanation": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами. Пример: If Sam finds a cheaper fare, we will book it.",
+            "evidence": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result."
+          },
+          {
+            "id": "grammar-b1-first-conditional-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "I will send the map if you will need one.",
+              "I will send the map if you need one."
+            ],
+            "accepted": [
+              "I will send the map if you need one."
+            ],
+            "explanation": "В реальном условии о будущем после if обычно ставят Present Simple. Will относится к результату. Обе части можно поменять местами. Пример: I will send the map if you need one.",
+            "evidence": "Use if plus present simple to set a real future condition; will plus base verb can express its likely result."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-second-conditional",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Second conditional",
+    "description": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата.",
+    "minutes": 12,
+    "topic": "Second conditional",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-second-conditional-practice",
+        "title": "Second conditional",
+        "body": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future.\n\nКогда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата.\n\nExamples\n• If we had more space, we would grow tomatoes.\n• I would take the train if it ran at night.\n\nЧастая ошибка\nIf I would own a boat → If I owned a boat. В нейтральном вымышленном условии would относится к результату.",
+        "questions": [
+          {
+            "id": "grammar-b1-second-conditional-1",
+            "kind": "multiple-choice",
+            "prompt": "If I ___ this hotel, I would open the roof garden.",
+            "options": [
+              "would own",
+              "owned"
+            ],
+            "accepted": [
+              "owned"
+            ],
+            "explanation": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата. Пример: If I owned this hotel, I would open the roof garden.",
+            "evidence": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future."
+          },
+          {
+            "id": "grammar-b1-second-conditional-2",
+            "kind": "multiple-choice",
+            "prompt": "We would cycle there if the road ___ safer.",
+            "options": [
+              "were",
+              "would be"
+            ],
+            "accepted": [
+              "were"
+            ],
+            "explanation": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата. Пример: We would cycle there if the road were safer.",
+            "evidence": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future."
+          },
+          {
+            "id": "grammar-b1-second-conditional-3",
+            "kind": "fill-blank",
+            "prompt": "If prices fell, more people would ___ the island.  (Use one of these forms: visit / visited.)",
+            "options": [],
+            "accepted": [
+              "visit"
+            ],
+            "explanation": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата. Пример: If prices fell, more people would visit the island.",
+            "evidence": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future."
+          },
+          {
+            "id": "grammar-b1-second-conditional-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "If she would know the code, she would enter it.",
+              "If she knew the code, she would enter it."
+            ],
+            "accepted": [
+              "If she knew the code, she would enter it."
+            ],
+            "explanation": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата. Пример: If she knew the code, she would enter it.",
+            "evidence": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future."
+          },
+          {
+            "id": "grammar-b1-second-conditional-5",
+            "kind": "multiple-choice",
+            "prompt": "The room would feel larger if we ___ the screen.",
+            "options": [
+              "removed",
+              "would remove"
+            ],
+            "accepted": [
+              "removed"
+            ],
+            "explanation": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата. Пример: The room would feel larger if we removed the screen.",
+            "evidence": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future."
+          },
+          {
+            "id": "grammar-b1-second-conditional-6",
+            "kind": "multiple-choice",
+            "prompt": "If the station had a lift, he would ___ it.",
+            "options": [
+              "used",
+              "use"
+            ],
+            "accepted": [
+              "use"
+            ],
+            "explanation": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата. Пример: If the station had a lift, he would use it.",
+            "evidence": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future."
+          },
+          {
+            "id": "grammar-b1-second-conditional-7",
+            "kind": "fill-blank",
+            "prompt": "If you ___ closer, we could meet after class.  (Use one of these forms: lived / would live.)",
+            "options": [],
+            "accepted": [
+              "lived"
+            ],
+            "explanation": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата. Пример: If you lived closer, we could meet after class.",
+            "evidence": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future."
+          },
+          {
+            "id": "grammar-b1-second-conditional-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "I would take that course if it cost less.",
+              "I would take that course if it would cost less."
+            ],
+            "accepted": [
+              "I would take that course if it cost less."
+            ],
+            "explanation": "Когда вы представляете маловероятную или вымышленную ситуацию, форма прошедшего времени показывает дистанцию от реальности. Would ставится в части результата. Пример: I would take that course if it cost less.",
+            "evidence": "Use if plus past simple and would plus a base verb to imagine a different present or an unlikely future."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-defining-relative-clauses",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Defining relative clauses",
+    "description": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя.",
+    "minutes": 12,
+    "topic": "Defining relative clauses",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-defining-relative-clauses-practice",
+        "title": "Defining relative clauses",
+        "body": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted.\n\nОпределительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя.\n\nExamples\n• The worker who repaired the roof lives nearby.\n• Show me the key you found yesterday.\n\nЧастая ошибка\nthe guide who her map was lost → the guide whose map was lost. Whose уже выражает принадлежность.",
+        "questions": [
+          {
+            "id": "grammar-b1-defining-relative-clauses-1",
+            "kind": "multiple-choice",
+            "prompt": "A person ___ checks tickets works at the entrance.",
+            "options": [
+              "who",
+              "which"
+            ],
+            "accepted": [
+              "who"
+            ],
+            "explanation": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя. Пример: A person who checks tickets works at the entrance.",
+            "evidence": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted."
+          },
+          {
+            "id": "grammar-b1-defining-relative-clauses-2",
+            "kind": "multiple-choice",
+            "prompt": "The desk ___ blocks the exit must move.",
+            "options": [
+              "who",
+              "which"
+            ],
+            "accepted": [
+              "which"
+            ],
+            "explanation": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя. Пример: The desk which blocks the exit must move.",
+            "evidence": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted."
+          },
+          {
+            "id": "grammar-b1-defining-relative-clauses-3",
+            "kind": "fill-blank",
+            "prompt": "The student ___ essay won will read it aloud.  (Use one of these forms: who / whose.)",
+            "options": [],
+            "accepted": [
+              "whose"
+            ],
+            "explanation": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя. Пример: The student whose essay won will read it aloud.",
+            "evidence": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted."
+          },
+          {
+            "id": "grammar-b1-defining-relative-clauses-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The bus that stops here goes to the coast.",
+              "The bus whose stops here goes to the coast."
+            ],
+            "accepted": [
+              "The bus that stops here goes to the coast."
+            ],
+            "explanation": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя. Пример: The bus that stops here goes to the coast.",
+            "evidence": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted."
+          },
+          {
+            "id": "grammar-b1-defining-relative-clauses-5",
+            "kind": "multiple-choice",
+            "prompt": "We thanked the cook ___ made the soup.",
+            "options": [
+              "which",
+              "who"
+            ],
+            "accepted": [
+              "who"
+            ],
+            "explanation": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя. Пример: We thanked the cook who made the soup.",
+            "evidence": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted."
+          },
+          {
+            "id": "grammar-b1-defining-relative-clauses-6",
+            "kind": "multiple-choice",
+            "prompt": "Is this the book ___ you borrowed?",
+            "options": [
+              "whose",
+              "that"
+            ],
+            "accepted": [
+              "that"
+            ],
+            "explanation": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя. Пример: Is this the book that you borrowed?",
+            "evidence": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted."
+          },
+          {
+            "id": "grammar-b1-defining-relative-clauses-7",
+            "kind": "fill-blank",
+            "prompt": "The cyclist ___ wheel broke walked home.  (Use one of these forms: which / whose.)",
+            "options": [],
+            "accepted": [
+              "whose"
+            ],
+            "explanation": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя. Пример: The cyclist whose wheel broke walked home.",
+            "evidence": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted."
+          },
+          {
+            "id": "grammar-b1-defining-relative-clauses-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The path who follows the river is flat.",
+              "The path which follows the river is flat."
+            ],
+            "accepted": [
+              "The path which follows the river is flat."
+            ],
+            "explanation": "Определительное придаточное уточняет, какой человек или предмет имеется в виду. Whose связывает владельца с существительным; дополнение можно опустить, но подлежащее нельзя. Пример: The path which follows the river is flat.",
+            "evidence": "Use who or that for people, which or that for things, and whose for possession. A subject relative pronoun cannot be omitted."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-passive-voice-for-processes",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Passive voice for processes",
+    "description": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by.",
+    "minutes": 12,
+    "topic": "Passive voice for processes",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-passive-voice-for-processes-practice",
+        "title": "Passive voice for processes",
+        "body": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action.\n\nВ страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by.\n\nExamples\n• The labels are printed here.\n• The final design was chosen last week.\n\nЧастая ошибка\nThe box was send → The box was sent. После be нужен причастный, а не начальный вариант глагола.",
+        "questions": [
+          {
+            "id": "grammar-b1-passive-voice-for-processes-1",
+            "kind": "multiple-choice",
+            "prompt": "Every ticket is ___ at the gate.",
+            "options": [
+              "checking",
+              "checked"
+            ],
+            "accepted": [
+              "checked"
+            ],
+            "explanation": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by. Пример: Every ticket is checked at the gate.",
+            "evidence": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action."
+          },
+          {
+            "id": "grammar-b1-passive-voice-for-processes-2",
+            "kind": "multiple-choice",
+            "prompt": "These baskets ___ woven by hand.",
+            "options": [
+              "is",
+              "are"
+            ],
+            "accepted": [
+              "are"
+            ],
+            "explanation": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by. Пример: These baskets are woven by hand.",
+            "evidence": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action."
+          },
+          {
+            "id": "grammar-b1-passive-voice-for-processes-3",
+            "kind": "fill-blank",
+            "prompt": "The old theatre was ___ in 1920.  (Use one of these forms: build / built.)",
+            "options": [],
+            "accepted": [
+              "built"
+            ],
+            "explanation": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by. Пример: The old theatre was built in 1920.",
+            "evidence": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action."
+          },
+          {
+            "id": "grammar-b1-passive-voice-for-processes-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The boxes was delivered yesterday.",
+              "The boxes were delivered yesterday."
+            ],
+            "accepted": [
+              "The boxes were delivered yesterday."
+            ],
+            "explanation": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by. Пример: The boxes were delivered yesterday.",
+            "evidence": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action."
+          },
+          {
+            "id": "grammar-b1-passive-voice-for-processes-5",
+            "kind": "multiple-choice",
+            "prompt": "Local honey is ___ at the market.",
+            "options": [
+              "sell",
+              "sold"
+            ],
+            "accepted": [
+              "sold"
+            ],
+            "explanation": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by. Пример: Local honey is sold at the market.",
+            "evidence": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action."
+          },
+          {
+            "id": "grammar-b1-passive-voice-for-processes-6",
+            "kind": "multiple-choice",
+            "prompt": "The roof was repaired ___ two local builders.",
+            "options": [
+              "by",
+              "with by"
+            ],
+            "accepted": [
+              "by"
+            ],
+            "explanation": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by. Пример: The roof was repaired by two local builders.",
+            "evidence": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action."
+          },
+          {
+            "id": "grammar-b1-passive-voice-for-processes-7",
+            "kind": "fill-blank",
+            "prompt": "Plastic bottles are ___ on Fridays.  (Use one of these forms: collect / collected.)",
+            "options": [],
+            "accepted": [
+              "collected"
+            ],
+            "explanation": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by. Пример: Plastic bottles are collected on Fridays.",
+            "evidence": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action."
+          },
+          {
+            "id": "grammar-b1-passive-voice-for-processes-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The prizes were gave to the finalists.",
+              "The prizes were given to the finalists."
+            ],
+            "accepted": [
+              "The prizes were given to the finalists."
+            ],
+            "explanation": "В страдательном залоге в центре внимания объект действия. Выберите is/are или was/were, затем третью форму глагола. Исполнителя можно добавить через by. Пример: The prizes were given to the finalists.",
+            "evidence": "In a simple passive, be carries tense and agreement, and the main verb is a past participle. Focus on what receives the action."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-verb-patterns-with-ing-and-to",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Verb patterns with -ing and to",
+    "description": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола.",
+    "minutes": 12,
+    "topic": "Verb patterns with -ing and to",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-verb-patterns-with-ing-and-to-practice",
+        "title": "Verb patterns with -ing and to",
+        "body": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit.\n\nПосле enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола.\n\nExamples\n• She enjoys designing posters.\n• We decided to meet at the library.\n\nЧастая ошибка\nThey avoided to wait → They avoided waiting. Avoid требует формы на -ing.",
+        "questions": [
+          {
+            "id": "grammar-b1-verb-patterns-with-ing-and-to-1",
+            "kind": "multiple-choice",
+            "prompt": "We enjoy ___ along the canal.",
+            "options": [
+              "to walk",
+              "walking"
+            ],
+            "accepted": [
+              "walking"
+            ],
+            "explanation": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола. Пример: We enjoy walking along the canal.",
+            "evidence": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit."
+          },
+          {
+            "id": "grammar-b1-verb-patterns-with-ing-and-to-2",
+            "kind": "multiple-choice",
+            "prompt": "The group decided ___ before sunset.",
+            "options": [
+              "to leave",
+              "leaving"
+            ],
+            "accepted": [
+              "to leave"
+            ],
+            "explanation": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола. Пример: The group decided to leave before sunset.",
+            "evidence": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit."
+          },
+          {
+            "id": "grammar-b1-verb-patterns-with-ing-and-to-3",
+            "kind": "fill-blank",
+            "prompt": "I finished ___ the report.  (Use one of these forms: to write / writing.)",
+            "options": [],
+            "accepted": [
+              "writing"
+            ],
+            "explanation": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола. Пример: I finished writing the report.",
+            "evidence": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit."
+          },
+          {
+            "id": "grammar-b1-verb-patterns-with-ing-and-to-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "She hopes studying architecture.",
+              "She hopes to study architecture."
+            ],
+            "accepted": [
+              "She hopes to study architecture."
+            ],
+            "explanation": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола. Пример: She hopes to study architecture.",
+            "evidence": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit."
+          },
+          {
+            "id": "grammar-b1-verb-patterns-with-ing-and-to-5",
+            "kind": "multiple-choice",
+            "prompt": "Try to avoid ___ the new paint.",
+            "options": [
+              "touching",
+              "to touch"
+            ],
+            "accepted": [
+              "touching"
+            ],
+            "explanation": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола. Пример: Try to avoid touching the new paint.",
+            "evidence": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit."
+          },
+          {
+            "id": "grammar-b1-verb-patterns-with-ing-and-to-6",
+            "kind": "multiple-choice",
+            "prompt": "He plans ___ the exhibition tomorrow.",
+            "options": [
+              "visiting",
+              "to visit"
+            ],
+            "accepted": [
+              "to visit"
+            ],
+            "explanation": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола. Пример: He plans to visit the exhibition tomorrow.",
+            "evidence": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit."
+          },
+          {
+            "id": "grammar-b1-verb-patterns-with-ing-and-to-7",
+            "kind": "fill-blank",
+            "prompt": "They suggested ___ a later bus.  (Use one of these forms: taking / to take.)",
+            "options": [],
+            "accepted": [
+              "taking"
+            ],
+            "explanation": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола. Пример: They suggested taking a later bus.",
+            "evidence": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit."
+          },
+          {
+            "id": "grammar-b1-verb-patterns-with-ing-and-to-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Mira agreed to show us the workshop.",
+              "Mira agreed showing us the workshop."
+            ],
+            "accepted": [
+              "Mira agreed to show us the workshop."
+            ],
+            "explanation": "После enjoy, avoid, finish используется форма на -ing. После decide, hope, plan обычно нужен инфинитив с to. Форма зависит от первого глагола. Пример: Mira agreed to show us the workshop.",
+            "evidence": "Certain verbs select an -ing complement; others select a to-infinitive. Learn the verb and its pattern as one unit."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-indirect-questions",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Indirect questions",
+    "description": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает.",
+    "minutes": 12,
+    "topic": "Indirect questions",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-indirect-questions-practice",
+        "title": "Indirect questions",
+        "body": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question.\n\nВнутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает.\n\nExamples\n• Could you tell me where the bus stops?\n• Do you know whether the office is open?\n\nЧастая ошибка\nDo you know where is it? → Do you know where it is? Инверсия относится только к внешнему вопросу.",
+        "questions": [
+          {
+            "id": "grammar-b1-indirect-questions-1",
+            "kind": "multiple-choice",
+            "prompt": "Do you know where ___?",
+            "options": [
+              "the lift is",
+              "is the lift"
+            ],
+            "accepted": [
+              "the lift is"
+            ],
+            "explanation": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает. Пример: Do you know where the lift is?",
+            "evidence": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question."
+          },
+          {
+            "id": "grammar-b1-indirect-questions-2",
+            "kind": "multiple-choice",
+            "prompt": "Could you tell me when ___?",
+            "options": [
+              "does the film start",
+              "the film starts"
+            ],
+            "accepted": [
+              "the film starts"
+            ],
+            "explanation": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает. Пример: Could you tell me when the film starts?",
+            "evidence": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question."
+          },
+          {
+            "id": "grammar-b1-indirect-questions-3",
+            "kind": "fill-blank",
+            "prompt": "I wonder if ___.  (Use one of these forms: have they arrived / they have arrived.)",
+            "options": [],
+            "accepted": [
+              "they have arrived"
+            ],
+            "explanation": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает. Пример: I wonder if they have arrived.",
+            "evidence": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question."
+          },
+          {
+            "id": "grammar-b1-indirect-questions-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Do you remember how much the pass cost?",
+              "Do you remember how much did the pass cost?"
+            ],
+            "accepted": [
+              "Do you remember how much the pass cost?"
+            ],
+            "explanation": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает. Пример: Do you remember how much the pass cost?",
+            "evidence": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question."
+          },
+          {
+            "id": "grammar-b1-indirect-questions-5",
+            "kind": "multiple-choice",
+            "prompt": "Can you tell us why ___?",
+            "options": [
+              "did she leave",
+              "she left"
+            ],
+            "accepted": [
+              "she left"
+            ],
+            "explanation": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает. Пример: Can you tell us why she left?",
+            "evidence": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question."
+          },
+          {
+            "id": "grammar-b1-indirect-questions-6",
+            "kind": "multiple-choice",
+            "prompt": "I would like to know whether ___.",
+            "options": [
+              "do we need tickets",
+              "we need tickets"
+            ],
+            "accepted": [
+              "we need tickets"
+            ],
+            "explanation": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает. Пример: I would like to know whether we need tickets.",
+            "evidence": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question."
+          },
+          {
+            "id": "grammar-b1-indirect-questions-7",
+            "kind": "fill-blank",
+            "prompt": "Do you know which bus ___?  (Use one of these forms: does he take / he takes.)",
+            "options": [],
+            "accepted": [
+              "he takes"
+            ],
+            "explanation": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает. Пример: Do you know which bus he takes?",
+            "evidence": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question."
+          },
+          {
+            "id": "grammar-b1-indirect-questions-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Could you explain how does this button work?",
+              "Could you explain how this button works?"
+            ],
+            "accepted": [
+              "Could you explain how this button works?"
+            ],
+            "explanation": "Внутри косвенного вопроса порядок прямой: подлежащее, затем сказуемое. Do/does/did внутри такой части обычно исчезает. Пример: Could you explain how this button works?",
+            "evidence": "After a question opener such as Could you tell me, use statement word order in the embedded clause. Use if or whether for a yes/no question."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-past-perfect-sequence",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Past perfect sequence",
+    "description": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола.",
+    "minutes": 12,
+    "topic": "Past perfect sequence",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-past-perfect-sequence-practice",
+        "title": "Past perfect sequence",
+        "body": "Use had plus a past participle to make clear that one event was already complete before a past reference point.\n\nPast Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола.\n\nExamples\n• When the rescue team arrived, the tide had risen.\n• She discovered that someone had moved the sign.\n\nЧастая ошибка\nThey had went home → They had gone home. После had используется gone.",
+        "questions": [
+          {
+            "id": "grammar-b1-past-perfect-sequence-1",
+            "kind": "multiple-choice",
+            "prompt": "By the time we took our seats, the show had ___.",
+            "options": [
+              "began",
+              "begun"
+            ],
+            "accepted": [
+              "begun"
+            ],
+            "explanation": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола. Пример: By the time we took our seats, the show had begun.",
+            "evidence": "Use had plus a past participle to make clear that one event was already complete before a past reference point."
+          },
+          {
+            "id": "grammar-b1-past-perfect-sequence-2",
+            "kind": "multiple-choice",
+            "prompt": "The road was wet because it ___ overnight.",
+            "options": [
+              "has rained",
+              "had rained"
+            ],
+            "accepted": [
+              "had rained"
+            ],
+            "explanation": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола. Пример: The road was wet because it had rained overnight.",
+            "evidence": "Use had plus a past participle to make clear that one event was already complete before a past reference point."
+          },
+          {
+            "id": "grammar-b1-past-perfect-sequence-3",
+            "kind": "fill-blank",
+            "prompt": "She found the envelope that I had ___ the day before.  (Use one of these forms: hid / hidden.)",
+            "options": [],
+            "accepted": [
+              "hidden"
+            ],
+            "explanation": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола. Пример: She found the envelope that I had hidden the day before.",
+            "evidence": "Use had plus a past participle to make clear that one event was already complete before a past reference point."
+          },
+          {
+            "id": "grammar-b1-past-perfect-sequence-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "When the staff returned, the visitors have gone.",
+              "When the staff returned, the visitors had gone."
+            ],
+            "accepted": [
+              "When the staff returned, the visitors had gone."
+            ],
+            "explanation": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола. Пример: When the staff returned, the visitors had gone.",
+            "evidence": "Use had plus a past participle to make clear that one event was already complete before a past reference point."
+          },
+          {
+            "id": "grammar-b1-past-perfect-sequence-5",
+            "kind": "multiple-choice",
+            "prompt": "The alarm failed because someone had ___ its battery.",
+            "options": [
+              "remove",
+              "removed"
+            ],
+            "accepted": [
+              "removed"
+            ],
+            "explanation": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола. Пример: The alarm failed because someone had removed its battery.",
+            "evidence": "Use had plus a past participle to make clear that one event was already complete before a past reference point."
+          },
+          {
+            "id": "grammar-b1-past-perfect-sequence-6",
+            "kind": "multiple-choice",
+            "prompt": "He recognised the singer because they ___ years earlier.",
+            "options": [
+              "had met",
+              "have met"
+            ],
+            "accepted": [
+              "had met"
+            ],
+            "explanation": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола. Пример: He recognised the singer because they had met years earlier.",
+            "evidence": "Use had plus a past participle to make clear that one event was already complete before a past reference point."
+          },
+          {
+            "id": "grammar-b1-past-perfect-sequence-7",
+            "kind": "fill-blank",
+            "prompt": "Before the move, the family had ___ their piano.  (Use one of these forms: sell / sold.)",
+            "options": [],
+            "accepted": [
+              "sold"
+            ],
+            "explanation": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола. Пример: Before the move, the family had sold their piano.",
+            "evidence": "Use had plus a past participle to make clear that one event was already complete before a past reference point."
+          },
+          {
+            "id": "grammar-b1-past-perfect-sequence-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "By noon yesterday, the ice has melted completely.",
+              "By noon yesterday, the ice had melted completely."
+            ],
+            "accepted": [
+              "By noon yesterday, the ice had melted completely."
+            ],
+            "explanation": "Past Perfect отмечает более раннее из двух прошлых событий. Форма had одинакова для всех лиц. После неё ставьте третью форму глагола. Пример: By noon yesterday, the ice had melted completely.",
+            "evidence": "Use had plus a past participle to make clear that one event was already complete before a past reference point."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-used-to-and-past-habits",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Used to and past habits",
+    "description": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к».",
+    "minutes": 12,
+    "topic": "Used to and past habits",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-used-to-and-past-habits-practice",
+        "title": "Used to and past habits",
+        "body": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to.\n\nUsed to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к».\n\nExamples\n• There used to be a fountain here.\n• Did you use to live above the shop?\n\nЧастая ошибка\nShe used to working there → She used to work there. Для прошлой привычки нужен начальный глагол.",
+        "questions": [
+          {
+            "id": "grammar-b1-used-to-and-past-habits-1",
+            "kind": "multiple-choice",
+            "prompt": "This building used to ___ a library.",
+            "options": [
+              "housing",
+              "house"
+            ],
+            "accepted": [
+              "house"
+            ],
+            "explanation": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к». Пример: This building used to house a library.",
+            "evidence": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to."
+          },
+          {
+            "id": "grammar-b1-used-to-and-past-habits-2",
+            "kind": "multiple-choice",
+            "prompt": "Did they ___ to take that route?",
+            "options": [
+              "use",
+              "used"
+            ],
+            "accepted": [
+              "use"
+            ],
+            "explanation": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к». Пример: Did they use to take that route?",
+            "evidence": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to."
+          },
+          {
+            "id": "grammar-b1-used-to-and-past-habits-3",
+            "kind": "fill-blank",
+            "prompt": "I didn't ___ to like tea.  (Use one of these forms: use / used.)",
+            "options": [],
+            "accepted": [
+              "use"
+            ],
+            "explanation": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к». Пример: I didn't use to like tea.",
+            "evidence": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to."
+          },
+          {
+            "id": "grammar-b1-used-to-and-past-habits-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Our street used to being much quieter.",
+              "Our street used to be much quieter."
+            ],
+            "accepted": [
+              "Our street used to be much quieter."
+            ],
+            "explanation": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к». Пример: Our street used to be much quieter.",
+            "evidence": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to."
+          },
+          {
+            "id": "grammar-b1-used-to-and-past-habits-5",
+            "kind": "multiple-choice",
+            "prompt": "When we were little, we ___ play by the pier.",
+            "options": [
+              "used to",
+              "are used to"
+            ],
+            "accepted": [
+              "used to"
+            ],
+            "explanation": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к». Пример: When we were little, we used to play by the pier.",
+            "evidence": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to."
+          },
+          {
+            "id": "grammar-b1-used-to-and-past-habits-6",
+            "kind": "multiple-choice",
+            "prompt": "Did your neighbour use to ___ science?",
+            "options": [
+              "teaching",
+              "teach"
+            ],
+            "accepted": [
+              "teach"
+            ],
+            "explanation": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к». Пример: Did your neighbour use to teach science?",
+            "evidence": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to."
+          },
+          {
+            "id": "grammar-b1-used-to-and-past-habits-7",
+            "kind": "fill-blank",
+            "prompt": "The old bus used to ___ outside our gate.  (Use one of these forms: stop / stopped.)",
+            "options": [],
+            "accepted": [
+              "stop"
+            ],
+            "explanation": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к». Пример: The old bus used to stop outside our gate.",
+            "evidence": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to."
+          },
+          {
+            "id": "grammar-b1-used-to-and-past-habits-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "He didn't use to carry a phone.",
+              "He didn't use to carrying a phone."
+            ],
+            "accepted": [
+              "He didn't use to carry a phone."
+            ],
+            "explanation": "Used to описывает прежнее состояние или привычку. После did используйте use без d. Не путайте с be used to, которое означает «быть привычным к». Пример: He didn't use to carry a phone.",
+            "evidence": "Use used to plus a base verb for a past habit or state that has changed. After did or didn't, write use to."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-too-and-enough",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Too and enough",
+    "description": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным.",
+    "minutes": 12,
+    "topic": "Too and enough",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-too-and-enough-practice",
+        "title": "Too and enough",
+        "body": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun.\n\nToo обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным.\n\nExamples\n• The shelf is too high for me to reach.\n• We have enough time to walk there.\n\nЧастая ошибка\nenough warm to swim → warm enough to swim. После прилагательного ставится enough.",
+        "questions": [
+          {
+            "id": "grammar-b1-too-and-enough-1",
+            "kind": "multiple-choice",
+            "prompt": "The box is light ___ for a child to lift easily.",
+            "options": [
+              "enough",
+              "too"
+            ],
+            "accepted": [
+              "enough"
+            ],
+            "explanation": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным. Пример: The box is light enough for a child to lift easily.",
+            "evidence": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun."
+          },
+          {
+            "id": "grammar-b1-too-and-enough-2",
+            "kind": "multiple-choice",
+            "prompt": "There aren't ___ for everyone.",
+            "options": [
+              "seats enough",
+              "enough seats"
+            ],
+            "accepted": [
+              "enough seats"
+            ],
+            "explanation": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным. Пример: There aren't enough seats for everyone.",
+            "evidence": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun."
+          },
+          {
+            "id": "grammar-b1-too-and-enough-3",
+            "kind": "fill-blank",
+            "prompt": "The opening is ___ for the trolley to fit.  (Use one of these forms: narrow too / too narrow.)",
+            "options": [],
+            "accepted": [
+              "too narrow"
+            ],
+            "explanation": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным. Пример: The opening is too narrow for the trolley to fit.",
+            "evidence": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun."
+          },
+          {
+            "id": "grammar-b1-too-and-enough-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "She is experienced enough to lead the trip.",
+              "She is experienced enoughly to lead the trip."
+            ],
+            "accepted": [
+              "She is experienced enough to lead the trip."
+            ],
+            "explanation": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным. Пример: She is experienced enough to lead the trip.",
+            "evidence": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun."
+          },
+          {
+            "id": "grammar-b1-too-and-enough-5",
+            "kind": "multiple-choice",
+            "prompt": "We have ___ to cover the fee.",
+            "options": [
+              "money enough",
+              "enough money"
+            ],
+            "accepted": [
+              "enough money"
+            ],
+            "explanation": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным. Пример: We have enough money to cover the fee.",
+            "evidence": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun."
+          },
+          {
+            "id": "grammar-b1-too-and-enough-6",
+            "kind": "multiple-choice",
+            "prompt": "It was ___ to catch the last bus.",
+            "options": [
+              "late too",
+              "too late"
+            ],
+            "accepted": [
+              "too late"
+            ],
+            "explanation": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным. Пример: It was too late to catch the last bus.",
+            "evidence": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun."
+          },
+          {
+            "id": "grammar-b1-too-and-enough-7",
+            "kind": "fill-blank",
+            "prompt": "The water isn't warm ___ for swimming.  (Use one of these forms: enough / enoughly.)",
+            "options": [],
+            "accepted": [
+              "enough"
+            ],
+            "explanation": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным. Пример: The water isn't warm enough for swimming.",
+            "evidence": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun."
+          },
+          {
+            "id": "grammar-b1-too-and-enough-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Have we bought flour enough for both cakes?",
+              "Have we bought enough flour for both cakes?"
+            ],
+            "accepted": [
+              "Have we bought enough flour for both cakes?"
+            ],
+            "explanation": "Too обозначает степень, из-за которой что-то невозможно или нежелательно. Enough стоит после прилагательного, но перед существительным. Пример: Have we bought enough flour for both cakes?",
+            "evidence": "Too plus an adjective describes excess; enough after an adjective expresses sufficiency. Put enough before a noun."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b1-obligation-in-the-past",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Obligation in the past",
+    "description": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета.",
+    "minutes": 12,
+    "topic": "Obligation in the past",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio · original instructional content",
+    "license": "CC BY 4.0 · IELTS Studio",
+    "instructions": "Read the rule and examples. Complete all eight tasks. For text answers enter only the missing form.",
+    "cefr": "B1",
+    "sections": [
+      {
+        "id": "grammar-b1-obligation-in-the-past-practice",
+        "title": "Obligation in the past",
+        "body": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition.\n\nНе переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета.\n\nExamples\n• I had to show my pass yesterday.\n• We didn't have to print the form because a screen copy was fine.\n\nЧастая ошибка\nWe musted wait → We had to wait. Для прошлой необходимости используется had to.",
+        "questions": [
+          {
+            "id": "grammar-b1-obligation-in-the-past-1",
+            "kind": "multiple-choice",
+            "prompt": "Yesterday everyone ___ leave before six.",
+            "options": [
+              "musted",
+              "had to"
+            ],
+            "accepted": [
+              "had to"
+            ],
+            "explanation": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета. Пример: Yesterday everyone had to leave before six.",
+            "evidence": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition."
+          },
+          {
+            "id": "grammar-b1-obligation-in-the-past-2",
+            "kind": "multiple-choice",
+            "prompt": "The tour was free, so we ___ pay a compulsory fee.",
+            "options": [
+              "weren't allowed to",
+              "didn't have to"
+            ],
+            "accepted": [
+              "didn't have to"
+            ],
+            "explanation": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета. Пример: The tour was free, so we didn't have to pay a compulsory fee.",
+            "evidence": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition."
+          },
+          {
+            "id": "grammar-b1-obligation-in-the-past-3",
+            "kind": "fill-blank",
+            "prompt": "Because I was under sixteen, I ___ enter the age-restricted room.  (Use one of these forms: didn't have to / wasn't allowed to.)",
+            "options": [],
+            "accepted": [
+              "wasn't allowed to"
+            ],
+            "explanation": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета. Пример: Because I was under sixteen, I wasn't allowed to enter the age-restricted room.",
+            "evidence": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition."
+          },
+          {
+            "id": "grammar-b1-obligation-in-the-past-4",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "The rule required every guest to sign. They musted sign.",
+              "The rule required every guest to sign. They had to sign."
+            ],
+            "accepted": [
+              "The rule required every guest to sign. They had to sign."
+            ],
+            "explanation": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета. Пример: The rule required every guest to sign. They had to sign.",
+            "evidence": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition."
+          },
+          {
+            "id": "grammar-b1-obligation-in-the-past-5",
+            "kind": "multiple-choice",
+            "prompt": "Did she ___ show her ticket?",
+            "options": [
+              "had to",
+              "have to"
+            ],
+            "accepted": [
+              "have to"
+            ],
+            "explanation": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета. Пример: Did she have to show her ticket?",
+            "evidence": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition."
+          },
+          {
+            "id": "grammar-b1-obligation-in-the-past-6",
+            "kind": "multiple-choice",
+            "prompt": "We didn't ___ collect the parcel in person.",
+            "options": [
+              "have to",
+              "had to"
+            ],
+            "accepted": [
+              "have to"
+            ],
+            "explanation": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета. Пример: We didn't have to collect the parcel in person.",
+            "evidence": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition."
+          },
+          {
+            "id": "grammar-b1-obligation-in-the-past-7",
+            "kind": "fill-blank",
+            "prompt": "My pass had expired, so I ___ apply again.  (Use one of these forms: had to / musted.)",
+            "options": [],
+            "accepted": [
+              "had to"
+            ],
+            "explanation": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета. Пример: My pass had expired, so I had to apply again.",
+            "evidence": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition."
+          },
+          {
+            "id": "grammar-b1-obligation-in-the-past-8",
+            "kind": "error-correction",
+            "prompt": "Choose the grammatically appropriate version for this context.",
+            "options": [
+              "Local children could enter free, so they must not to buy admission tickets.",
+              "Local children could enter free, so they didn't have to buy admission tickets."
+            ],
+            "accepted": [
+              "Local children could enter free, so they didn't have to buy admission tickets."
+            ],
+            "explanation": "Не переносите must в прошедшее время добавлением -ed. Используйте had to для обязанности, didn't have to для отсутствия необходимости и wasn't allowed to для запрета. Пример: Local children could enter free, so they didn't have to buy admission tickets.",
+            "evidence": "Had to expresses past necessity. Didn't have to means something was unnecessary; wasn't allowed to describes a past prohibition."
+          }
+        ]
+      }
+    ]
+  }
+]

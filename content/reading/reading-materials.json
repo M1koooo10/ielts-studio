@@ -1,0 +1,620 @@
+[
+  {
+    "slug": "reading-materials",
+    "version": 1,
+    "skill": "reading",
+    "title": "Reading 2 · Materials and markets",
+    "description": "Осмотр моста, реконструкция тканей и экономика проката.",
+    "minutes": 60,
+    "topic": "Architecture, heritage and economics",
+    "difficulty": "advanced",
+    "kind": "full-test",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Allow 60 minutes for 40 questions. Select one option or use the specified number of words from the passage. Choose NOT GIVEN if the statement cannot be judged from the information or views expressed.",
+    "sections": [
+      {
+        "id": "bridge",
+        "title": "Reading a timber bridge",
+        "body": "A. A bridge engineer standing on the bank of the Mere can see nearly every timber in the footbridge above her. That apparent advantage once encouraged a simple method of inspection: photograph the visible faces, circle the darkest areas and send a carpenter to replace them. On the first survey at Ash Crossing this produced a long list of costly repairs. When the carpenters opened three of the marked beams they found sound wood underneath a thin stained surface. Meanwhile a beam that looked pale and clean had softened around a joint. The contrast prompted the engineers to ask what a photograph was recording.\n\nB. The old bridge had a shallow roof above its central span. Rain reached the unroofed ends directly, but their surfaces often dried in a breeze. The central span looked better protected. Where two timbers met beneath the roof, however, wind could scarcely reach the narrow gap. Water entering along a bolt could remain in the joint long after the boards around it felt dry. The engineers began to distinguish the amount of rain hitting a surface from the length of time moisture stayed inside. An exposed surface could look weathered without sharing the weakness of a sheltered connection.\n\nC. They selected twelve joints of similar age and recorded the depth of a narrow probe inserted beside each bolt. To make repeated measurements comparable, the probe carried a stop ring set at a fixed distance from its tip. A spring in the handle limited the force applied. A probe entering deeply under that standard force indicated softer material. It did not identify what had caused the softness. Each joint was also given a code on a small metal tag, allowing a new inspector to locate it even if a board had been replaced and the grain in an earlier photograph no longer matched.\n\nD. Temperature and moisture sensors were installed at four of the twelve joints. A fine cable took readings to a small box under the walkway, where the values were stored on a memory card. The team chose these four joints to represent different positions on the bridge. They did not choose them because they were the four weakest. This point became important when a local paper reported that half of the bridge was in danger. The paper had counted two damp sensors out of four and treated the result as a survey of every timber. A selection designed to reveal contrasts cannot automatically give the frequency of a condition across a structure.\n\nE. Over the entrance to one sheltered joint the carpenter cut a short drip groove into a replaceable cover. Water travelling along the underside of the cover reached the groove and fell to the ground instead of following the bolt into the joint. A nearby joint with a similar cover was left as it was. In the following wet month the modified joint dried more quickly after showers, although its peak moisture reading changed little. The comparison was encouraging, but the team recorded the wind direction as well. A change in the direction from which showers arrived could partly imitate the effect of the groove.\n\nF. Replacing a timber brings another difficulty. If a stiff new beam sits alongside more flexible neighbours, loads can shift towards the new member. A repair that appears generous when judged in isolation may change the work done by the rest of the bridge. The most urgent joint would be supported temporarily, the affected timber repaired, and movement measured under an identical test load before the next repair began. Closing the bridge for one short interval per repair was inconvenient, especially for cyclists using the route to work. Yet simultaneous changes would make the source of any unexpected movement much harder to trace.\n\nG. Six months later the darkest timbers were still among the most frequently photographed features of the crossing. Photographs had not been abandoned. They offered an inexpensive record of accessible surfaces and helped the public recognise the work in progress. Their place had changed. At Ash Crossing a photograph now served as a map for returning to a spot, a probe as a test of resistance, and a sensor as a history of conditions at a particular point. None of these instruments, taken alone, could issue a sensible order to replace a beam. The decision depended on how their accounts fitted together.",
+        "questions": [
+          {
+            "id": "bridge-1",
+            "kind": "true_false_not_given",
+            "prompt": "The carpenters found weakness underneath all three stained surfaces they opened.",
+            "accepted": [
+              "FALSE"
+            ],
+            "explanation": "Sound wood contradicts the proposed finding.",
+            "evidence": "sound wood underneath a thin stained surface",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "bridge-2",
+            "kind": "true_false_not_given",
+            "prompt": "A pale beam concealed damage.",
+            "accepted": [
+              "TRUE"
+            ],
+            "explanation": "The surface appearance gave no warning.",
+            "evidence": "a beam that looked pale and clean had softened around a joint",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "bridge-3",
+            "kind": "true_false_not_given",
+            "prompt": "The central roof was newer than the bolts.",
+            "accepted": [
+              "NOT GIVEN"
+            ],
+            "explanation": "No relative dates for the fittings are supplied.",
+            "evidence": "The old bridge had a shallow roof",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "bridge-4",
+            "kind": "matching_features",
+            "prompt": "Which instrument assessed resistance to penetration?",
+            "accepted": [
+              "Probe"
+            ],
+            "explanation": "Deep entry under a fixed force indicated softness.",
+            "evidence": "a probe as a test of resistance",
+            "options": [
+              "Photograph",
+              "Probe",
+              "Sensor"
+            ]
+          },
+          {
+            "id": "bridge-5",
+            "kind": "matching_features",
+            "prompt": "Which instrument provided a history of local conditions?",
+            "accepted": [
+              "Sensor"
+            ],
+            "explanation": "It took repeated readings at one joint.",
+            "evidence": "a sensor as a history of conditions at a particular point",
+            "options": [
+              "Photograph",
+              "Probe",
+              "Sensor"
+            ]
+          },
+          {
+            "id": "bridge-6",
+            "kind": "matching_features",
+            "prompt": "Which record helped inspectors find the same spot again by appearance?",
+            "accepted": [
+              "Photograph"
+            ],
+            "explanation": "Its surface image provided a reference.",
+            "evidence": "a photograph now served as a map for returning to a spot",
+            "options": [
+              "Photograph",
+              "Probe",
+              "Sensor"
+            ]
+          },
+          {
+            "id": "bridge-7",
+            "kind": "note_completion",
+            "prompt": "Equipment notes: A ___ was fixed at a known distance from the probe tip. Use TWO WORDS.",
+            "accepted": [
+              "stop ring"
+            ],
+            "explanation": "Keeping the setting constant made measurements comparable.",
+            "evidence": "a stop ring set at a fixed distance from its tip",
+            "maxWords": 2
+          },
+          {
+            "id": "bridge-8",
+            "kind": "note_completion",
+            "prompt": "Equipment notes: A ___ inside the handle restricted pressure. Use ONE WORD.",
+            "accepted": [
+              "spring"
+            ],
+            "explanation": "The spring controlled the test force.",
+            "evidence": "A spring in the handle limited the force applied.",
+            "maxWords": 1
+          },
+          {
+            "id": "bridge-9",
+            "kind": "note_completion",
+            "prompt": "Equipment notes: The box stored sensor values on a ___. Use TWO WORDS.",
+            "accepted": [
+              "memory card"
+            ],
+            "explanation": "The cable took the readings to the storage box.",
+            "evidence": "the values were stored on a memory card",
+            "maxWords": 2
+          },
+          {
+            "id": "bridge-10",
+            "kind": "multiple_choice",
+            "prompt": "What was the newspaper's error?",
+            "accepted": [
+              "Treating contrasting examples as representative"
+            ],
+            "explanation": "The sample was chosen to cover different positions.",
+            "evidence": "A selection designed to reveal contrasts cannot automatically give the frequency",
+            "options": [
+              "Measuring the wrong bridge",
+              "Treating contrasting examples as representative",
+              "Confusing cables with bolts",
+              "Counting every joint as dry"
+            ]
+          },
+          {
+            "id": "bridge-11",
+            "kind": "sentence_completion",
+            "prompt": "A change in shower direction might imitate the effect of the ___. Use ONE WORD.",
+            "accepted": [
+              "groove"
+            ],
+            "explanation": "Weather could affect the treated joint independently.",
+            "evidence": "partly imitate the effect of the groove",
+            "maxWords": 1
+          },
+          {
+            "id": "bridge-12",
+            "kind": "matching_information",
+            "prompt": "Which paragraph describes how strengthening one beam could affect adjacent ones?",
+            "accepted": [
+              "F"
+            ],
+            "explanation": "The stiffer member attracts extra load.",
+            "evidence": "loads can shift towards the new member",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "bridge-13",
+            "kind": "short_answer",
+            "prompt": "What feature of the moisture reading changed little despite faster drying? Use ONE WORD.",
+            "accepted": [
+              "peak"
+            ],
+            "explanation": "The highest value varied little.",
+            "evidence": "its peak moisture reading changed little",
+            "maxWords": 1
+          }
+        ]
+      },
+      {
+        "id": "dye",
+        "title": "A stripe in changing light",
+        "body": "A. A length of cloth in the Alder Street collection shows a rose-coloured stripe between two rows of grey diamonds. On the back the stripe looks darker than it does on the front. Museum visitors often take the front colour as a guide when imagining the garment in use. For a dyer trying to reproduce it, the difference poses a question. Was the stripe woven from two differently coloured threads, or has one face of a single thread changed through exposure? The answer matters if a reproduction is to show a plausible earlier appearance rather than simply match what hangs on the wall today.\n\nB. Conservator Leila Noor began with a loose thread that had already come away from a damaged edge. She was unwilling to cut a new sample. Under a microscope she followed a single length of yarn through a sequence of bends. At one bend the outside had become pale while the inside, previously pressed against a crossing thread, remained dark. No join or change of fibre was visible at the boundary. This favoured a change after weaving but could not identify the material in the dye bath: quite different substances can produce similar colours on wool.\n\nC. An apprentice's notebook from the same district seemed to offer an answer. One page described boiling a red root in water and straining the liquid through a cloth. Another advised adding a small quantity of a metal salt before the dyed yarn was left to dry. The pages were dated five years apart. To treat them as stages in one recipe would require an assumption that the notebook itself did not support. The writer might have been working for different customers or recording alternatives after a shortage. A copyist had later placed a tick beside both entries, but the tick said nothing about why they had originally been made.\n\nD. Dyer Niko Hart prepared three trial baths. All received equal lengths of wool from the same fleece. The first contained strained root liquid alone. The second contained the liquid and the salt. In the third bath Hart used the salt without the root, so that any colour arising from the salt itself could be recognised. He washed and dried the yarns in the same way. Initially the second yarn most closely resembled the sheltered bend on the museum thread. Hart regarded the match as a reason to continue testing, not as identification of an exact historic recipe.\n\nE. Exposure cards allowed the group to compare what happened next. Each trial yarn was wound onto a card and covered across its lower half with thick paper. The cards stood side by side in a window. Once a week the paper was lifted briefly in the same room, under the same lamp, and the visible difference was scored. Other cards were kept in a drawer as dark controls. By the end of the month the upper half of yarn from the first bath had faded more than the upper half from the second. The covered sections showed only slight changes. There was no independent measurement of the total light received at that particular window.\n\nF. A visible match can be unstable. A yarn that seems to match an old sample in daylight may look greener beneath an electric lamp. Exhibition designer Ellen Pike asked the team to inspect the two best candidate yarns under the lamps intended for the new gallery. One candidate that had looked convincing at the window now stood out sharply. If a visitor was to see the cloth and the reproduction side by side, that discrepancy mattered even though nothing physical had happened to the yarns during the walk between rooms. The appearance of a material depends partly on the light reaching the eye.\n\nG. The display uses narrow bands of the trial yarns alongside the folded edge of the original cloth. Its label gives the notebook dates and the conditions of the window experiment. It leaves the historic dye unnamed. This restraint does not mean that reconstruction is pointless. Working through the possibilities showed where earlier certainty had been misplaced. The exercise separated three achievements that can otherwise sound identical in a brochure: making a colour that looks similar now, finding a material that changes in a similar way, and establishing what a particular workshop actually used. Only the first two could be approached through the trials alone.",
+        "questions": [
+          {
+            "id": "dye-1",
+            "kind": "matching_information",
+            "prompt": "Which paragraph questions the assumption that separate written instructions belong together?",
+            "accepted": [
+              "C"
+            ],
+            "explanation": "Their dates and possible customers differ.",
+            "evidence": "The pages were dated five years apart.",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "dye-2",
+            "kind": "matching_information",
+            "prompt": "Which paragraph explains a problem that became visible under the proposed exhibition conditions?",
+            "accepted": [
+              "F"
+            ],
+            "explanation": "A candidate stopped looking convincing under gallery lighting.",
+            "evidence": "now stood out sharply",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "dye-3",
+            "kind": "matching_information",
+            "prompt": "Which paragraph distinguishes three possible claims for a reconstruction?",
+            "accepted": [
+              "G"
+            ],
+            "explanation": "Looking alike, changing alike and being historically identical are distinct claims.",
+            "evidence": "The exercise separated three achievements",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "dye-4",
+            "kind": "matching_features",
+            "prompt": "Who wanted to inspect candidates under gallery lamps?",
+            "accepted": [
+              "Ellen Pike"
+            ],
+            "explanation": "The designer checked the planned viewing conditions.",
+            "evidence": "Exhibition designer Ellen Pike asked the team to inspect",
+            "options": [
+              "Leila Noor",
+              "Niko Hart",
+              "Ellen Pike"
+            ]
+          },
+          {
+            "id": "dye-5",
+            "kind": "matching_features",
+            "prompt": "Who examined the hidden part of a bent museum thread?",
+            "accepted": [
+              "Leila Noor"
+            ],
+            "explanation": "The conservator traced the bends under a microscope.",
+            "evidence": "Conservator Leila Noor began with a loose thread",
+            "options": [
+              "Leila Noor",
+              "Niko Hart",
+              "Ellen Pike"
+            ]
+          },
+          {
+            "id": "dye-6",
+            "kind": "matching_features",
+            "prompt": "Who prepared a bath containing salt but no root?",
+            "accepted": [
+              "Niko Hart"
+            ],
+            "explanation": "The bath isolated the colour of the salt.",
+            "evidence": "In the third bath Hart used the salt without the root",
+            "options": [
+              "Leila Noor",
+              "Niko Hart",
+              "Ellen Pike"
+            ]
+          },
+          {
+            "id": "dye-7",
+            "kind": "flow_chart_completion",
+            "prompt": "Wind yarn on a card → cover the lower half with ___ → put in window. Use TWO WORDS.",
+            "accepted": [
+              "thick paper"
+            ],
+            "explanation": "The paper shielded the lower section.",
+            "evidence": "covered across its lower half with thick paper",
+            "maxWords": 2
+          },
+          {
+            "id": "dye-8",
+            "kind": "flow_chart_completion",
+            "prompt": "Lift covering → view under the same ___ → score the difference. Use ONE WORD.",
+            "accepted": [
+              "lamp"
+            ],
+            "explanation": "An unchanged lamp standardised observation.",
+            "evidence": "under the same lamp",
+            "maxWords": 1
+          },
+          {
+            "id": "dye-9",
+            "kind": "flow_chart_completion",
+            "prompt": "Reserve extra cards → put them in a ___ to exclude light. Use ONE WORD.",
+            "accepted": [
+              "drawer"
+            ],
+            "explanation": "The drawer excluded light from the control cards.",
+            "evidence": "Other cards were kept in a drawer as dark controls.",
+            "maxWords": 1
+          },
+          {
+            "id": "dye-10",
+            "kind": "true_false_not_given",
+            "prompt": "The team measured precisely how much light reached the cards.",
+            "accepted": [
+              "FALSE"
+            ],
+            "explanation": "They did not measure total exposure.",
+            "evidence": "no independent measurement of the total light",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "dye-11",
+            "kind": "true_false_not_given",
+            "prompt": "Wool in all three baths came from the same animal.",
+            "accepted": [
+              "TRUE"
+            ],
+            "explanation": "A common fleece was used.",
+            "evidence": "equal lengths of wool from the same fleece",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "dye-12",
+            "kind": "true_false_not_given",
+            "prompt": "The apprentice who wrote the notebook also wove the original cloth.",
+            "accepted": [
+              "NOT GIVEN"
+            ],
+            "explanation": "Common district does not establish the identity of the weaver.",
+            "evidence": "An apprentice's notebook from the same district",
+            "options": [
+              "TRUE",
+              "FALSE",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "dye-13",
+            "kind": "multiple_choice",
+            "prompt": "Why could the initial colour match not identify the historical dye?",
+            "accepted": [
+              "Several substances may yield similar colours."
+            ],
+            "explanation": "A visual likeness lacks a unique chemical explanation.",
+            "evidence": "quite different substances can produce similar colours on wool",
+            "options": [
+              "Several substances may yield similar colours.",
+              "The gallery lights failed.",
+              "Every sample was made of different fibres.",
+              "The second bath contained no wool."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "loans",
+        "title": "What a borrowed drill is worth",
+        "body": "A. When the council of New Quay opened a lending shed for tools it gave the staff a simple target: increase the number of loans each year. An electric drill borrowed on Friday and returned on Saturday counted as one success, just like a carpet cleaner lent for a week. In its third year the shed passed its target comfortably. Yet the volunteers who opened its doors every morning were uneasy about the celebration. Visitors had begun to leave empty-handed on Saturdays because the popular items were on loan. More transactions looked like good news, but they were a poor description of the people who could not make a transaction.\n\nB. A survey asked members what they would have done if the lending shed had never opened. Some said they would have bought equipment. Others would have borrowed from a neighbour, postponed the work or hired a professional. At first an analyst valued every loan at the price of a new tool. That calculation implicitly placed all borrowers in the first group. Replacing this assumption with the actual answers reduced the estimated savings. Even the revised figure needed caution. Saying after a successful repair that one would have bought a drill is easier than taking the money to a shop. The alternatives reported by respondents were possibilities, not observed purchases.\n\nC. To see the importance of time, consider two tools with identical purchase prices. The first is borrowed every weekend for an hour and remains on a shelf from Monday to Friday. The second spends a fortnight at one address while a wall dries between coats of paint. Judged by its number of loans the first tool wins easily. Judged by the proportion of time it is in a borrower's possession the second may win. Neither measure tells us whether the work was essential or whether another member was waiting. A more useful record would distinguish time in active use from time spent waiting for a task that could not yet be done.\n\nD. Technician Owen Bell drew attention to a different cost. A carpet cleaner has to be washed and checked after a return. If every borrower returns one at the closing bell, a working machine may still be unavailable throughout the following morning. Bell proposed reserving a cleaning interval in the booking calendar. Members could see when the machine would really be ready, and a staff member could be assigned in advance. The calendar would show fewer hours available for booking. That apparent reduction could improve reliability without changing the physical stock. Adding a second machine without arranging time to clean it would leave the underlying difficulty intact.\n\nE. Planner Saira Nair concentrated on access to the shed itself. A map of members' addresses suggested that households near the building borrowed most often. It did not reveal whether distance explained the difference. People near the building might be more likely to live in houses with gardens and therefore have more reason to borrow garden equipment. Nair proposed a temporary collection point at a bus interchange on the other side of town. For a trial month, half the eligible members in that district would receive the offer of collection there by lottery. Both groups would still have access to the original shed. Comparing them would provide a better estimate of the effect of removing part of the journey.\n\nF. The members' committee worried that most of the collection slots would be taken by people who had the freedom to book online during working hours. They requested that some slots be kept for telephone bookings in the evening. This changed the question for the trial. It was no longer simply whether a closer collection point increased borrowing. The outcome could also depend on the hours and method of booking. Recording the method chosen for each reservation would help the team interpret a difference. It would not in itself show what would happen if evening telephone bookings became the only option.\n\nG. In its next report the shed therefore kept the original count but placed it beside other figures. Staff listed unsuccessful requests, cleaning delays and the number of distinct households reached. The report also described several repairs that members said they had been able to make for the first time. Those accounts could explain why two identical loans had different consequences. They could not be added together as if they were prices on receipts. A lending service can sensibly care about all these outcomes while resisting the attraction of reducing them to a single total.",
+        "questions": [
+          {
+            "id": "loans-1",
+            "kind": "yes_no_not_given",
+            "prompt": "The writer believes rising loan totals alone demonstrate that access improved for everyone.",
+            "accepted": [
+              "NO"
+            ],
+            "explanation": "Unsuccessful visitors were absent from the count.",
+            "evidence": "they were a poor description of the people who could not make a transaction",
+            "options": [
+              "YES",
+              "NO",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "loans-2",
+            "kind": "yes_no_not_given",
+            "prompt": "The writer considers a borrower's hypothetical purchase less certain than an actual transaction.",
+            "accepted": [
+              "YES"
+            ],
+            "explanation": "The survey describes counterfactual decisions.",
+            "evidence": "possibilities, not observed purchases",
+            "options": [
+              "YES",
+              "NO",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "loans-3",
+            "kind": "yes_no_not_given",
+            "prompt": "The writer regards the lending shed as a better investment than a public library.",
+            "accepted": [
+              "NOT GIVEN"
+            ],
+            "explanation": "There is no comparison with library investment.",
+            "evidence": "A lending service can sensibly care about all these outcomes",
+            "options": [
+              "YES",
+              "NO",
+              "NOT GIVEN"
+            ]
+          },
+          {
+            "id": "loans-4",
+            "kind": "matching_headings",
+            "prompt": "Choose the best heading for paragraph C.",
+            "accepted": [
+              "Two measures that rank the same tools differently"
+            ],
+            "explanation": "Frequency and possession time imply different rankings.",
+            "evidence": "Judged by its number of loans the first tool wins easily.",
+            "options": [
+              "Two measures that rank the same tools differently",
+              "Why repairers require qualifications",
+              "A lottery to shorten the journey",
+              "A catalogue of purchase prices"
+            ]
+          },
+          {
+            "id": "loans-5",
+            "kind": "matching_headings",
+            "prompt": "Choose the best heading for paragraph E.",
+            "accepted": [
+              "Separating the effect of distance from the need for tools"
+            ],
+            "explanation": "A random offer helps distinguish distance from the composition of neighbourhoods.",
+            "evidence": "Comparing them would provide a better estimate of the effect of removing part of the journey.",
+            "options": [
+              "Rules for washing returned machines",
+              "Separating the effect of distance from the need for tools",
+              "Trends in professional repair prices",
+              "The removal of all garden equipment"
+            ]
+          },
+          {
+            "id": "loans-6",
+            "kind": "matching_sentence_endings",
+            "prompt": "Complete: Valuing each loan at the cost of a new tool assumes that every borrower…",
+            "accepted": [
+              "would otherwise have bought the item."
+            ],
+            "explanation": "The first group reported they would buy equipment.",
+            "evidence": "That calculation implicitly placed all borrowers in the first group.",
+            "options": [
+              "would otherwise have bought the item.",
+              "preferred to work on Saturdays.",
+              "was waiting for a wall to dry.",
+              "would have hired a professional."
+            ]
+          },
+          {
+            "id": "loans-7",
+            "kind": "matching_sentence_endings",
+            "prompt": "Complete: Holding cleaning time in the calendar means that staff…",
+            "accepted": [
+              "can plan when a machine will next be ready."
+            ],
+            "explanation": "The booking reflects necessary turnaround time.",
+            "evidence": "a staff member could be assigned in advance",
+            "options": [
+              "can plan when a machine will next be ready.",
+              "have to wash a new machine just once.",
+              "must keep two machines per borrower.",
+              "can dispense with inspections."
+            ]
+          },
+          {
+            "id": "loans-8",
+            "kind": "multiple_choice",
+            "prompt": "Why allocate the collection offer by lottery?",
+            "accepted": [
+              "To make the two eligible groups comparable"
+            ],
+            "explanation": "Random allocation helps separate access from household characteristics.",
+            "evidence": "half the eligible members in that district would receive the offer of collection there by lottery",
+            "options": [
+              "To favour residents with gardens",
+              "To make the two eligible groups comparable",
+              "To prevent original members using the shed",
+              "To identify the most expensive tool"
+            ]
+          },
+          {
+            "id": "loans-9",
+            "kind": "table_completion",
+            "prompt": "Complete with TWO WORDS. Trial plan | Location of temporary collection point: a ___.",
+            "accepted": [
+              "bus interchange"
+            ],
+            "explanation": "The interchange served the other side of town.",
+            "evidence": "a temporary collection point at a bus interchange",
+            "maxWords": 2
+          },
+          {
+            "id": "loans-10",
+            "kind": "table_completion",
+            "prompt": "Complete with ONE WORD. Trial plan | Method of allocating offers: ___.",
+            "accepted": [
+              "lottery"
+            ],
+            "explanation": "Random selection determined the offer.",
+            "evidence": "by lottery",
+            "maxWords": 1
+          },
+          {
+            "id": "loans-11",
+            "kind": "table_completion",
+            "prompt": "Complete with ONE WORD. Trial plan | Additional evening channel for bookings: ___.",
+            "accepted": [
+              "telephone"
+            ],
+            "explanation": "The committee requested phone access for some slots.",
+            "evidence": "telephone bookings in the evening",
+            "maxWords": 1
+          },
+          {
+            "id": "loans-12",
+            "kind": "short_answer",
+            "prompt": "Which adjective describes the requests excluded from the original count but listed in the next report? Use ONE WORD.",
+            "accepted": [
+              "unsuccessful"
+            ],
+            "explanation": "The comparison counts people turned away.",
+            "evidence": "Staff listed unsuccessful requests",
+            "maxWords": 1
+          },
+          {
+            "id": "loans-13",
+            "kind": "matching_information",
+            "prompt": "Which paragraph describes a potential inequality arising from the timing of online bookings?",
+            "accepted": [
+              "F"
+            ],
+            "explanation": "Availability during the workday was uneven.",
+            "evidence": "freedom to book online during working hours",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ]
+          },
+          {
+            "id": "loans-14",
+            "kind": "multiple_choice",
+            "prompt": "Why include accounts of particular repairs?",
+            "accepted": [
+              "To show why similar transactions may have different effects"
+            ],
+            "explanation": "Examples make benefits visible without attaching unjustified prices.",
+            "evidence": "Those accounts could explain why two identical loans had different consequences.",
+            "options": [
+              "To replace every numerical measure",
+              "To identify customers for fines",
+              "To show why similar transactions may have different effects",
+              "To establish a fixed price for borrowing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

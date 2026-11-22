@@ -1,0 +1,214 @@
+[
+  {
+    "slug": "grammar-c1-negative-inversion",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Negative inversion",
+    "description": "После начального отрицательного наречия вспомогательный глагол ставится перед подлежащим.",
+    "minutes": 5,
+    "topic": "Negative inversion",
+    "difficulty": "advanced",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "C1",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Negative inversion",
+        "body": "После начального отрицательного наречия вспомогательный глагол ставится перед подлежащим.\n\nRarely have we seen such a rapid change.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "Never before ___ such a sharp drop in demand.",
+            "options": [
+              "had we recorded",
+              "we had recorded"
+            ],
+            "accepted": [
+              "had we recorded"
+            ],
+            "evidence": "После начального отрицательного наречия вспомогательный глагол ставится перед подлежащим.",
+            "explanation": "После начального отрицательного наречия вспомогательный глагол ставится перед подлежащим. Ответ: had we recorded"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "Not until the doors closed ___ the mistake.",
+            "options": [
+              "she noticed",
+              "did she notice"
+            ],
+            "accepted": [
+              "did she notice"
+            ],
+            "evidence": "После начального отрицательного наречия вспомогательный глагол ставится перед подлежащим.",
+            "explanation": "После начального отрицательного наречия вспомогательный глагол ставится перед подлежащим. Ответ: did she notice"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-c1-mixed-conditionals",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Mixed conditionals",
+    "description": "Прошлое условие может иметь результат в настоящем: if + Past Perfect, затем would + инфинитив.",
+    "minutes": 5,
+    "topic": "Mixed conditionals",
+    "difficulty": "advanced",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "C1",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Mixed conditionals",
+        "body": "Прошлое условие может иметь результат в настоящем: if + Past Perfect, затем would + инфинитив.\n\nIf I had accepted the offer, I would live in York now.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "If he ___ medicine then, he would be a doctor now.",
+            "options": [
+              "had studied",
+              "would study"
+            ],
+            "accepted": [
+              "had studied"
+            ],
+            "evidence": "Прошлое условие может иметь результат в настоящем: if + Past Perfect, затем would + инфинитив.",
+            "explanation": "Прошлое условие может иметь результат в настоящем: if + Past Perfect, затем would + инфинитив. Ответ: had studied"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "If we had kept the map, we ___ lost now.",
+            "options": [
+              "had not been",
+              "would not be"
+            ],
+            "accepted": [
+              "would not be"
+            ],
+            "evidence": "Прошлое условие может иметь результат в настоящем: if + Past Perfect, затем would + инфинитив.",
+            "explanation": "Прошлое условие может иметь результат в настоящем: if + Past Perfect, затем would + инфинитив. Ответ: would not be"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-c1-reporting-with-perfect-infinitives",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Reporting with perfect infinitives",
+    "description": "После is believed используйте to have + третью форму для события, которое произошло раньше сообщения.",
+    "minutes": 5,
+    "topic": "Reporting with perfect infinitives",
+    "difficulty": "advanced",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "C1",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Reporting with perfect infinitives",
+        "body": "После is believed используйте to have + третью форму для события, которое произошло раньше сообщения.\n\nThe bridge is believed to have collapsed in March.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "The archive is thought ___ in a fire two centuries ago.",
+            "options": [
+              "to have been destroyed",
+              "to have destroying"
+            ],
+            "accepted": [
+              "to have been destroyed"
+            ],
+            "evidence": "После is believed используйте to have + третью форму для события, которое произошло раньше сообщения.",
+            "explanation": "После is believed используйте to have + третью форму для события, которое произошло раньше сообщения. Ответ: to have been destroyed"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "The missing climbers are reported to have ___ shelter before the storm.",
+            "options": [
+              "find",
+              "found"
+            ],
+            "accepted": [
+              "found"
+            ],
+            "evidence": "После is believed используйте to have + третью форму для события, которое произошло раньше сообщения.",
+            "explanation": "После is believed используйте to have + третью форму для события, которое произошло раньше сообщения. Ответ: found"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-c1-conditional-inversion",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Conditional inversion",
+    "description": "В формальном условии можно убрать if и поставить had, were или should перед подлежащим.",
+    "minutes": 5,
+    "topic": "Conditional inversion",
+    "difficulty": "advanced",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "C1",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Conditional inversion",
+        "body": "В формальном условии можно убрать if и поставить had, were или should перед подлежащим.\n\nHad the figures been available, we would have cited them.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "___ the witness arrived earlier, the hearing could have continued.",
+            "options": [
+              "Had",
+              "Would"
+            ],
+            "accepted": [
+              "Had"
+            ],
+            "evidence": "В формальном условии можно убрать if и поставить had, were или should перед подлежащим.",
+            "explanation": "В формальном условии можно убрать if и поставить had, were или should перед подлежащим. Ответ: Had"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "___ further evidence to emerge, the committee would reopen the case.",
+            "options": [
+              "Had",
+              "Were"
+            ],
+            "accepted": [
+              "Were"
+            ],
+            "evidence": "В формальном условии можно убрать if и поставить had, were или should перед подлежащим.",
+            "explanation": "В формальном условии можно убрать if и поставить had, were или should перед подлежащим. Ответ: Were"
+          }
+        ]
+      }
+    ]
+  }
+]

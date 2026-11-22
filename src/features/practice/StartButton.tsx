@@ -1,0 +1,3 @@
+"use client";
+import {useState} from "react";import {useRouter} from "next/navigation";
+export function StartButton({slug}:{slug:string}){const [busy,setBusy]=useState(false),[error,setError]=useState(false);const router=useRouter();return <><button className="studio-button btn-blue" disabled={busy} onClick={async()=>{setBusy(true);setError(false);try{const r=await fetch("/api/practice",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({slug})});if(!r.ok)throw Error();router.push("/exercise/"+(await r.json()).id)}catch{setBusy(false);setError(true)}}}>{busy?"Открываем…":"Начать или продолжить"}</button>{error&&<span role="alert">Не удалось открыть занятие. Повторите попытку.</span>}</>}

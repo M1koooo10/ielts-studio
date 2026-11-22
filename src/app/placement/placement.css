@@ -1,0 +1,15 @@
+.placement {max-width:58rem;margin:0 auto;padding:clamp(1rem,4vw,3rem);line-height:1.55}
+.placement header {margin-bottom:1.2rem}
+.placement h1,.placement h2,.placement h3 {line-height:1.25;margin:.6em 0}
+.placement h1 {font-size:clamp(1.7rem,4vw,2.5rem)}
+.placement p,.placement details,.placement ol {margin:1em 0}
+.placement ol {list-style:decimal;padding-inline-start:1.5rem}
+.placement-grid {display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,12rem),1fr));gap:.75rem}
+.placement-field {min-width:0;border:0;padding:.6rem 0}
+.placement-field legend {font-weight:650}
+.placement-option {display:block;padding:.65rem;cursor:pointer}
+.placement textarea {display:block;width:100%;min-height:12rem;background:transparent;color:inherit;border:1px solid currentColor;border-radius:.7rem;padding:.8rem}
+.placement-passage {max-height:22rem;overflow:auto;padding:1rem;border-inline-start:3px solid #548ac9}
+.placement audio,.placement progress {display:block;width:100%;margin:.65rem 0}
+.placement th,.placement td {padding:.3rem .8rem;text-align:left}
+.placement summary {cursor:pointer;padding:.5rem 0}

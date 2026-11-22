@@ -1,0 +1,214 @@
+[
+  {
+    "slug": "grammar-b2-past-deduction",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Past deduction",
+    "description": "Для вывода о прошлом используйте must have или can't have и третью форму глагола.",
+    "minutes": 5,
+    "topic": "Past deduction",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "B2",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Past deduction",
+        "body": "Для вывода о прошлом используйте must have или can't have и третью форму глагола.\n\nThe door was locked from inside. Someone must have been there.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "The lights were on and we heard voices. Someone must ___ at home.",
+            "options": [
+              "have been",
+              "be yesterday"
+            ],
+            "accepted": [
+              "have been"
+            ],
+            "evidence": "Для вывода о прошлом используйте must have или can't have и третью форму глагола.",
+            "explanation": "Для вывода о прошлом используйте must have или can't have и третью форму глагола. Ответ: have been"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "The letter arrived yesterday. She can't ___ it this morning.",
+            "options": [
+              "has posted",
+              "have posted"
+            ],
+            "accepted": [
+              "have posted"
+            ],
+            "evidence": "Для вывода о прошлом используйте must have или can't have и третью форму глагола.",
+            "explanation": "Для вывода о прошлом используйте must have или can't have и третью форму глагола. Ответ: have posted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b2-third-conditional",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Third conditional",
+    "description": "Для нереального условия в прошлом используйте if + Past Perfect и would have + третью форму.",
+    "minutes": 5,
+    "topic": "Third conditional",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "B2",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Third conditional",
+        "body": "Для нереального условия в прошлом используйте if + Past Perfect и would have + третью форму.\n\nIf I had set an alarm, I would have caught the train.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "If the driver ___ the warning, she would have stopped.",
+            "options": [
+              "had seen",
+              "would have seen"
+            ],
+            "accepted": [
+              "had seen"
+            ],
+            "evidence": "Для нереального условия в прошлом используйте if + Past Perfect и would have + третью форму.",
+            "explanation": "Для нереального условия в прошлом используйте if + Past Perfect и would have + третью форму. Ответ: had seen"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "If we had booked earlier, we ___ less.",
+            "options": [
+              "had paid",
+              "would have paid"
+            ],
+            "accepted": [
+              "would have paid"
+            ],
+            "evidence": "Для нереального условия в прошлом используйте if + Past Perfect и would have + третью форму.",
+            "explanation": "Для нереального условия в прошлом используйте if + Past Perfect и would have + третью форму. Ответ: would have paid"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b2-future-perfect",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Future perfect",
+    "description": "Future Perfect описывает действие, которое завершится к определённому моменту в будущем.",
+    "minutes": 5,
+    "topic": "Future perfect",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "B2",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Future perfect",
+        "body": "Future Perfect описывает действие, которое завершится к определённому моменту в будущем.\n\nBy noon tomorrow, we will have finished the survey.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "Choose the form that explicitly marks completion by a future deadline: By Friday we ___ all the reports.",
+            "options": [
+              "will have checked",
+              "will be checking"
+            ],
+            "accepted": [
+              "will have checked"
+            ],
+            "evidence": "Future Perfect описывает действие, которое завершится к определённому моменту в будущем.",
+            "explanation": "Future Perfect описывает действие, которое завершится к определённому моменту в будущем. Ответ: will have checked"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "By the time you arrive, the last train will have ___.",
+            "options": [
+              "leave",
+              "left"
+            ],
+            "accepted": [
+              "left"
+            ],
+            "evidence": "Future Perfect описывает действие, которое завершится к определённому моменту в будущем.",
+            "explanation": "Future Perfect описывает действие, которое завершится к определённому моменту в будущем. Ответ: left"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-b2-non-defining-relative-clauses",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Non-defining relative clauses",
+    "description": "Дополнительная информация о человеке вводится через who, о предмете — через which. Такая часть отделяется запятыми.",
+    "minutes": 5,
+    "topic": "Non-defining relative clauses",
+    "difficulty": "intermediate",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "B2",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Non-defining relative clauses",
+        "body": "Дополнительная информация о человеке вводится через who, о предмете — через which. Такая часть отделяется запятыми.\n\nThe old theatre, which opened in 1910, is closing.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "My tutor, ___ grew up in Leeds, speaks three languages.",
+            "options": [
+              "who",
+              "that"
+            ],
+            "accepted": [
+              "who"
+            ],
+            "evidence": "Дополнительная информация о человеке вводится через who, о предмете — через which. Такая часть отделяется запятыми.",
+            "explanation": "Дополнительная информация о человеке вводится через who, о предмете — через which. Такая часть отделяется запятыми. Ответ: who"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "The main hall, ___ seats 200 people, is upstairs.",
+            "options": [
+              "what",
+              "which"
+            ],
+            "accepted": [
+              "which"
+            ],
+            "evidence": "Дополнительная информация о человеке вводится через who, о предмете — через which. Такая часть отделяется запятыми.",
+            "explanation": "Дополнительная информация о человеке вводится через who, о предмете — через which. Такая часть отделяется запятыми. Ответ: which"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "slug": "grammar-c2-counterfactual-distance-in-argument",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Counterfactual distance in argument",
+    "description": "В формальном аргументе were it not for вводит нынешнее препятствие, а had it not been for — условие прошлого.",
+    "minutes": 5,
+    "topic": "Counterfactual distance in argument",
+    "difficulty": "advanced",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "C2",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Counterfactual distance in argument",
+        "body": "В формальном аргументе were it not for вводит нынешнее препятствие, а had it not been for — условие прошлого.\n\nWere it not for the sampling bias, the present estimate would be convincing.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "Choose the form for a continuing limitation: ___ the ongoing selection bias, the claim would be persuasive.",
+            "options": [
+              "Were it not for",
+              "Had it not been for"
+            ],
+            "accepted": [
+              "Were it not for"
+            ],
+            "evidence": "В формальном аргументе were it not for вводит нынешнее препятствие, а had it not been for — условие прошлого.",
+            "explanation": "В формальном аргументе were it not for вводит нынешнее препятствие, а had it not been for — условие прошлого. Ответ: Were it not for"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "Choose the form for a completed intervention: ___ the timely appeal, the files would have been destroyed last year.",
+            "options": [
+              "Were it not for",
+              "Had it not been for"
+            ],
+            "accepted": [
+              "Had it not been for"
+            ],
+            "evidence": "В формальном аргументе were it not for вводит нынешнее препятствие, а had it not been for — условие прошлого.",
+            "explanation": "В формальном аргументе were it not for вводит нынешнее препятствие, а had it not been for — условие прошлого. Ответ: Had it not been for"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-c2-scope-of-negation",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Scope of negation",
+    "description": "Положение отрицания меняет охват утверждения. Not all допускает исключения, тогда как none исключает все случаи.",
+    "minutes": 5,
+    "topic": "Scope of negation",
+    "difficulty": "advanced",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "C2",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Scope of negation",
+        "body": "Положение отрицания меняет охват утверждения. Not all допускает исключения, тогда как none исключает все случаи.\n\nNot all estimates were revised: some stayed unchanged.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "Some claims survived scrutiny and others did not. Which summary preserves this distinction?",
+            "options": [
+              "Not all claims survived scrutiny.",
+              "No claims survived scrutiny."
+            ],
+            "accepted": [
+              "Not all claims survived scrutiny."
+            ],
+            "evidence": "Положение отрицания меняет охват утверждения. Not all допускает исключения, тогда как none исключает все случаи.",
+            "explanation": "Положение отрицания меняет охват утверждения. Not all допускает исключения, тогда как none исключает все случаи. Ответ: Not all claims survived scrutiny."
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "The panel ruled out certainty but left open the possibility of success. Which wording fits?",
+            "options": [
+              "Success is necessarily impossible.",
+              "Success is not necessarily impossible."
+            ],
+            "accepted": [
+              "Success is not necessarily impossible."
+            ],
+            "evidence": "Положение отрицания меняет охват утверждения. Not all допускает исключения, тогда как none исключает все случаи.",
+            "explanation": "Положение отрицания меняет охват утверждения. Not all допускает исключения, тогда как none исключает все случаи. Ответ: Success is not necessarily impossible."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-c2-concessive-inversion",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Concessive inversion",
+    "description": "В уступительной конструкции прилагательное или глагол выносится вперёд: persuasive though it sounds, try as she might.",
+    "minutes": 5,
+    "topic": "Concessive inversion",
+    "difficulty": "advanced",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "C2",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Concessive inversion",
+        "body": "В уступительной конструкции прилагательное или глагол выносится вперёд: persuasive though it sounds, try as she might.\n\nCompelling though the argument appears, its central premise remains untested.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "___ as the distinction may seem, it matters in practice.",
+            "options": [
+              "Subtle",
+              "Subtly"
+            ],
+            "accepted": [
+              "Subtle"
+            ],
+            "evidence": "В уступительной конструкции прилагательное или глагол выносится вперёд: persuasive though it sounds, try as she might.",
+            "explanation": "В уступительной конструкции прилагательное или глагол выносится вперёд: persuasive though it sounds, try as she might. Ответ: Subtle"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "___ as the reviewers might, they could find no independent confirmation.",
+            "options": [
+              "Tried",
+              "Try"
+            ],
+            "accepted": [
+              "Try"
+            ],
+            "evidence": "В уступительной конструкции прилагательное или глагол выносится вперёд: persuasive though it sounds, try as she might.",
+            "explanation": "В уступительной конструкции прилагательное или глагол выносится вперёд: persuasive though it sounds, try as she might. Ответ: Try"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grammar-c2-unreal-comparison-and-chronology",
+    "version": 1,
+    "skill": "grammar",
+    "title": "Unreal comparison and chronology",
+    "description": "После as if время помогает различать воображаемую ситуацию сейчас и воображаемое предшествующее событие.",
+    "minutes": 5,
+    "topic": "Unreal comparison and chronology",
+    "difficulty": "advanced",
+    "kind": "lesson",
+    "status": "ready",
+    "source": "IELTS Studio",
+    "license": "original",
+    "instructions": "Read the rule and example, then choose the answer that fits the sentence and intended meaning.",
+    "cefr": "C2",
+    "sections": [
+      {
+        "id": "practice",
+        "title": "Unreal comparison and chronology",
+        "body": "После as if время помогает различать воображаемую ситуацию сейчас и воображаемое предшествующее событие.\n\nHe spoke as if he had witnessed the signing, although he was born decades later.",
+        "questions": [
+          {
+            "id": "q1",
+            "kind": "multiple-choice",
+            "prompt": "Choose the form that places the imagined event before the critic's speech: She spoke as though she ___ the lost original herself.",
+            "options": [
+              "had examined",
+              "would examine tomorrow"
+            ],
+            "accepted": [
+              "had examined"
+            ],
+            "evidence": "После as if время помогает различать воображаемую ситуацию сейчас и воображаемое предшествующее событие.",
+            "explanation": "После as if время помогает различать воображаемую ситуацию сейчас и воображаемое предшествующее событие. Ответ: had examined"
+          },
+          {
+            "id": "q2",
+            "kind": "multiple-choice",
+            "prompt": "He treats a provisional estimate as if it ___ a proven fact. Choose the formal irrealis form.",
+            "options": [
+              "has been proving",
+              "were"
+            ],
+            "accepted": [
+              "were"
+            ],
+            "evidence": "После as if время помогает различать воображаемую ситуацию сейчас и воображаемое предшествующее событие.",
+            "explanation": "После as if время помогает различать воображаемую ситуацию сейчас и воображаемое предшествующее событие. Ответ: were"
+          }
+        ]
+      }
+    ]
+  }
+]
